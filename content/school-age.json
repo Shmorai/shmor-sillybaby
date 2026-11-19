@@ -1,0 +1,133 @@
+{
+  "updated": "2026-11-18",
+  "slug": "school-age",
+  "title": "School-Age Kids (5 to 8): Routines, Health and Learning",
+  "description": "Parenting 5 to 8 year olds: school routines, reading, friendships, sleep and activity guidelines, healthy eating, wobbly teeth, safety and screens, explained.",
+  "eyebrow": "5–8 years",
+  "h1": "School-age kids: 5 to 8 years",
+  "intro": "Reading takes off, friendships matter more and wobbly teeth arrive. Here is how to support your child through the early school years.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1595182747080-3b43712dd27d",
+    "alt": "A young girl riding a bicycle outdoors on a sunny day",
+    "credit": "Amber Faust",
+    "creditUrl": "https://unsplash.com/@amberfaust"
+  },
+  "sections": [
+    {
+      "h2": "What changes at 5 to 8",
+      "html": "<div class=\"cards-3\"><div class=\"mini pink\"><h3>Learning</h3><p>Reading, writing and number skills grow fast. Daily reading together still helps.</p></div><div class=\"mini sky\"><h3>Friendships</h3><p>Friends, fairness and rules become important; so does belonging.</p></div><div class=\"mini sun\"><h3>Body</h3><p>Baby teeth start falling out (often from around 6); coordination improves.</p></div><div class=\"mini mint\"><h3>Independence</h3><p>Dressing, packing a bag and small chores become possible.</p></div></div>"
+    },
+    {
+      "h2": "Sleep, activity and screens",
+      "html": "<ul><li><strong>Sleep:</strong> the AASM recommends 9 to 12 hours a night for children aged 6 to 12. A regular bedtime and screens out of the bedroom help.</li><li><strong>Activity:</strong> the UK Chief Medical Officers advise children and young people to average at least 60 minutes of moderate-to-vigorous activity a day across the week; US guidelines recommend 60 minutes or more daily for ages 6 to 17.</li><li><strong>Screens:</strong> make a family plan together (the AAP's free <a href=\"https://www.healthychildren.org/English/fmp/Pages/MediaPlan.aspx\" rel=\"noopener\" target=\"_blank\">Family Media Plan</a> is a good start), keep devices in shared spaces and protect sleep, meals and play.</li></ul>"
+    },
+    {
+      "h2": "Healthy eating and teeth",
+      "html": "<p>Offer three meals and healthy snacks, plenty of fruit and vegetables, and water or milk as main drinks. Supervise brushing twice a day with fluoride toothpaste until about age 7 (NHS), and keep up dental check-ups (NHS dental care is free for children in the UK). Adult molars often come through behind the baby teeth at around 6.</p>"
+    },
+    {
+      "h2": "Safety",
+      "html": "<ul><li><strong>Car:</strong> keep using a booster seat until the adult seat belt fits properly. UK law requires a child seat until 12 years old or 135cm; in the US most children need a booster until they are about 4 feet 9 inches (145cm) tall, and the AAP advises children under 13 ride in the back seat.</li><li><strong>Roads and bikes:</strong> practise crossings together and use a properly fitted helmet.</li><li><strong>Water:</strong> swimming lessons help, but always supervise near water.</li><li><strong>Online:</strong> use parental controls and talk about what to do if something online feels wrong.</li></ul>"
+    },
+    {
+      "h2": "When to ask for help",
+      "html": "<p>Talk to your child's teacher, school nurse, GP or paediatrician if you notice ongoing trouble with learning, speech, hearing, vision, behaviour, sleep or friendships. Free NHS eye tests are available for children under 16 in the UK.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Useful for 5 to 8 year olds",
+      "items": [
+        {
+          "icon": "car",
+          "title": "Booster seat",
+          "age": "Until the belt fits",
+          "text": "Keep using it until the adult belt fits properly.",
+          "checks": [
+            "High-back boosters give side support",
+            "UK law: child seat until 12 or 135cm",
+            "Lap belt low on the hips, shoulder belt mid-chest"
+          ],
+          "guide": "safety/car-seats"
+        },
+        {
+          "icon": "shield",
+          "title": "Bike and helmet",
+          "age": "5 y+",
+          "text": "Freedom on two wheels.",
+          "checks": [
+            "Child can touch the ground with the balls of their feet",
+            "Helmet meets EN 1078 / CPSC and is replaced after a crash",
+            "Lights and bright clothing for dark evenings"
+          ]
+        },
+        {
+          "icon": "file",
+          "title": "Books they choose",
+          "age": "5–8 y",
+          "text": "Choice builds reading habits.",
+          "checks": [
+            "Early readers and graphic novels count",
+            "Library cards are free",
+            "Read aloud even after they can read alone"
+          ],
+          "guide": "play-and-learning"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much sleep does a 7 year old need?",
+      "a": "The American Academy of Sleep Medicine recommends 9 to 12 hours a night for children aged 6 to 12. Signs your child needs more include grumpiness, trouble concentrating or being hard to wake."
+    },
+    {
+      "q": "When do children lose their first tooth?",
+      "a": "Often at around 6 years old, usually starting with the bottom front teeth, though anywhere from about 4 to 7 can be normal. Ask your dentist if you have concerns."
+    }
+  ],
+  "sources": [
+    {
+      "title": "American Academy of Sleep Medicine: Recommended amount of sleep for pediatric populations (2016)",
+      "url": "https://doi.org/10.5664/jcsm.5866"
+    },
+    {
+      "title": "UK Chief Medical Officers’ physical activity guidelines",
+      "url": "https://www.gov.uk/government/publications/physical-activity-guidelines-uk-chief-medical-officers-report"
+    },
+    {
+      "title": "AAP: Family Media Plan (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/fmp/Pages/MediaPlan.aspx"
+    },
+    {
+      "title": "NHS: Looking after your baby’s teeth",
+      "url": "https://www.nhs.uk/baby/babys-development/teething/looking-after-your-babys-teeth/"
+    },
+    {
+      "title": "GOV.UK: Child car seats, the law",
+      "url": "https://www.gov.uk/child-car-seats-the-rules"
+    },
+    {
+      "title": "AAP: Car seats, information for families (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx"
+    }
+  ],
+  "related": [
+    "big-kids",
+    "play-and-learning",
+    "safety/car-seats",
+    "preschool"
+  ],
+  "keywords": [
+    "school age children",
+    "5 year old",
+    "6 year old",
+    "7 year old",
+    "child sleep 6 to 12",
+    "kids activity guidelines",
+    "booster seat age",
+    "screen time kids"
+  ],
+  "cardText": "Reading, friends, sleep, teeth and staying safe."
+}

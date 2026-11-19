@@ -1,0 +1,206 @@
+{
+  "updated": "2026-11-18",
+  "slug": "newborn",
+  "title": "Newborn Baby Care Guide: The First 3 Months",
+  "description": "New baby? Our newborn care guide covers feeding, nappies (diapers), sleep, crying, jaundice, checks and your own recovery in the first 3 months, step by step.",
+  "eyebrow": "0–3 months",
+  "h1": "Newborn care: your first 3 months",
+  "intro": "Feeds around the clock, tiny nappies and the sleepiest little face. Here is what is normal in the newborn weeks, what to watch for and how to look after yourself too.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1773243086564-a444f7d8a61b",
+    "alt": "A parent holding a sleeping newborn baby near a window",
+    "credit": "Olivia Anne Snyder",
+    "creditUrl": "https://unsplash.com/@olivialu10"
+  },
+  "chips": [
+    {
+      "label": "Feeding",
+      "slug": "feeding"
+    },
+    {
+      "label": "Safe sleep",
+      "slug": "sleep/safe-sleep"
+    },
+    {
+      "label": "Nappies",
+      "slug": "care/nappy-changing"
+    },
+    {
+      "label": "Bath time",
+      "slug": "care/bathing-your-baby"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Feeding a newborn",
+      "html": "<p>Newborns have tiny tummies and feed often, day and night. Breastfed babies commonly feed 8 to 12 times or more in 24 hours in the early weeks, and many have “cluster feeds” in the evening. Formula-fed babies usually take small amounts often at first. Follow your baby's <a href=\"/feeding/\">hunger cues</a> rather than the clock.</p><p><strong>Signs feeding is going well</strong> (NHS): after the first few days your baby has plenty of wet nappies (at least 6 heavy wet nappies a day from around day 5), regular yellow poos, and is gaining weight after the first week. Most babies lose a little weight after birth and are back to their birth weight by about 2 weeks.</p><p>Read more: <a href=\"/feeding/breastfeeding/\">breastfeeding</a> · <a href=\"/feeding/formula-and-bottle-feeding/\">formula and bottle feeding</a>.</p><p class=\"callout tip\"><strong>Vitamin D:</strong> the NHS advises giving breastfed babies a daily vitamin D supplement (8.5 to 10 micrograms) from birth. Babies having more than 500ml of infant formula a day don't need it. In the US, the AAP recommends 400 IU a day for breastfed and partly breastfed babies.</p>"
+    },
+    {
+      "h2": "Sleep and safe sleep",
+      "html": "<p>Newborns sleep a lot, but in short stretches, and they don't know day from night yet. The National Sleep Foundation suggests 14 to 17 hours in 24 hours at this age, but there is a wide range of normal.</p><p>Every sleep, day and night: <strong>on the back, in a clear, flat cot, crib or Moses basket in the same room as you</strong>. See our <a href=\"/sleep/safe-sleep/\">safe sleep guide</a> and its simple diagram.</p>"
+    },
+    {
+      "h2": "Crying and colic",
+      "html": "<p>All babies cry, and crying usually increases from around 2 weeks and peaks at around 6 to 8 weeks before easing. Check the basics (hungry, wet or dirty nappy, too hot or cold, wind, tired), then try holding, rocking, gentle shushing, a walk or a warm bath.</p><p>If the crying is getting to you, put your baby down somewhere safe (on their back in the cot), step away for a few minutes and breathe. <strong>Never shake a baby.</strong> The UK's <a href=\"https://iconcope.org/\" rel=\"noopener\" target=\"_blank\">ICON programme</a> sums it up: babies cry, you can cope. Call your GP, health visitor or NHS 111 if the crying sounds different, or your baby seems unwell or isn't feeding. See our post on <a href=\"/blog/colic-signs-and-soothing/\">colic signs and soothing</a>.</p>"
+    },
+    {
+      "h2": "Newborn health checks and things to watch",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>When</th><th>UK</th><th>US</th></tr></thead><tbody><tr><td>First 72 hours</td><td>Newborn physical examination and hearing test</td><td>Newborn exam, hearing screen and newborn screening blood test (usually 24–48 hours)</td></tr><tr><td>Around day 5</td><td>Blood spot (heel prick) test</td><td>First well-baby visit at 3–5 days</td></tr><tr><td>10–14 days</td><td>New birth visit from a health visitor</td><td>Visit by 1 month</td></tr><tr><td>6–8 weeks</td><td>Physical check (GP); baby’s first vaccines are offered from 8 weeks</td><td>2-month well-baby visit and vaccines</td></tr></tbody></table></div><p><strong>Jaundice</strong> (yellow skin or eyes) is common in newborns and often harmless, but tell your midwife or GP the same day if you notice it, and get urgent advice if it appears in the first 24 hours or your baby has pale poo or dark yellow pee.</p><p><strong>Umbilical cord:</strong> keep the stump clean and dry; it usually drops off within the first couple of weeks. Ask your midwife if it looks red, swollen or smells.</p><p class=\"callout warn\"><strong>Get urgent help</strong> if your baby is under 3 months and has a temperature of 38°C (100.4°F) or higher, is floppy, hard to wake, struggling to breathe, has a rash that doesn't fade under a glass, or has a blue, grey or very pale colour. Call 999 / 911 / 112 in an emergency. See <a href=\"/health/fever-in-babies-and-children/\">fever in babies</a>.</p>"
+    },
+    {
+      "h2": "Everyday care",
+      "html": "<ul><li><strong>Nappies (diapers):</strong> change when wet or dirty and clean front to back. <a href=\"/care/nappy-changing/\">How to change a nappy</a>.</li><li><strong>Washing:</strong> a top-and-tail wash is enough on most days; a bath 2 or 3 times a week is plenty. <a href=\"/care/bathing-your-baby/\">Bath time guide</a>.</li><li><strong>Tummy time:</strong> short, supervised tummy time while awake, from the early weeks, helps build neck and shoulder strength.</li><li><strong>Out and about:</strong> babies travelling by car need a rear-facing infant car seat from the very first trip home. <a href=\"/safety/car-seats/\">Car seat guide</a>.</li></ul>"
+    },
+    {
+      "h2": "Looking after you",
+      "html": "<p>Feeling tearful, anxious or up and down in the first two weeks (the “baby blues”) is very common. If low mood, anxiety or intrusive thoughts last longer or feel overwhelming, it could be postnatal depression or anxiety, which is common, treatable and nothing to feel ashamed of. Tell your midwife, health visitor or GP.</p><ul><li><strong>UK:</strong> your GP or health visitor, NHS 111, or the charity <a href=\"https://pandasfoundation.org.uk/\" rel=\"noopener\" target=\"_blank\">PANDAS Foundation</a>.</li><li><strong>US:</strong> your OB or paediatrician, <a href=\"https://www.postpartum.net/\" rel=\"noopener\" target=\"_blank\">Postpartum Support International</a> (HelpLine 1-800-944-4773), the National Maternal Mental Health Hotline (1-833-TLC-MAMA), or 988 in a crisis.</li></ul><p>Accept help, rest when you can and keep a simple <a href=\"/baby-diary/\">feed and nappy diary</a> if it helps you feel on top of things.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Newborn kit that actually helps",
+      "intro": "You need less than you think. These are the newborn basics worth getting right, with what to check before you buy.",
+      "items": [
+        {
+          "icon": "house",
+          "title": "Cot, crib or Moses basket",
+          "age": "0–6 m",
+          "text": "Your baby’s own clear, flat sleep space, in your room.",
+          "checks": [
+            "Firm, flat, waterproof mattress that fits with no gaps",
+            "Meets current safety standards (look for BS EN 1130 / EN 716 in the UK and EU, or CPSC rules in the US)",
+            "No bumpers, pillows or inclined sleepers"
+          ],
+          "guide": "sleep/safe-sleep"
+        },
+        {
+          "icon": "star",
+          "title": "Sleep bag or swaddle",
+          "age": "0–6 m",
+          "text": "Keeps baby cosy without loose blankets.",
+          "checks": [
+            "Correct size for baby’s weight, fitted at the neck and armholes, no hood",
+            "A TOG rating suited to your room temperature",
+            "Stop swaddling as soon as baby shows signs of rolling"
+          ],
+          "guide": "blog/tog-ratings-explained",
+          "link": "cj8022425-sleep-sacks",
+          "cta": "Shop sleep sacks at Kaiya Baby"
+        },
+        {
+          "icon": "car",
+          "title": "Infant car seat",
+          "age": "From birth",
+          "text": "Needed from the first ride home.",
+          "checks": [
+            "Rear-facing, and meets UN R129 (i-Size) in the UK/EU or FMVSS 213 in the US",
+            "Fits your car (check the maker’s vehicle list)",
+            "Avoid second-hand seats unless you know their full history"
+          ],
+          "guide": "safety/car-seats"
+        },
+        {
+          "icon": "droplet",
+          "title": "Feeding basics",
+          "age": "0–12 m",
+          "text": "Depends on how you feed.",
+          "checks": [
+            "Breastfeeding: comfortable bras, breast pads, nipple cream if needed",
+            "Bottles: first infant formula, bottles, teats and a way to sterilise",
+            "Muslins or burp cloths (you’ll use lots)"
+          ],
+          "guide": "feeding"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How often should a newborn feed?",
+      "a": "Often. Breastfed newborns commonly feed 8 to 12 times or more in 24 hours; formula-fed babies take smaller amounts often at first. Feed responsively when your baby shows hunger cues, and ask your midwife or health visitor if you are unsure your baby is getting enough."
+    },
+    {
+      "q": "When should I worry about a newborn’s temperature?",
+      "a": "If your baby is under 3 months and has a temperature of 38°C (100.4°F) or higher, get medical advice urgently (call your GP or NHS 111 in the UK, or your paediatrician in the US). Call 999 / 911 if they are floppy, hard to wake or struggling to breathe."
+    },
+    {
+      "q": "When do babies first smile?",
+      "a": "Many babies give their first social smiles at around 6 to 8 weeks. By 2 months, the CDC lists “smiles when you talk to or smile at them” as a milestone most babies reach."
+    },
+    {
+      "q": "How many wet nappies should a newborn have?",
+      "a": "The NHS says that from around day 5, a baby who is feeding well should have at least 6 heavy wet nappies every 24 hours, plus regular yellow poos. Fewer wet nappies can be a sign your baby isn’t getting enough milk, so speak to your midwife."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Your baby after the birth (Start for Life / Pregnancy, birth and beyond)",
+      "url": "https://www.nhs.uk/baby/"
+    },
+    {
+      "title": "NHS Start for Life",
+      "url": "https://www.nhs.uk/start-for-life/"
+    },
+    {
+      "title": "NHS: Newborn jaundice",
+      "url": "https://www.nhs.uk/conditions/jaundice-newborn/"
+    },
+    {
+      "title": "NHS: Newborn blood spot test (heel prick)",
+      "url": "https://www.nhs.uk/baby/newborn-screening/blood-spot-test/"
+    },
+    {
+      "title": "NHS: Vitamins for children",
+      "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/vitamins-for-children/"
+    },
+    {
+      "title": "The Lullaby Trust: Safer sleep advice",
+      "url": "https://www.lullabytrust.org.uk/safer-sleep-advice/"
+    },
+    {
+      "title": "AAP: How to keep your sleeping baby safe (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+    },
+    {
+      "title": "National Sleep Foundation: How much sleep do babies and kids need?",
+      "url": "https://www.thensf.org/how-many-hours-of-sleep-do-you-really-need/"
+    },
+    {
+      "title": "ICON: Babies cry, you can cope",
+      "url": "https://iconcope.org/"
+    },
+    {
+      "title": "NHS: Postnatal depression",
+      "url": "https://www.nhs.uk/mental-health/conditions/post-natal-depression/overview/"
+    },
+    {
+      "title": "Postpartum Support International",
+      "url": "https://www.postpartum.net/"
+    },
+    {
+      "title": "AAP Bright Futures: Well-child visits (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/family-life/health-management/Pages/Well-Child-Care-A-Check-Up-for-Success.aspx"
+    }
+  ],
+  "related": [
+    "feeding/breastfeeding",
+    "sleep/safe-sleep",
+    "baby-diary",
+    "blog/first-week-with-a-newborn"
+  ],
+  "keywords": [
+    "newborn care",
+    "newborn baby",
+    "first time mom",
+    "first time mum",
+    "newborn feeding",
+    "newborn sleep",
+    "newborn jaundice",
+    "wet nappies newborn",
+    "baby blues",
+    "postnatal depression"
+  ],
+  "cardText": "Feeds, nappies, sleep, crying, checks and your own recovery.",
+  "partnersTitle": "Newborn picks from our partners"
+}

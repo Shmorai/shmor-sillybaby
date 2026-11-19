@@ -1,0 +1,199 @@
+{
+  "updated": "2026-11-18",
+  "slug": "resources",
+  "nav": "Resources",
+  "title": "Trusted Baby Experts, Helplines and Parenting Resources",
+  "description": "Trusted places to turn: official baby health sites, free UK and US helplines, and well-known paediatricians and parenting experts to follow.",
+  "eyebrow": "Resources",
+  "h1": "Who to trust (and follow)",
+  "intro": "The internet is full of baby advice. These are official sources, free helplines and well-known experts we think are worth your time. We are independent and not affiliated with any of them.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1560707854-fb9a10eeaace",
+    "alt": "A smiling woman carrying a baby",
+    "credit": "Jonathan Borba",
+    "creditUrl": "https://unsplash.com/@jonathanborba"
+  },
+  "blocks": [
+    {
+      "type": "resources",
+      "title": "Official health and safety sources",
+      "intro": "Start here for medical and safety questions.",
+      "items": [
+        {
+          "title": "NHS Start for Life",
+          "kind": "UK official",
+          "url": "https://www.nhs.uk/start-for-life/",
+          "text": "The NHS’s pregnancy, baby and toddler hub: feeding, weaning, sleep and development.",
+          "tag": "official"
+        },
+        {
+          "title": "HealthyChildren.org",
+          "kind": "US official",
+          "url": "https://www.healthychildren.org/",
+          "text": "Parent website of the American Academy of Pediatrics, from newborn to young adult.",
+          "tag": "official"
+        },
+        {
+          "title": "CDC Learn the Signs. Act Early.",
+          "kind": "US official",
+          "url": "https://www.cdc.gov/act-early/index.html",
+          "text": "Milestone checklists and the free Milestone Tracker app.",
+          "tag": "official"
+        },
+        {
+          "title": "The Lullaby Trust",
+          "kind": "UK charity",
+          "url": "https://www.lullabytrust.org.uk/",
+          "text": "Safer sleep advice and bereavement support.",
+          "tag": "official"
+        },
+        {
+          "title": "Safe to Sleep (NIH)",
+          "kind": "US official",
+          "url": "https://safetosleep.nichd.nih.gov/",
+          "text": "The US national safe infant sleep campaign.",
+          "tag": "official"
+        },
+        {
+          "title": "Basis (Baby Sleep Info Source)",
+          "kind": "UK research",
+          "url": "https://www.basisonline.org.uk/",
+          "text": "Research-based baby sleep information from academics.",
+          "tag": "official"
+        }
+      ]
+    },
+    {
+      "type": "resources",
+      "title": "Free support and helplines",
+      "items": [
+        {
+          "title": "National Breastfeeding Helpline",
+          "kind": "UK helpline",
+          "url": "https://www.nationalbreastfeedinghelpline.org.uk/",
+          "text": "Free feeding support from trained volunteers (0300 100 0212).",
+          "tag": "official"
+        },
+        {
+          "title": "La Leche League International",
+          "kind": "Global charity",
+          "url": "https://llli.org/",
+          "text": "Breastfeeding support groups and leaders worldwide.",
+          "tag": "official"
+        },
+        {
+          "title": "Postpartum Support International",
+          "kind": "US helpline",
+          "url": "https://www.postpartum.net/",
+          "text": "Perinatal mental health support (HelpLine 1-800-944-4773).",
+          "tag": "official"
+        },
+        {
+          "title": "PANDAS Foundation",
+          "kind": "UK charity",
+          "url": "https://pandasfoundation.org.uk/",
+          "text": "Support for parents affected by perinatal mental illness.",
+          "tag": "official"
+        },
+        {
+          "title": "ICON: Babies cry, you can cope",
+          "kind": "UK programme",
+          "url": "https://iconcope.org/",
+          "text": "Coping with a crying baby.",
+          "tag": "official"
+        },
+        {
+          "title": "KellyMom",
+          "kind": "Breastfeeding info",
+          "url": "https://kellymom.com/",
+          "text": "Long-running, evidence-based breastfeeding and parenting articles.",
+          "tag": "official"
+        }
+      ]
+    },
+    {
+      "type": "resources",
+      "title": "Popular experts and creators",
+      "intro": "Well-known names many parents follow. Their content is their own; always check medical questions with your own health professional.",
+      "items": [
+        {
+          "title": "Dr. Mona Amin (PedsDocTalk)",
+          "kind": "Paediatrician",
+          "url": "https://pedsdoctalk.com/",
+          "text": "Board-certified paediatrician sharing practical, reassuring baby and toddler advice.",
+          "tag": "creator"
+        },
+        {
+          "title": "Solid Starts",
+          "kind": "Starting solids",
+          "url": "https://solidstarts.com/",
+          "text": "A large free database showing how to prepare foods for babies by age.",
+          "tag": "creator"
+        },
+        {
+          "title": "Good Inside (Dr. Becky Kennedy)",
+          "kind": "Parenting",
+          "url": "https://www.goodinside.com/",
+          "text": "Clinical psychologist Dr. Becky Kennedy’s approach to connection and boundaries.",
+          "tag": "creator"
+        },
+        {
+          "title": "Big Little Feelings",
+          "kind": "Toddlers",
+          "url": "https://biglittlefeelings.com/",
+          "text": "Popular toddler behaviour and tantrum strategies for everyday moments.",
+          "tag": "creator"
+        },
+        {
+          "title": "Taking Cara Babies",
+          "kind": "Baby sleep",
+          "url": "https://www.takingcarababies.com/",
+          "text": "Baby and toddler sleep classes from a neonatal nurse.",
+          "tag": "creator"
+        },
+        {
+          "title": "Busy Toddler",
+          "kind": "Play ideas",
+          "url": "https://busytoddler.com/",
+          "text": "Hundreds of simple, low-cost toddler and preschool activities.",
+          "tag": "creator"
+        },
+        {
+          "title": "Happiest Baby (Dr. Harvey Karp)",
+          "kind": "Soothing",
+          "url": "https://www.happiestbaby.com/",
+          "text": "Paediatrician Dr. Harvey Karp’s soothing techniques and the “5 S’s”.",
+          "tag": "creator"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How we choose who to list",
+      "html": "<p>We only list organisations and people we have checked are real and active, and we link to their official websites. We don't receive anything for these listings. Some creators sell courses or products; that is their business, and you don't need to buy anything to benefit from their free content. If a source disagrees with your own midwife, health visitor or paediatrician, go with the professional who knows your child.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are parenting influencers reliable?",
+      "a": "Some are qualified professionals and many share helpful experience, but social media isn’t personal medical advice. Check health questions against official sources like the NHS, CDC or AAP and your own health professional."
+    }
+  ],
+  "related": [
+    "newborn",
+    "feeding/breastfeeding",
+    "sleep/safe-sleep",
+    "play-and-learning"
+  ],
+  "keywords": [
+    "parenting resources",
+    "baby influencers",
+    "pediatrician instagram",
+    "breastfeeding helpline",
+    "postnatal depression support",
+    "baby sleep experts",
+    "parenting experts"
+  ],
+  "cardText": "Official sources, free helplines and experts worth following."
+}

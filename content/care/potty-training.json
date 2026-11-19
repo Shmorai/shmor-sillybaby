@@ -1,0 +1,118 @@
+{
+  "updated": "2026-11-18",
+  "slug": "care/potty-training",
+  "nav": "Potty training",
+  "title": "Potty Training: Readiness Signs and a Calm Plan",
+  "description": "Potty training (toilet training) made calmer: the signs your toddler is ready, a step-by-step plan, accidents, night-time dryness and when to ask for help.",
+  "eyebrow": "Care how-tos",
+  "h1": "Potty training, the calm way",
+  "intro": "There is no prize for being first. Waiting until your child is ready usually makes potty training quicker and happier for everyone.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1693467301038-79af2da1e40b",
+    "alt": "A toddler playing with a toy on the floor",
+    "credit": "hoylee song",
+    "creditUrl": "https://unsplash.com/@hoyleesong"
+  },
+  "sections": [
+    {
+      "h2": "Signs your toddler is ready",
+      "html": "<div class=\"cards-3\"><div class=\"mini pink\"><h3>Knows they’re going</h3><p>Tells you, or hides, while weeing or pooing.</p></div><div class=\"mini sky\"><h3>Longer dry spells</h3><p>Stays dry for an hour or two.</p></div><div class=\"mini sun\"><h3>Notices nappies</h3><p>Pulls at a wet or dirty nappy, or says they don’t like it.</p></div><div class=\"mini mint\"><h3>Can follow steps</h3><p>Understands simple instructions and can pull trousers down and up with help.</p></div></div><p>Many children show these signs between about 18 months and 3 years. Every child is different.</p>"
+    },
+    {
+      "h2": "A step-by-step plan",
+      "html": "<ol><li><strong>Talk about it</strong>: read potty books, let them watch you or siblings, and keep the potty where they can see it.</li><li><strong>Pick a calm time</strong>, not during a big change like a new sibling or moving house.</li><li><strong>Easy clothes</strong>: elastic waists, no fiddly buttons.</li><li><strong>Regular sits</strong>: after meals, after naps and before bath, for a few minutes, with no pressure.</li><li><strong>Praise efforts</strong>, not just results. A simple sticker chart can help some children.</li><li><strong>Teach handwashing</strong> every time.</li></ol>"
+    },
+    {
+      "h2": "Accidents and setbacks",
+      "html": "<p>Accidents are part of learning. Clean up calmly without fuss or punishment. If your child is upset or resisting, it is fine to go back to nappies for a few weeks and try again later. Constipation can make potty training harder; tell your GP or health visitor if your child's poos are hard or painful.</p>"
+    },
+    {
+      "h2": "Night-time dryness",
+      "html": "<p>Staying dry at night usually comes later than daytime dryness. Bedwetting is common in young children and, according to the NHS, isn't usually a concern in children under 5. Talk to your GP if it continues after 5, starts again after a long dry spell, or worries your child.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Potty training kit",
+      "items": [
+        {
+          "icon": "check",
+          "title": "Potty or toilet trainer seat",
+          "age": "18 m–3 y",
+          "text": "Some children prefer one, some the other.",
+          "checks": [
+            "Stable, won’t tip",
+            "Splash guard for boys",
+            "Easy to clean"
+          ]
+        },
+        {
+          "icon": "star",
+          "title": "Step stool",
+          "age": "2 y+",
+          "text": "For the toilet and the sink.",
+          "checks": [
+            "Non-slip feet and top",
+            "Wide enough to stand comfortably"
+          ]
+        },
+        {
+          "icon": "file",
+          "title": "Potty books and a reward chart",
+          "age": "18 m+",
+          "text": "Make it fun and familiar.",
+          "checks": [
+            "Short, simple stories",
+            "Praise efforts, not just successes"
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age should a child be potty trained?",
+      "a": "There’s no set age. Many children show readiness between 18 months and 3 years, and girls are often ready a little earlier than boys. Following your child’s readiness usually works better than aiming for an age."
+    },
+    {
+      "q": "How long does potty training take?",
+      "a": "It varies from days to months. Children who are ready often learn faster. Expect accidents, especially when tired or busy playing."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: How to potty train",
+      "url": "https://www.nhs.uk/baby/babys-development/potty-training-and-bedwetting/how-to-potty-train/"
+    },
+    {
+      "title": "NHS: Bedwetting in children",
+      "url": "https://www.nhs.uk/conditions/bedwetting/"
+    },
+    {
+      "title": "AAP: Toilet training (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/default.aspx"
+    },
+    {
+      "title": "ERIC, The Children’s Bowel & Bladder Charity",
+      "url": "https://eric.org.uk/"
+    }
+  ],
+  "related": [
+    "care",
+    "toddler",
+    "milestones",
+    "play-and-learning"
+  ],
+  "keywords": [
+    "potty training",
+    "toilet training",
+    "potty training signs",
+    "potty training age",
+    "toddler potty",
+    "bedwetting",
+    "potty training tips",
+    "night training"
+  ],
+  "cardText": "Readiness signs, a calm plan and handling accidents."
+}

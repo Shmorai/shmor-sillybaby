@@ -1,0 +1,130 @@
+{
+  "updated": "2026-11-18",
+  "slug": "sleep",
+  "nav": "Sleep",
+  "navOrder": 3,
+  "title": "Baby and Child Sleep Guide: How Much Sleep by Age",
+  "description": "How much sleep do babies, toddlers and kids need? Sleep by age from newborn to 12, naps, bedtime routines, night waking and safe sleep, from official advice.",
+  "eyebrow": "Sleep",
+  "h1": "Sleep, from newborn to 12",
+  "intro": "Sleep (or the lack of it) is the number one topic for new parents. Here is what is normal at each age and the habits that help everyone rest.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1581702539705-3f78dfff135f",
+    "alt": "A white wooden crib in a nursery with a polka dot wall",
+    "credit": "Ashley Walker",
+    "creditUrl": "https://unsplash.com/@abess10"
+  },
+  "sections": [
+    {
+      "h2": "How much sleep does my child need?",
+      "html": "<p>Recommended total sleep in 24 hours (including naps for under-6s). These are ranges: plenty of healthy children sit at either end.</p><figure class=\"diagram\"><svg viewBox=\"0 0 640 280\" role=\"img\" aria-labelledby=\"sleepT\"><title id=\"sleepT\">Recommended hours of sleep in 24 hours by age, including naps: 0 to 3 months 14 to 17 hours; 4 to 12 months 12 to 16; 1 to 2 years 11 to 14; 3 to 5 years 10 to 13; 6 to 12 years 9 to 12.</title><line x1=\"130\" x2=\"130\" y1=\"10\" y2=\"244\" stroke=\"#F1E1D6\" stroke-width=\"1.5\"/><text x=\"130\" y=\"264\" text-anchor=\"middle\" font-size=\"13\" fill=\"#6E6890\">0h</text><line x1=\"210\" x2=\"210\" y1=\"10\" y2=\"244\" stroke=\"#F1E1D6\" stroke-width=\"1.5\"/><text x=\"210\" y=\"264\" text-anchor=\"middle\" font-size=\"13\" fill=\"#6E6890\">3h</text><line x1=\"290\" x2=\"290\" y1=\"10\" y2=\"244\" stroke=\"#F1E1D6\" stroke-width=\"1.5\"/><text x=\"290\" y=\"264\" text-anchor=\"middle\" font-size=\"13\" fill=\"#6E6890\">6h</text><line x1=\"370\" x2=\"370\" y1=\"10\" y2=\"244\" stroke=\"#F1E1D6\" stroke-width=\"1.5\"/><text x=\"370\" y=\"264\" text-anchor=\"middle\" font-size=\"13\" fill=\"#6E6890\">9h</text><line x1=\"450\" x2=\"450\" y1=\"10\" y2=\"244\" stroke=\"#F1E1D6\" stroke-width=\"1.5\"/><text x=\"450\" y=\"264\" text-anchor=\"middle\" font-size=\"13\" fill=\"#6E6890\">12h</text><line x1=\"530\" x2=\"530\" y1=\"10\" y2=\"244\" stroke=\"#F1E1D6\" stroke-width=\"1.5\"/><text x=\"530\" y=\"264\" text-anchor=\"middle\" font-size=\"13\" fill=\"#6E6890\">15h</text><line x1=\"610\" x2=\"610\" y1=\"10\" y2=\"244\" stroke=\"#F1E1D6\" stroke-width=\"1.5\"/><text x=\"610\" y=\"264\" text-anchor=\"middle\" font-size=\"13\" fill=\"#6E6890\">18h</text><text x=\"0\" y=\"37\" font-size=\"15\" font-weight=\"700\" fill=\"#2A2350\">0–3 months</text><rect x=\"503.3333333333333\" y=\"18\" width=\"79.99999999999994\" height=\"28\" rx=\"14\" fill=\"#FF7EB6\"/><text x=\"543.3333333333333\" y=\"37\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#2A2350\">14–17h</text><text x=\"0\" y=\"83\" font-size=\"15\" font-weight=\"700\" fill=\"#2A2350\">4–12 months</text><rect x=\"450\" y=\"64\" width=\"106.66666666666663\" height=\"28\" rx=\"14\" fill=\"#7CC6FE\"/><text x=\"503.3333333333333\" y=\"83\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#2A2350\">12–16h</text><text x=\"0\" y=\"129\" font-size=\"15\" font-weight=\"700\" fill=\"#2A2350\">1–2 years</text><rect x=\"423.33333333333337\" y=\"110\" width=\"79.99999999999994\" height=\"28\" rx=\"14\" fill=\"#FFD166\"/><text x=\"463.33333333333337\" y=\"129\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#2A2350\">11–14h</text><text x=\"0\" y=\"175\" font-size=\"15\" font-weight=\"700\" fill=\"#2A2350\">3–5 years</text><rect x=\"396.6666666666667\" y=\"156\" width=\"80\" height=\"28\" rx=\"14\" fill=\"#6FDDB8\"/><text x=\"436.6666666666667\" y=\"175\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#2A2350\">10–13h</text><text x=\"0\" y=\"221\" font-size=\"15\" font-weight=\"700\" fill=\"#2A2350\">6–12 years</text><rect x=\"370\" y=\"202\" width=\"80\" height=\"28\" rx=\"14\" fill=\"#B9A6FF\"/><text x=\"410\" y=\"221\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#2A2350\">9–12h</text></svg><figcaption>0–3 months: National Sleep Foundation. 4 months–12 years: American Academy of Sleep Medicine (endorsed by the AAP).</figcaption></figure>"
+    },
+    {
+      "h2": "Safe sleep comes first",
+      "html": "<p>For babies, <strong>how</strong> they sleep matters even more than how long. Always on the back, in a clear, flat sleep space, in your room for at least the first 6 months. Read our <a href=\"/sleep/safe-sleep/\">safe sleep guide</a> and see the diagram.</p>[[banner:cj8022425-b-designed-886|cj8022425-b-nights-686]]"
+    },
+    {
+      "h2": "Building a bedtime routine",
+      "html": "<ul class=\"ladder\"><li><span class=\"age\">Wind down</span><p>Dim lights and quieter play about 30 minutes before bed.</p></li><li><span class=\"age\">Bath or wash</span><p>A warm bath or wash and fresh nappy or pyjamas.</p></li><li><span class=\"age\">Teeth</span><p>Brush with fluoride toothpaste once teeth arrive.</p></li><li><span class=\"age\">Books and songs</span><p>The same few steps every night help children know sleep is coming.</p></li><li><span class=\"age\">Into bed</span><p>Ideally drowsy but awake, so they learn to settle in their own space.</p></li></ul>"
+    },
+    {
+      "h2": "Night waking and naps",
+      "html": "<p>Young babies need night feeds, and night waking remains common well into the toddler years. Developmental leaps, teething, illness and changes like starting nursery can all unsettle sleep for a while. Most babies take several naps a day, moving to two naps in the second half of the first year and one nap during the second year; many children stop napping between 3 and 5.</p><p>If sleep problems are affecting your family, talk to your health visitor or paediatrician. Snoring with pauses in breathing should always be checked by a doctor.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Sleep kit for little ones",
+      "intro": "Safe-sleep friendly basics, and what to check.",
+      "items": [
+        {
+          "icon": "star",
+          "title": "Baby sleep bag",
+          "age": "0–48 m",
+          "text": "Replaces loose blankets.",
+          "checks": [
+            "Right size for weight; fitted neck and armholes; no hood",
+            "TOG matched to room temperature",
+            "Not weighted"
+          ],
+          "guide": "blog/tog-ratings-explained",
+          "link": "cj8022425-sleep-sacks",
+          "cta": "Shop sleep sacks at Kaiya Baby"
+        },
+        {
+          "icon": "thermometer",
+          "title": "Room thermometer",
+          "age": "0–12 m",
+          "text": "Helps keep the room at 16–20°C.",
+          "checks": [
+            "Easy to read at night",
+            "Place away from radiators and windows"
+          ],
+          "guide": "sleep/safe-sleep"
+        },
+        {
+          "icon": "house",
+          "title": "Blackout blinds",
+          "age": "All ages",
+          "text": "For summer evenings and naps.",
+          "checks": [
+            "Cordless, or cords secured well out of reach",
+            "Fits the window snugly"
+          ],
+          "guide": "safety/childproofing"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When will my baby sleep through the night?",
+      "a": "There’s no set age. Many babies still wake at night in the first year, and that’s normal. Feeding at night is important for young babies. Talk to your health visitor or paediatrician if you’re struggling."
+    },
+    {
+      "q": "How many naps does a 1 year old need?",
+      "a": "Most 1 year olds have one or two naps a day, and most move to a single nap during their second year. The AASM recommends 11 to 14 hours of total sleep in 24 hours for 1 to 2 year olds."
+    }
+  ],
+  "sources": [
+    {
+      "title": "American Academy of Sleep Medicine: Recommended amount of sleep for pediatric populations (2016)",
+      "url": "https://doi.org/10.5664/jcsm.5866"
+    },
+    {
+      "title": "National Sleep Foundation: How much sleep do babies and kids need?",
+      "url": "https://www.thensf.org/how-many-hours-of-sleep-do-you-really-need/"
+    },
+    {
+      "title": "The Lullaby Trust: Safer sleep advice",
+      "url": "https://www.lullabytrust.org.uk/safer-sleep-advice/"
+    },
+    {
+      "title": "AAP: How to keep your sleeping baby safe (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+    },
+    {
+      "title": "NHS: Helping your baby to sleep",
+      "url": "https://www.nhs.uk/baby/caring-for-a-newborn/helping-your-baby-to-sleep/"
+    }
+  ],
+  "related": [
+    "sleep/safe-sleep",
+    "blog/tog-ratings-explained",
+    "newborn",
+    "baby"
+  ],
+  "keywords": [
+    "baby sleep",
+    "how much sleep does a baby need",
+    "toddler sleep",
+    "sleep by age chart",
+    "bedtime routine",
+    "baby naps",
+    "night waking",
+    "sleep schedule"
+  ],
+  "cardText": "Sleep by age chart, routines, naps and night waking.",
+  "partnersTitle": "Baby sleepwear from our partner"
+}

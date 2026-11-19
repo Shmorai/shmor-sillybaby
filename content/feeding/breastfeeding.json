@@ -1,0 +1,141 @@
+{
+  "updated": "2026-11-18",
+  "slug": "feeding/breastfeeding",
+  "nav": "Breastfeeding",
+  "title": "Breastfeeding Tips for First-Time Mums and Moms",
+  "description": "Breastfeeding basics for first-time parents: getting a good latch, how often newborns feed, cluster feeding, common problems, pumping and free help.",
+  "eyebrow": "Feeding",
+  "h1": "Breastfeeding: a gentle start",
+  "intro": "Breastfeeding is natural, but it is also a skill you and your baby learn together. These basics, plus good support, make the early weeks easier.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1766299892744-a0b9d4e11707",
+    "alt": "A mother breastfeeding her newborn baby",
+    "credit": "Brian Wangenheim",
+    "creditUrl": "https://unsplash.com/@brianwangenheim"
+  },
+  "sections": [
+    {
+      "h2": "Getting a good latch",
+      "html": "<ol><li><strong>Hold your baby close</strong>, tummy to you, with head, shoulders and body in a line.</li><li><strong>Nose to nipple:</strong> start with your baby's nose level with your nipple so they tilt their head back.</li><li><strong>Wait for a wide mouth</strong>, then bring your baby to the breast (not breast to baby), chin first.</li><li><strong>Check:</strong> more of the darker skin is visible above the top lip than below, cheeks look full and round, and you hear swallowing after the first quick sucks.</li></ol><p class=\"callout\">Feeding shouldn't keep hurting. Some tenderness at first is common, but ongoing pain, cracked or bleeding nipples are a sign to get help with positioning and attachment.</p>"
+    },
+    {
+      "h2": "How often do newborns breastfeed?",
+      "html": "<p>Often. In the early weeks, many babies feed 8 to 12 times or more in 24 hours, including at night, and feeds vary in length. Feeding responsively (whenever your baby shows hunger cues) helps build your supply, because milk production works on supply and demand.</p><p><strong>Cluster feeding</strong>, when a baby feeds very frequently over a few hours (often in the evening), is normal and not a sign your milk is “running out”.</p>"
+    },
+    {
+      "h2": "Common problems and what helps",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Problem</th><th>What it can feel like</th><th>What often helps</th></tr></thead><tbody><tr><td>Engorgement</td><td>Full, hard, sore breasts in the first days</td><td>Feed often, hand express a little to soften, cold compresses after feeds</td></tr><tr><td>Sore or cracked nipples</td><td>Pain during feeds, damaged skin</td><td>Check latch with a midwife or lactation consultant; nipple cream if needed</td></tr><tr><td>Blocked duct</td><td>A tender lump</td><td>Keep feeding, gentle hand expression, rest; get help if it doesn’t clear</td></tr><tr><td>Mastitis</td><td>Red, hot, painful area, flu-like feelings</td><td>Contact your GP, midwife or doctor the same day; you may need treatment</td></tr><tr><td>Thrush</td><td>Burning or shooting pains, white patches in baby’s mouth</td><td>See your GP or doctor; you and your baby may both need treatment</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Expressing, pumping and storing breast milk",
+      "html": "<p>You can express by hand or with a pump. NHS storage guidance: freshly expressed breast milk can be kept in the fridge at 4°C or lower for up to 8 days, in a freezer compartment of the fridge for up to 2 weeks, or in a freezer at -18°C or lower for up to 6 months. Thaw in the fridge and use straight away; never refreeze. US guidance from the CDC differs slightly, so follow your own health service's advice.</p>"
+    },
+    {
+      "h2": "Look after yourself",
+      "html": "<p>Drink to thirst, eat regularly and rest when you can. Most medicines are compatible with breastfeeding, but always ask a pharmacist or doctor. The NHS and AAP advise against drinking alcohol in large amounts and smoking while breastfeeding. If breastfeeding isn't working for you, that's OK: speak to your midwife, health visitor or paediatrician about combination feeding or formula.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Breastfeeding kit",
+      "intro": "Not essential, but often helpful.",
+      "items": [
+        {
+          "icon": "heart",
+          "title": "Nursing bras and breast pads",
+          "age": "From late pregnancy",
+          "text": "Comfort and fewer leaks.",
+          "checks": [
+            "Soft, non-wired and easy to open one-handed",
+            "Get measured in late pregnancy or after milk comes in",
+            "Washable or disposable pads"
+          ]
+        },
+        {
+          "icon": "droplet",
+          "title": "Breast pump",
+          "age": "When needed",
+          "text": "Useful for returning to work or sharing feeds.",
+          "checks": [
+            "Manual for occasional use, electric for regular pumping",
+            "Correct flange size makes a big difference",
+            "Some US insurance plans cover a pump: check yours"
+          ]
+        },
+        {
+          "icon": "sparkles",
+          "title": "Feeding pillow",
+          "age": "0–6 m",
+          "text": "Can help positioning.",
+          "checks": [
+            "For awake, supervised feeds only",
+            "Never use for sleep or propping a baby",
+            "Washable cover"
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long should I breastfeed?",
+      "a": "The WHO and NHS recommend exclusive breastfeeding for around the first 6 months, then continuing alongside solid foods for as long as you and your baby want. The WHO and AAP mention up to 2 years or beyond. Any amount of breast milk has benefits."
+    },
+    {
+      "q": "Is it normal for my baby to feed every hour?",
+      "a": "In the early weeks and during growth spurts, frequent feeding and evening cluster feeds are common. If your baby has plenty of wet and dirty nappies and is gaining weight, it’s usually normal, but ask your midwife or health visitor if you’re worried."
+    },
+    {
+      "q": "Where can I get free breastfeeding help?",
+      "a": "In the UK: your midwife or health visitor, the National Breastfeeding Helpline (0300 100 0212) and local infant feeding teams. In the US: your hospital or paediatrician’s lactation consultants, La Leche League and WIC."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Breastfeeding",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/"
+    },
+    {
+      "title": "NHS: Expressing and storing breast milk",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/expressing-breast-milk/"
+    },
+    {
+      "title": "NHS: Mastitis",
+      "url": "https://www.nhs.uk/conditions/mastitis/"
+    },
+    {
+      "title": "WHO: Breastfeeding",
+      "url": "https://www.who.int/health-topics/breastfeeding"
+    },
+    {
+      "title": "CDC: Breast milk storage and preparation",
+      "url": "https://www.cdc.gov/breastfeeding/breast-milk-preparation-and-storage/handling-breastmilk.html"
+    },
+    {
+      "title": "National Breastfeeding Helpline (UK)",
+      "url": "https://www.nationalbreastfeedinghelpline.org.uk/"
+    },
+    {
+      "title": "La Leche League International",
+      "url": "https://llli.org/"
+    }
+  ],
+  "related": [
+    "feeding",
+    "feeding/formula-and-bottle-feeding",
+    "newborn",
+    "baby-diary"
+  ],
+  "keywords": [
+    "breastfeeding",
+    "breastfeeding tips",
+    "how to latch baby",
+    "cluster feeding",
+    "mastitis",
+    "breast milk storage",
+    "pumping",
+    "nursing"
+  ],
+  "cardText": "Latching, feeding frequency, common problems and support."
+}

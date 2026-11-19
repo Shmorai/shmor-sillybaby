@@ -1,0 +1,138 @@
+{
+  "updated": "2026-11-18",
+  "slug": "feeding/starting-solids",
+  "nav": "Starting solids",
+  "title": "Starting Solids and Weaning: A Baby Food Guide",
+  "description": "Starting solids at around 6 months: the 3 readiness signs, first foods, purées vs baby-led weaning, allergens like egg and peanut, and choking safety tips.",
+  "eyebrow": "Feeding · around 6 months",
+  "h1": "Starting solids (weaning)",
+  "intro": "Squished banana on the ceiling? Welcome to weaning. Here is when to start, what to offer and how to keep mealtimes safe and fun.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1760267982929-b038bf9b82e0",
+    "alt": "A young child eating from a bowl with a pink spoon",
+    "credit": "NHN",
+    "creditUrl": "https://unsplash.com/@nuarharuha"
+  },
+  "sections": [
+    {
+      "h2": "The 3 signs your baby is ready",
+      "html": "<p>The NHS and CDC suggest starting at <strong>around 6 months</strong>, when your baby shows all three signs:</p><div class=\"cards-3\"><div class=\"mini pink\"><h3>1. Sits and holds head steady</h3><p>They can stay in a sitting position and hold their head steady.</p></div><div class=\"mini sky\"><h3>2. Hands to mouth</h3><p>They can look at food, pick it up and put it in their mouth by themselves.</p></div><div class=\"mini mint\"><h3>3. Swallows food</h3><p>They swallow food rather than pushing most of it back out with their tongue.</p></div></div><p>Waking at night, chewing fists or wanting extra milk are normal baby behaviours, not signs of readiness. The NHS advises not starting before 17 weeks; talk to your health visitor or paediatrician if your baby was premature.</p>"
+    },
+    {
+      "h2": "Purées, finger foods or baby-led weaning?",
+      "html": "<p>You can start with smooth or mashed foods on a spoon, soft finger foods (sometimes called baby-led weaning), or a mix of both. What matters is moving on to mashed, lumpy and finger foods so your baby learns to chew and self-feed. First foods can be single vegetables and fruits, then soon foods with iron such as meat, fish, eggs, beans, lentils and fortified cereals.</p>"
+    },
+    {
+      "h2": "Allergens: egg, peanut and more",
+      "html": "<p>From around 6 months you can introduce foods that commonly cause allergies, one at a time and in small amounts, so you can spot any reaction: cows' milk (in cooking), eggs (UK: eggs with the British Lion stamp can be served soft), wheat, nuts and peanuts (smooth butter or ground, never whole), seeds, soya, fish and shellfish. Once introduced, keep offering them regularly.</p><p class=\"callout\">If your baby has severe eczema or a known food allergy, talk to your GP or paediatrician before introducing peanut or egg. US guidelines (NIAID) support early peanut introduction for higher-risk babies, with medical guidance. Call 999 / 911 if your baby has swelling of the face or lips, trouble breathing or collapses after eating.</p>"
+    },
+    {
+      "h2": "Foods to avoid in the first year",
+      "html": "<ul><li><strong>Honey</strong> until 12 months (risk of infant botulism).</li><li><strong>Added salt and sugar</strong>, including salty stock cubes and gravy.</li><li><strong>Whole nuts and peanuts</strong> until 5 years (choking).</li><li>Raw or lightly cooked eggs without the British Lion mark (UK), unpasteurised cheese, raw shellfish, and shark, swordfish or marlin.</li><li><strong>Cows' milk as a main drink</strong> before 12 months (it's fine in cooking).</li><li>Rice drinks under 5, and juice or sugary drinks (the AAP advises no juice under 1).</li></ul>"
+    },
+    {
+      "h2": "Gagging vs choking, and cutting food safely",
+      "html": "<p><strong>Gagging</strong> is a normal, noisy reflex as babies learn to move food around their mouths. <strong>Choking</strong> is usually silent: the airway is blocked and the baby can't cough, cry or breathe. Always supervise meals with your baby sitting upright, and learn baby first aid.</p><figure class=\"diagram\"><svg viewBox=\"0 0 640 170\" role=\"img\" aria-labelledby=\"grT\"><title id=\"grT\">How to cut a grape for a baby or toddler: cut it in half lengthways, then into quarters lengthways.</title>\n<g font-size=\"15\" font-weight=\"800\" fill=\"#2A2350\" text-anchor=\"middle\">\n<ellipse cx=\"90\" cy=\"70\" rx=\"38\" ry=\"50\" fill=\"#B9A6FF\" stroke=\"#2A2350\" stroke-width=\"3\"/><text x=\"90\" y=\"150\">Whole grape: never</text>\n<path d=\"M170 70h50\" stroke=\"#E7559A\" stroke-width=\"4\" marker-end=\"url(#ar)\"/>\n<ellipse cx=\"290\" cy=\"70\" rx=\"38\" ry=\"50\" fill=\"#B9A6FF\" stroke=\"#2A2350\" stroke-width=\"3\"/><line x1=\"290\" y1=\"16\" x2=\"290\" y2=\"124\" stroke=\"#2A2350\" stroke-width=\"3\" stroke-dasharray=\"6 5\"/><text x=\"290\" y=\"150\">Cut lengthways…</text>\n<path d=\"M370 70h50\" stroke=\"#E7559A\" stroke-width=\"4\" marker-end=\"url(#ar)\"/>\n<g transform=\"translate(510 70)\"><path d=\"M-4 -50 A38 50 0 0 0 -42 0 H-4 Z\" fill=\"#B9A6FF\" stroke=\"#2A2350\" stroke-width=\"3\"/><path d=\"M4 -50 A38 50 0 0 1 42 0 H4 Z\" fill=\"#B9A6FF\" stroke=\"#2A2350\" stroke-width=\"3\"/><path d=\"M-4 50 A38 50 0 0 1 -42 4 H-4 Z\" fill=\"#B9A6FF\" stroke=\"#2A2350\" stroke-width=\"3\"/><path d=\"M4 50 A38 50 0 0 0 42 4 H4 Z\" fill=\"#B9A6FF\" stroke=\"#2A2350\" stroke-width=\"3\"/></g><text x=\"510\" y=\"150\">…into quarters</text></g>\n<defs><marker id=\"ar\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#E7559A\"/></marker></defs></svg><figcaption>Cut grapes, cherry tomatoes and other small round foods lengthways into quarters (NHS).</figcaption></figure>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Weaning kit",
+      "intro": "Simple is best. Your baby needs a safe seat, a few spoons and a lot of bibs.",
+      "items": [
+        {
+          "icon": "utensils",
+          "title": "High chair",
+          "age": "6 m+",
+          "text": "Upright, stable and harnessed.",
+          "checks": [
+            "Five-point harness and stable base",
+            "Footrest helps babies sit and chew well",
+            "Meets EN 14988 (UK/EU) or ASTM F404 (US)"
+          ],
+          "guide": "baby"
+        },
+        {
+          "icon": "droplet",
+          "title": "Open or free-flow cup",
+          "age": "6 m+",
+          "text": "Sips of water with meals.",
+          "checks": [
+            "Free-flow, not non-spill valve cups, is the NHS advice",
+            "Small, light and easy to hold",
+            "Dishwasher-safe"
+          ]
+        },
+        {
+          "icon": "sparkles",
+          "title": "Bibs, mats and soft spoons",
+          "age": "6 m+",
+          "text": "Messy is good!",
+          "checks": [
+            "Long-sleeved or pocket bibs",
+            "Shallow, soft-tipped spoons",
+            "Suction bowls for self-feeders"
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are good first foods for a baby?",
+      "a": "Soft-cooked vegetables (including bitter ones like broccoli and spinach), soft fruits, and soon iron-rich foods such as meat, fish, eggs, beans, lentils and fortified cereals. Offer a variety of tastes and textures, with no added salt or sugar."
+    },
+    {
+      "q": "When should my baby have three meals a day?",
+      "a": "The NHS suggests gradually building up so that by around 10 to 12 months your baby is having three meals a day, alongside breast milk or formula."
+    },
+    {
+      "q": "Is baby-led weaning safe?",
+      "a": "Offering soft finger foods from around 6 months is fine when your baby is ready, sitting upright and supervised, and foods are cut to a safe shape and size. Many families combine spoon-feeding and finger foods."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS Start for Life: Weaning",
+      "url": "https://www.nhs.uk/start-for-life/baby/weaning/"
+    },
+    {
+      "title": "CDC: When, what, and how to introduce solid foods",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html"
+    },
+    {
+      "title": "NHS: Food allergies in babies and young children",
+      "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/"
+    },
+    {
+      "title": "NHS: Foods to avoid giving babies and young children",
+      "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
+    },
+    {
+      "title": "NIAID: Guidelines for the prevention of peanut allergy",
+      "url": "https://www.niaid.nih.gov/diseases-conditions/guidelines-clinicians-and-patients-food-allergy"
+    },
+    {
+      "title": "AAP: Fruit juice and your child’s diet",
+      "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/Where-We-Stand-Fruit-Juice.aspx"
+    }
+  ],
+  "related": [
+    "feeding",
+    "baby",
+    "safety/childproofing",
+    "resources"
+  ],
+  "keywords": [
+    "starting solids",
+    "weaning",
+    "baby led weaning",
+    "first foods for baby",
+    "when to start solids",
+    "introducing allergens",
+    "peanut baby",
+    "baby choking food"
+  ],
+  "cardText": "Readiness signs, first foods, allergens and choking safety."
+}

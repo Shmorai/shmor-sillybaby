@@ -1,0 +1,76 @@
+{
+  "updated": "2026-11-18",
+  "slug": "milestones",
+  "nav": "Milestones",
+  "navOrder": 4,
+  "title": "Baby and Toddler Milestones by Age: 2 Months to 5",
+  "description": "A clear baby and toddler milestones timeline from 2 months to 5 years, based on CDC checklists, plus how to help and when to talk to your health visitor.",
+  "eyebrow": "Development",
+  "h1": "Milestones: the big firsts",
+  "intro": "Smiles, rolls, first steps, first words. Here is what most children do by each age, how to encourage it, and when to ask for a check.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1763013259192-93662789be18",
+    "alt": "A baby reaching out with both hands",
+    "credit": "Brooke Balentine",
+    "creditUrl": "https://unsplash.com/@brookebalentine"
+  },
+  "sections": [
+    {
+      "h2": "Milestones timeline",
+      "html": "<p>These are things most children (about 3 in 4) can do by each age, from the CDC's updated checklists. Use them as a guide for conversations with your health visitor or paediatrician, not as a test.</p><ul class=\"ladder\"><li><span class=\"age\">2 months</span><p>Smiles when you talk to or smile at them · holds head up when on tummy · looks at your face · makes sounds other than crying.</p></li><li><span class=\"age\">4 months</span><p>Holds head steady without support when held · brings hands to mouth · coos · chuckles when you try to make them laugh.</p></li><li><span class=\"age\">6 months</span><p>Rolls from tummy to back · laughs · reaches to grab a toy · leans on hands when sitting.</p></li><li><span class=\"age\">9 months</span><p>Sits without support · babbles “mamamama”, “bababababa” · looks for things you drop · may be shy with strangers.</p></li><li><span class=\"age\">12 months</span><p>Pulls up to stand · walks holding on to furniture · waves bye-bye · uses “mama”, “dada” or a special name.</p></li><li><span class=\"age\">18 months</span><p>Walks without holding on · tries to say three or more words · scribbles · follows one-step directions.</p></li><li><span class=\"age\">2 years</span><p>Kicks a ball · runs · says two words together · points to things in a book.</p></li><li><span class=\"age\">3 years</span><p>Talks in short conversations · puts on some clothes · draws a circle when shown how.</p></li><li><span class=\"age\">4 years</span><p>Says sentences of four or more words · catches a large ball most of the time · pretends in play.</p></li><li><span class=\"age\">5 years</span><p>Tells a short story · counts to 10 · hops on one foot · takes turns in games.</p></li></ul>"
+    },
+    {
+      "h2": "How to help, at any age",
+      "html": "<div class=\"cards-3\"><div class=\"mini pink\"><h3>Talk, talk, talk</h3><p>Chat about what you’re doing and respond to their sounds and words.</p></div><div class=\"mini sky\"><h3>Floor time</h3><p>Tummy time for babies; space to move, climb and explore later.</p></div><div class=\"mini sun\"><h3>Read together</h3><p>A few minutes of books every day builds language.</p></div><div class=\"mini mint\"><h3>Play</h3><p>Simple toys, songs and games beat screens for learning.</p></div></div><p>Ideas by age in <a href=\"/play-and-learning/\">play and learning</a>. The CDC's free <a href=\"https://www.cdc.gov/act-early/milestones-app/index.html\" rel=\"noopener\" target=\"_blank\">Milestone Tracker app</a> lets you tick off milestones and share them with your doctor.</p>"
+    },
+    {
+      "h2": "When to talk to a professional",
+      "html": "<p>Act early if you have concerns. Speak to your health visitor, GP or paediatrician if your child:</p><ul><li>is not reaching several milestones for their age,</li><li>loses skills they once had (at any age),</li><li>doesn't respond to sounds or seem to see things,</li><li>has stiff or very floppy muscles, or uses one side of the body much more than the other.</li></ul><p>In the UK, your health visitor will review development at around 1 year and 2 to 2½ years. In the US, the AAP recommends developmental screening at the 9, 18 and 30-month well-child visits and autism screening at 18 and 24 months.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What if my baby misses a milestone?",
+      "a": "Children develop at different rates, and missing one milestone by a little is often fine. But it’s always OK to ask: speak to your health visitor, GP or paediatrician, especially if your child misses several milestones or loses skills."
+    },
+    {
+      "q": "Do premature babies reach milestones later?",
+      "a": "Often, yes. Health professionals usually use corrected age (from your baby’s due date) when checking development for premature babies, typically until about age 2."
+    },
+    {
+      "q": "When do babies say their first word?",
+      "a": "Many babies say a first word such as “mama” or “dada” with meaning around their first birthday. By 18 months, the CDC lists trying to say three or more words besides “mama” or “dada”."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CDC: Milestones by age (Learn the Signs. Act Early.)",
+      "url": "https://www.cdc.gov/act-early/milestones/index.html"
+    },
+    {
+      "title": "CDC: Milestone Tracker app",
+      "url": "https://www.cdc.gov/act-early/milestones-app/index.html"
+    },
+    {
+      "title": "NHS: Your baby’s health and development reviews",
+      "url": "https://www.nhs.uk/baby/babys-development/height-weight-and-reviews/baby-reviews/"
+    }
+  ],
+  "related": [
+    "ages",
+    "play-and-learning",
+    "baby",
+    "toddler"
+  ],
+  "keywords": [
+    "baby milestones",
+    "developmental milestones",
+    "milestones by age",
+    "toddler milestones",
+    "when do babies roll over",
+    "when do babies walk",
+    "when do babies talk",
+    "cdc milestones"
+  ],
+  "cardText": "What most children do by each age, 2 months to 5 years."
+}

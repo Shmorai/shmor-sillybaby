@@ -1,0 +1,110 @@
+{
+  "updated": "2026-11-18",
+  "slug": "ages",
+  "nav": "By age",
+  "navOrder": 1,
+  "title": "Baby and Child Development by Age: 0 to 12 Years",
+  "description": "A friendly age-by-age guide to babies and children from newborn to 12: feeding, sleep, milestones, health checks, safety and play at every stage.",
+  "eyebrow": "Age by age",
+  "h1": "Your child, age by age",
+  "intro": "Children grow in leaps, not straight lines. Choose an age to see what to expect, what helps and which checks are coming up.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1505692069463-edfaea445fcd",
+    "alt": "A young child playing with toys on a carpet",
+    "credit": "Jelleke Vanooteghem",
+    "creditUrl": "https://unsplash.com/@ilumire"
+  },
+  "blocks": [
+    {
+      "type": "tiles",
+      "position": "top",
+      "class": "ages",
+      "items": [
+        {
+          "slug": "newborn",
+          "title": "Newborn",
+          "badge": "0–3 months"
+        },
+        {
+          "slug": "baby",
+          "title": "Baby",
+          "badge": "3–12 months"
+        },
+        {
+          "slug": "toddler",
+          "title": "Toddler",
+          "badge": "1–3 years"
+        },
+        {
+          "slug": "preschool",
+          "title": "Preschooler",
+          "badge": "3–5 years"
+        },
+        {
+          "slug": "school-age",
+          "title": "School age",
+          "badge": "5–8 years"
+        },
+        {
+          "slug": "big-kids",
+          "title": "Big kids",
+          "badge": "8–12 years"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The whole journey at a glance",
+      "html": "<p>Here is the big picture. Every age has its own guide with far more detail, and every child moves at their own pace.</p><ul class=\"ladder\"><li><span class=\"age\">0–3 m</span><p><strong>Newborn:</strong> frequent feeds day and night, lots of sleep in short stretches, first smiles at around 6–8 weeks. Newborn checks, heel prick test and (UK) health visitor visits. <a href=\"/newborn/\">Newborn guide</a></p></li><li><span class=\"age\">3–12 m</span><p><strong>Baby:</strong> rolling, sitting, crawling or shuffling, first teeth, starting solids at around 6 months, babbling and waving. <a href=\"/baby/\">Baby guide</a></p></li><li><span class=\"age\">1–3 y</span><p><strong>Toddler:</strong> walking, running, first words then short sentences, big feelings, moving to family meals and often potty training. <a href=\"/toddler/\">Toddler guide</a></p></li><li><span class=\"age\">3–5 y</span><p><strong>Preschool:</strong> pretend play, friendships, lots of questions, more independence with dressing and the toilet, getting ready for school. <a href=\"/preschool/\">Preschool guide</a></p></li><li><span class=\"age\">5–8 y</span><p><strong>School age:</strong> reading and writing take off, rules and fairness matter, sport and hobbies, losing baby teeth. <a href=\"/school-age/\">School-age guide</a></p></li><li><span class=\"age\">8–12 y</span><p><strong>Big kids:</strong> more independence, first phones and online life, friendships, and for many the first signs of puberty. <a href=\"/big-kids/\">Big kids guide</a></p></li></ul>"
+    },
+    {
+      "h2": "Health checks to expect in the UK and US",
+      "html": "<p>In the <strong>UK</strong>, babies have a newborn physical examination, the newborn hearing test and the blood spot (heel prick) test, a new birth visit from a health visitor and a check at 6 to 8 weeks. Health and development reviews follow at around 1 year and again at 2 to 2½ years. Your Personal Child Health Record (the “red book”) keeps track.</p><p>In the <strong>US</strong>, the American Academy of Pediatrics' Bright Futures schedule recommends well-child visits in the first week, at 1, 2, 4, 6, 9 and 12 months, then 15, 18, 24 and 30 months, and once a year from age 3. Vaccines follow your country's official schedule, which your GP surgery or paediatrician will explain.</p>"
+    },
+    {
+      "h2": "Every child is different",
+      "html": "<p>Milestone ages are a guide, not a race. Babies born early often reach milestones later (count from their due date for the first couple of years). If something worries you, or your child loses skills they used to have, speak to your health visitor, GP or paediatrician. Asking early is always fine.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age is a baby, toddler and preschooler?",
+      "a": "There is no official cut-off, but most guides call children under 1 babies (with the first 4 weeks or so the newborn stage), 1 to 3 year olds toddlers and 3 to 5 year olds preschoolers. School age usually means 5 to 12."
+    },
+    {
+      "q": "Should I adjust ages for a premature baby?",
+      "a": "Yes. For premature babies, health professionals usually use “corrected age” (counted from the due date) when looking at development, typically until around age 2. Ask your health visitor or paediatrician."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Your baby’s health and development reviews",
+      "url": "https://www.nhs.uk/baby/babys-development/height-weight-and-reviews/baby-reviews/"
+    },
+    {
+      "title": "AAP Bright Futures: Well-child visits (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/family-life/health-management/Pages/Well-Child-Care-A-Check-Up-for-Success.aspx"
+    },
+    {
+      "title": "CDC: Milestones by age (Learn the Signs. Act Early.)",
+      "url": "https://www.cdc.gov/act-early/milestones/index.html"
+    }
+  ],
+  "related": [
+    "milestones",
+    "newborn",
+    "toddler",
+    "school-age"
+  ],
+  "keywords": [
+    "baby development by age",
+    "child development stages",
+    "baby stages",
+    "toddler age",
+    "preschool age",
+    "well child visits",
+    "health visitor checks"
+  ],
+  "cardText": "Feeding, sleep, milestones and checks from newborn to 12."
+}

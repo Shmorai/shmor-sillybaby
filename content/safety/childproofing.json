@@ -1,0 +1,136 @@
+{
+  "updated": "2026-11-18",
+  "slug": "safety/childproofing",
+  "nav": "Childproofing",
+  "title": "Childproofing Checklist: Babyproof Your Home by Room",
+  "description": "A room-by-room childproofing checklist: stair gates, furniture anchors, blind cords, button batteries, medicines, hot drinks, windows and water.",
+  "eyebrow": "Safety",
+  "h1": "Childproofing, room by room",
+  "intro": "Babies go from staying put to into everything faster than you expect. Get down to their eye level and work through this list before they start rolling and crawling.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1495131292899-bc096577e8f5",
+    "alt": "A baby pulling up on the side of a crib",
+    "credit": "Alexander Dummer",
+    "creditUrl": "https://unsplash.com/@4dgraphic"
+  },
+  "sections": [
+    {
+      "h2": "The big hidden dangers",
+      "html": "<div class=\"cards-3\"><div class=\"mini peach\"><h3>Button batteries</h3><p>Can cause serious internal burns within hours if swallowed. Keep devices’ battery covers taped or screwed shut; get help immediately if one may have been swallowed.</p></div><div class=\"mini peach\"><h3>Furniture and TV tip-overs</h3><p>Anchor chests of drawers, bookcases and TVs to the wall.</p></div><div class=\"mini peach\"><h3>Blind and curtain cords</h3><p>Keep cords and chains short and out of reach, or use cordless blinds. Move cots away from windows.</p></div><div class=\"mini peach\"><h3>Hot drinks</h3><p>Never hold a hot drink while holding a baby, and keep mugs well back from edges.</p></div><div class=\"mini peach\"><h3>Water</h3><p>Babies can drown quickly and silently in very little water. Stay within arm’s reach at bath time.</p></div><div class=\"mini peach\"><h3>Medicines and laundry capsules</h3><p>Store up high and locked away; they can look like sweets.</p></div></div>"
+    },
+    {
+      "h2": "Room by room",
+      "html": "<h3>Stairs and hallways</h3><ul><li>Stair gates at the top and bottom (screw-fitted at the top).</li><li>Keep stairs clear of clutter.</li></ul><h3>Kitchen</h3><ul><li>Use back hobs, turn pan handles inwards and keep children out while cooking.</li><li>Cupboard locks on cleaning products, dishwasher tablets and sharp items.</li><li>Keep kettle flexes short and at the back.</li></ul><h3>Living room</h3><ul><li>Anchor TVs and furniture; cover sharp corners if needed.</li><li>Fireguards fixed to the wall.</li><li>Keep small objects, magnets, batteries and coins off the floor and low surfaces.</li></ul><h3>Bathroom</h3><ul><li>Never leave a baby or young child alone in the bath, even for a moment. Bath seats are not safety devices.</li><li>Run cold water first, then hot; aim for about 37–38°C. In the US, the AAP suggests setting water heaters to 120°F (49°C) or lower.</li><li>Lock away medicines, razors and toiletries.</li></ul><h3>Bedrooms</h3><ul><li>Window restrictors on upstairs windows; keep furniture children could climb away from windows.</li><li>Cot away from windows, cords and heaters.</li></ul><h3>Garden and outside</h3><ul><li>Empty paddling pools after use and cover or fence ponds.</li><li>Lock away garden chemicals and tools.</li></ul>"
+    },
+    {
+      "h2": "Emergency numbers to keep handy",
+      "html": "<p>Save these in your phone and on the fridge: <strong>999</strong> and <strong>NHS 111</strong> (UK), <strong>911</strong> and <strong>Poison Control 1-800-222-1222</strong> (US), <strong>112</strong> (EU). If your child swallows something harmful, call for advice straight away and take the packet with you.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Childproofing kit",
+      "intro": "A few well-chosen products go a long way.",
+      "items": [
+        {
+          "icon": "fence",
+          "title": "Stair and door gates",
+          "age": "Before crawling",
+          "text": "Top and bottom of stairs, kitchen doorway.",
+          "checks": [
+            "Screw-fitted for the top of stairs",
+            "BS EN 1930 (UK/EU) or ASTM F1004 (US)",
+            "Opens one-handed for adults"
+          ]
+        },
+        {
+          "icon": "wrench",
+          "title": "Furniture and TV anchors",
+          "age": "From day one",
+          "text": "Stops tip-overs.",
+          "checks": [
+            "Rated for the furniture’s weight",
+            "Fixed into a stud or with the right wall plugs",
+            "Check them regularly"
+          ]
+        },
+        {
+          "icon": "lock",
+          "title": "Cupboard and drawer locks",
+          "age": "6 m+",
+          "text": "For cleaning products and medicines.",
+          "checks": [
+            "Magnetic or adhesive locks avoid drilling",
+            "Adult-friendly to open",
+            "Still store dangerous items up high"
+          ]
+        },
+        {
+          "icon": "window",
+          "title": "Window restrictors",
+          "age": "Climbers",
+          "text": "Limit how far windows open.",
+          "checks": [
+            "Can be released by an adult in a fire",
+            "Fitted to every upstairs window",
+            "Cordless blinds or cord cleats"
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When should I start childproofing?",
+      "a": "Before your baby starts rolling and crawling, often by around 4 to 6 months. Some things, like anchoring furniture, keeping cords away from the cot and safe storage of medicines and button batteries, are worth doing before your baby arrives."
+    },
+    {
+      "q": "What should I do if my child swallows a button battery?",
+      "a": "Treat it as an emergency: go to A&E or call 999 (UK), 911 or Poison Control (US) straight away, even if your child seems fine. Don’t make them sick."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Child Accident Prevention Trust (CAPT)",
+      "url": "https://capt.org.uk/"
+    },
+    {
+      "title": "RoSPA: Home safety",
+      "url": "https://www.rospa.com/home-safety"
+    },
+    {
+      "title": "NHS: Baby safety, how to keep your baby safe at home",
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/safety/"
+    },
+    {
+      "title": "US Consumer Product Safety Commission: Anchor It! and nursery product safety",
+      "url": "https://www.cpsc.gov/SafeSleep"
+    },
+    {
+      "title": "CAPT: Button batteries",
+      "url": "https://capt.org.uk/button-battery-safety/"
+    },
+    {
+      "title": "CPSC: Anchor It! campaign",
+      "url": "https://www.anchorit.gov/"
+    }
+  ],
+  "related": [
+    "health",
+    "baby",
+    "toddler",
+    "care/bathing-your-baby"
+  ],
+  "keywords": [
+    "childproofing",
+    "babyproofing",
+    "baby proofing checklist",
+    "stair gates",
+    "button batteries",
+    "furniture anchors",
+    "home safety baby",
+    "blind cord safety"
+  ],
+  "cardText": "Room-by-room checklist and the hidden dangers."
+}

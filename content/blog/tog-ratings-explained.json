@@ -1,0 +1,92 @@
+{
+  "updated": "2026-11-18",
+  "slug": "blog/tog-ratings-explained",
+  "type": "post",
+  "date": "2026-11-10",
+  "title": "Baby Sleep Bag TOG Ratings Explained (UK and US)",
+  "description": "What TOG means on a baby sleep bag, how to match it to room temperature and clothing, sleep bag safety checks and why the room should be 16–20°C.",
+  "eyebrow": "Sleep",
+  "h1": "TOG ratings explained: keeping baby cosy, not too hot",
+  "intro": "TOG numbers on baby sleep bags (sleep sacks) can be confusing. Here is what they mean, how to match them to your room and the safety checks that matter more than any number.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1774578342155-8d7e44a18bfd",
+    "alt": "A cosy nursery with a white crib and an armchair",
+    "credit": "Franco Debartolo",
+    "creditUrl": "https://unsplash.com/@francotheshooter"
+  },
+  "sections": [
+    {
+      "h2": "What does TOG mean?",
+      "html": "<p>TOG (thermal overall grade) is a measure of how warm a fabric or bedding is: the higher the TOG, the warmer it is. Duvets use it too. For baby sleep bags you'll usually see ratings from about 0.5 (very light, for warm rooms) to 3.5 (very warm, for cold rooms).</p>"
+    },
+    {
+      "h2": "The room temperature to aim for",
+      "html": "<p>The Lullaby Trust advises keeping your baby's room at <strong>16 to 20°C</strong> (about 61 to 68°F), with light bedding or a lightweight, well-fitting sleep bag. Overheating is a risk factor for sudden infant death, so a cool, comfortable room is better than a warm one. A simple room thermometer helps.</p>"
+    },
+    {
+      "h2": "Matching TOG to your room",
+      "html": "<p>Sleep bag makers publish their own charts, which pair a TOG with a room temperature range and suggested layers underneath. Ranges vary slightly between brands, so always follow the label on your bag. For example, Kaiya Baby’s [[link:cj8022425-guide|sleep sack selection guide]] pairs 2.5 TOG with rooms of 16–20°C, the range The Lullaby Trust recommends. The general idea:</p><div class=\"cards-3\"><div class=\"mini pink\"><h3>Warmer room</h3><p>Lower TOG (around 0.5–1.0) with light layers, such as a short- or long-sleeved bodysuit.</p></div><div class=\"mini sky\"><h3>Comfortable room</h3><p>Medium TOG (often 1.0–2.5) with a bodysuit or sleepsuit.</p></div><div class=\"mini sun\"><h3>Cooler room</h3><p>Higher TOG (2.5 and above) with a sleepsuit underneath.</p></div></div><p>Never add a hat indoors, and don't use a sleep bag together with a duvet or quilt. Babies lose heat through their heads, so keep the head uncovered.</p>"
+    },
+    {
+      "h2": "How to check your baby isn’t too hot or cold",
+      "html": "<p>Feel your baby's chest or the back of their neck (hands and feet often feel cool and aren't a good guide). If they're sweaty or their skin feels hot, remove a layer. If they feel cool, add a layer under the sleep bag. Remove outdoor clothes and hats when you come indoors, even if your baby is asleep.</p>[[banner:cj8022425-b-designed-886|cj8022425-b-nights-686]]"
+    },
+    {
+      "h2": "Sleep bag safety checklist",
+      "html": "<ul><li><strong>Right size:</strong> choose by your baby's weight (and age), so they can't slip down inside.</li><li><strong>Fitted neck and armholes</strong>, and <strong>no hood</strong>.</li><li><strong>Not weighted</strong>: the AAP advises against weighted sleep sacks and swaddles.</li><li><strong>Room for the hips and legs</strong> to move freely.</li><li>Still follow every other <a href=\"/sleep/safe-sleep/\">safe sleep</a> step: on the back, clear cot, your room for 6 months.</li></ul>[[button:cj8022425-sleep-sacks|Browse sleep sacks by TOG at Kaiya Baby]]"
+    },
+    {
+      "h2": "Swaddles and sleep bags with arms",
+      "html": "<p>If you swaddle a newborn, use a thin swaddle, keep it below the shoulders and loose at the hips, and stop as soon as your baby shows signs of rolling. Many parents move to a sleep bag with arms out at that point. See our <a href=\"/sleep/\">sleep guide</a> for sleep by age.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What TOG should a baby wear in winter?",
+      "a": "It depends on your room, not the season. Measure the room temperature and follow your sleep bag’s TOG chart. The Lullaby Trust advises keeping the room at 16 to 20°C."
+    },
+    {
+      "q": "Are sleep bags safer than blankets?",
+      "a": "A well-fitting sleep bag (right size, fitted neck and armholes, no hood) keeps covers off your baby’s face. The Lullaby Trust says it’s a good alternative to blankets, which should be tucked in no higher than the shoulders if used."
+    },
+    {
+      "q": "Can my baby wear a sleep bag in a car seat?",
+      "a": "Only use car seat-compatible products as the seat’s maker allows. A regular sleep bag can stop the harness fitting properly, so use thin layers and a blanket over the harness instead."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Lullaby Trust: Safer sleep advice",
+      "url": "https://www.lullabytrust.org.uk/safer-sleep-advice/"
+    },
+    {
+      "title": "The Lullaby Trust: Room temperature and overheating",
+      "url": "https://www.lullabytrust.org.uk/baby-safety/safer-sleep-information/room-temperature/"
+    },
+    {
+      "title": "AAP: How to keep your sleeping baby safe (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+    },
+    {
+      "title": "NHS: Reduce the risk of sudden infant death syndrome (SIDS)",
+      "url": "https://www.nhs.uk/baby/caring-for-a-newborn/reduce-the-risk-of-sudden-infant-death-syndrome/"
+    }
+  ],
+  "related": [
+    "sleep/safe-sleep",
+    "sleep",
+    "newborn"
+  ],
+  "keywords": [
+    "tog rating",
+    "baby sleep bag",
+    "sleep sack",
+    "what tog for baby",
+    "baby room temperature",
+    "how to dress baby for sleep",
+    "tog chart",
+    "wearable blanket"
+  ],
+  "cardText": "What TOG means, room temperature and sleep bag safety.",
+  "partnersTitle": "Baby sleepwear from our partner"
+}

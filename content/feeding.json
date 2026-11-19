@@ -1,0 +1,118 @@
+{
+  "updated": "2026-11-18",
+  "slug": "feeding",
+  "nav": "Feeding",
+  "navOrder": 2,
+  "title": "Baby Feeding Guide: Breast, Bottle and First Foods",
+  "description": "Baby feeding made simple: hunger cues, breastfeeding, formula and bottle feeding, starting solids at around 6 months, and toddler meals, from official advice.",
+  "eyebrow": "Feeding",
+  "h1": "Feeding your baby and toddler",
+  "intro": "Breast, bottle or both, and then the messy joy of first foods. Whatever your path, the goal is a fed, growing baby and a parent who feels supported.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1760267978902-b34c1cc0c0af",
+    "alt": "A young child in a high chair holding a spoon and bowl",
+    "credit": "NHN",
+    "creditUrl": "https://unsplash.com/@nuarharuha"
+  },
+  "blocks": [
+    {
+      "type": "deals",
+      "position": "top",
+      "items": [
+        {
+          "slug": "feeding/breastfeeding",
+          "title": "Breastfeeding",
+          "icon": "heart",
+          "text": "Latching, how often, supply and getting support."
+        },
+        {
+          "slug": "feeding/formula-and-bottle-feeding",
+          "title": "Formula and bottles",
+          "icon": "droplet",
+          "text": "Making up feeds safely, sterilising and paced feeding."
+        },
+        {
+          "slug": "feeding/starting-solids",
+          "title": "Starting solids",
+          "icon": "utensils",
+          "text": "Readiness signs, first foods, allergens and choking safety."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Hunger cues: feed early, feed calm",
+      "html": "<p>Babies show hunger long before they cry. Responding to early cues makes feeding calmer for both of you, whether you breastfeed or bottle feed.</p><div class=\"cards-3\"><div class=\"mini mint\"><h3>1. Early: “I’m hungry”</h3><p>Stirring, opening the mouth, turning the head, rooting (searching for the breast), sucking on hands or lips.</p></div><div class=\"mini sun\"><h3>2. Active: “I’m really hungry”</h3><p>Stretching, wriggling more, bringing hands to the mouth, fussing.</p></div><div class=\"mini peach\"><h3>3. Late: “Calm me, then feed me”</h3><p>Crying, going red, agitated movements. Settle your baby first (cuddle, skin to skin), then feed.</p></div></div><p>Fullness cues include turning away, closing the mouth, slowing down and relaxed, open hands.</p>"
+    },
+    {
+      "h2": "Feeding at a glance, by age",
+      "html": "<ul class=\"ladder\"><li><span class=\"age\">0–6 m</span><p>Breast milk or first infant formula only. No water, juice or solids needed. Vitamin D for breastfed babies (NHS: 8.5–10 µg a day; AAP: 400 IU).</p></li><li><span class=\"age\">Around 6 m</span><p>Start solids alongside milk feeds, once the three readiness signs are there. Offer sips of water from a cup with meals.</p></li><li><span class=\"age\">7–12 m</span><p>Move to mashed, lumpy and finger foods, building up to three meals a day. Milk is still the main drink.</p></li><li><span class=\"age\">12 m+</span><p>Family foods (no added salt), three meals and 2–3 healthy snacks. Whole cow’s milk as a main drink is fine; breastfeeding can continue.</p></li></ul>"
+    },
+    {
+      "h2": "Fed is the goal: getting support",
+      "html": "<p>Feeding can be hard work at first. In the UK, ask your midwife or health visitor, call the National Breastfeeding Helpline (0300 100 0212) or find a local infant feeding team. In the US, ask your paediatrician for a lactation consultant (IBCLC) or contact La Leche League or WIC. If you use formula, your health visitor or paediatrician can help you choose and make up feeds safely.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I know my baby is getting enough milk?",
+      "a": "Plenty of wet and dirty nappies (at least 6 heavy wet nappies a day after the first week), steady weight gain after the first couple of weeks, and a baby who seems content after most feeds are good signs. Your midwife, health visitor or paediatrician will check weight."
+    },
+    {
+      "q": "Can I combine breast and bottle feeding?",
+      "a": "Yes. Many families combine breast milk and formula (mixed or combination feeding). If you’re breastfeeding, getting support first can help protect your milk supply."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Breastfeeding",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/"
+    },
+    {
+      "title": "WHO: Breastfeeding",
+      "url": "https://www.who.int/health-topics/breastfeeding"
+    },
+    {
+      "title": "NHS: How to make up baby formula",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/making-up-baby-formula/"
+    },
+    {
+      "title": "NHS Start for Life: Weaning",
+      "url": "https://www.nhs.uk/start-for-life/baby/weaning/"
+    },
+    {
+      "title": "CDC: When, what, and how to introduce solid foods",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html"
+    },
+    {
+      "title": "NHS: Vitamins for children",
+      "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/vitamins-for-children/"
+    },
+    {
+      "title": "National Breastfeeding Helpline (UK)",
+      "url": "https://www.nationalbreastfeedinghelpline.org.uk/"
+    },
+    {
+      "title": "La Leche League International",
+      "url": "https://llli.org/"
+    }
+  ],
+  "related": [
+    "feeding/breastfeeding",
+    "feeding/formula-and-bottle-feeding",
+    "feeding/starting-solids",
+    "newborn"
+  ],
+  "keywords": [
+    "baby feeding",
+    "feeding schedule",
+    "hunger cues",
+    "how much milk baby",
+    "breastfeeding",
+    "formula feeding",
+    "weaning",
+    "baby feeding chart"
+  ],
+  "cardText": "Hunger cues, breast, bottle and first foods."
+}

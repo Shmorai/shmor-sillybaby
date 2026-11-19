@@ -1,0 +1,184 @@
+{
+  "updated": "2026-11-18",
+  "slug": "baby",
+  "title": "Baby Care from 3 to 12 Months: What to Expect",
+  "description": "Baby care from 3 to 12 months: rolling, sitting and crawling, starting solids at around 6 months, first teeth, sleep, safety and play ideas for each stage.",
+  "eyebrow": "3–12 months",
+  "h1": "Your baby from 3 to 12 months",
+  "intro": "Giggles, rolling, first tastes and first teeth. This is the year your baby goes from lying where you put them to cruising round the furniture.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1508883006770-5e013e5e6f73",
+    "alt": "A baby crawling across a wooden floor",
+    "credit": "Picsea",
+    "creditUrl": "https://unsplash.com/@picsea"
+  },
+  "chips": [
+    {
+      "label": "Starting solids",
+      "slug": "feeding/starting-solids"
+    },
+    {
+      "label": "Teething",
+      "slug": "care/teething"
+    },
+    {
+      "label": "Milestones",
+      "slug": "milestones"
+    },
+    {
+      "label": "Childproofing",
+      "slug": "safety/childproofing"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Development: rolling, sitting, crawling",
+      "html": "<p>Based on the CDC's milestone checklists, most babies:</p><ul class=\"ladder\"><li><span class=\"age\">4 months</span><p>Hold their head steady without support when held, bring hands to mouth, coo and make sounds back to you, and chuckle when you try to make them laugh.</p></li><li><span class=\"age\">6 months</span><p>Roll from tummy to back, laugh, reach to grab a toy, and lean on their hands to support themselves when sitting.</p></li><li><span class=\"age\">9 months</span><p>Sit without support, make sounds like “mamamama” and “bababababa”, look for things you drop, and may be shy or clingy with strangers.</p></li><li><span class=\"age\">12 months</span><p>Pull up to stand, walk holding on to furniture, wave bye-bye, call a parent “mama”, “dada” or a special name, and pick up small things between thumb and finger.</p></li></ul><p>Some babies crawl, some bottom-shuffle and some skip crawling altogether. See the full <a href=\"/milestones/\">milestones timeline</a>.</p>"
+    },
+    {
+      "h2": "Feeding: milk and starting solids",
+      "html": "<p>Breast milk or first infant formula stays the main drink for the whole first year. At <strong>around 6 months</strong> your baby can start solid foods (weaning) when they show all three signs of readiness: sitting up and holding their head steady, coordinating eyes, hands and mouth, and swallowing food rather than pushing it out. The NHS advises not starting before 17 weeks.</p><p>Offer a variety of foods, including common allergens such as egg and peanut (in a smooth, age-suitable form), one at a time. No honey before 12 months, no added salt or sugar, and no whole nuts until age 5. Full guide: <a href=\"/feeding/starting-solids/\">starting solids</a>.</p><p>From about 6 months, offer sips of water from an open or free-flow cup with meals.</p>"
+    },
+    {
+      "h2": "Sleep from 3 to 12 months",
+      "html": "<p>Many babies start to sleep for longer stretches at night, but waking is still normal. The American Academy of Sleep Medicine recommends 12 to 16 hours in 24 hours (including naps) for babies aged 4 to 12 months. Keep following <a href=\"/sleep/safe-sleep/\">safe sleep</a> advice: on the back, clear cot, same room for at least the first 6 months. Once your baby can roll both ways by themselves, you don't need to roll them back. Stop swaddling once they show signs of trying to roll.</p>"
+    },
+    {
+      "h2": "Teeth, health and safety",
+      "html": "<p>First teeth often appear at around 6 months, but anywhere in the first year is normal. Start brushing twice a day as soon as a tooth appears, using a smear of fluoride toothpaste. See <a href=\"/care/teething/\">teething</a>.</p><p>Once your baby is on the move, it is time to <a href=\"/safety/childproofing/\">childproof</a>: stair gates, anchored furniture, cords and button batteries out of reach, and hot drinks away from the edge. Keep your baby rear-facing in the car for as long as their seat allows (<a href=\"/safety/car-seats/\">car seats</a>).</p><p class=\"callout warn\">Babies 3 to 6 months old with a temperature of 39°C (102.2°F) or higher should be seen urgently (NHS). See <a href=\"/health/fever-in-babies-and-children/\">fever in children</a>.</p>"
+    },
+    {
+      "h2": "Play ideas that build skills",
+      "html": "<div class=\"cards-3\"><div class=\"mini pink\"><h3>Tummy time games</h3><p>Lie face to face, use a mirror or put a toy just out of reach.</p></div><div class=\"mini sky\"><h3>Talk and sing</h3><p>Narrate your day, copy their babble and pause for their “reply”.</p></div><div class=\"mini sun\"><h3>Peekaboo</h3><p>Teaches that things still exist when hidden (object permanence).</p></div><div class=\"mini mint\"><h3>Books</h3><p>Board books with faces and bright pictures, shared every day.</p></div></div><p>More in <a href=\"/play-and-learning/\">play and learning</a>. The WHO recommends no screen time for babies under 1.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Kit for 3 to 12 months",
+      "intro": "The things that become useful this year, and the safety checks that matter.",
+      "items": [
+        {
+          "icon": "utensils",
+          "title": "High chair and first spoons",
+          "age": "6 m+",
+          "text": "For safe, upright, supervised meals.",
+          "checks": [
+            "Five-point harness and a stable, wide base",
+            "Easy-clean tray (you will clean it a lot)",
+            "Meets EN 14988 (UK/EU) or ASTM F404 (US)"
+          ],
+          "guide": "feeding/starting-solids"
+        },
+        {
+          "icon": "fence",
+          "title": "Stair gates",
+          "age": "Before crawling",
+          "text": "Fit at the top and bottom of stairs.",
+          "checks": [
+            "Screw-fitted gates for the top of stairs (pressure-fit gates can be a trip hazard there)",
+            "Meets BS EN 1930 (UK/EU) or ASTM F1004 (US)",
+            "Fits your opening without gaps"
+          ],
+          "guide": "safety/childproofing"
+        },
+        {
+          "icon": "star",
+          "title": "Bigger sleep bag",
+          "age": "6–18 m",
+          "text": "Size up as your baby grows.",
+          "checks": [
+            "Fitted at the neck and armholes so baby can’t slip inside",
+            "Right TOG for the room",
+            "No weighted sleep bags (the AAP advises against them)"
+          ],
+          "guide": "sleep/safe-sleep",
+          "link": "cj8022425-sleep-sacks",
+          "cta": "Browse sleep sacks"
+        },
+        {
+          "icon": "sparkles",
+          "title": "Teething helpers",
+          "age": "4 m+",
+          "text": "For sore gums.",
+          "checks": [
+            "Solid (not liquid-filled) rings you can chill in the fridge, not the freezer",
+            "No amber teething necklaces or bracelets (strangling and choking risk)",
+            "Soft baby toothbrush and fluoride toothpaste"
+          ],
+          "guide": "care/teething"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When do babies start crawling?",
+      "a": "Many babies start crawling between about 6 and 10 months, but some shuffle on their bottoms instead and some go straight to walking. What matters more is that your baby is using both sides of their body and gaining new skills. Ask your health visitor or paediatrician if you are worried."
+    },
+    {
+      "q": "When can my baby start solid food?",
+      "a": "Around 6 months, when they can sit and hold their head steady, coordinate eyes, hands and mouth, and swallow food. The NHS advises not before 17 weeks. Talk to your health professional if your baby was premature or has a medical condition."
+    },
+    {
+      "q": "Do babies need water?",
+      "a": "Babies under 6 months who are breastfed or formula fed don’t need water. From around 6 months you can offer sips of water from a cup with meals."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CDC: Milestones by age (Learn the Signs. Act Early.)",
+      "url": "https://www.cdc.gov/act-early/milestones/index.html"
+    },
+    {
+      "title": "NHS Start for Life: Weaning",
+      "url": "https://www.nhs.uk/start-for-life/baby/weaning/"
+    },
+    {
+      "title": "CDC: When, what, and how to introduce solid foods",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html"
+    },
+    {
+      "title": "American Academy of Sleep Medicine: Recommended amount of sleep for pediatric populations (2016)",
+      "url": "https://doi.org/10.5664/jcsm.5866"
+    },
+    {
+      "title": "The Lullaby Trust: Safer sleep advice",
+      "url": "https://www.lullabytrust.org.uk/safer-sleep-advice/"
+    },
+    {
+      "title": "AAP: How to keep your sleeping baby safe (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+    },
+    {
+      "title": "NHS: Looking after your baby’s teeth",
+      "url": "https://www.nhs.uk/baby/babys-development/teething/looking-after-your-babys-teeth/"
+    },
+    {
+      "title": "NHS: High temperature (fever) in children",
+      "url": "https://www.nhs.uk/conditions/fever-in-children/"
+    },
+    {
+      "title": "WHO: Guidelines on physical activity, sedentary behaviour and sleep for children under 5",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    }
+  ],
+  "related": [
+    "feeding/starting-solids",
+    "care/teething",
+    "milestones",
+    "safety/childproofing"
+  ],
+  "keywords": [
+    "baby 6 months",
+    "baby 9 months",
+    "baby development 3 to 12 months",
+    "when do babies crawl",
+    "when do babies sit up",
+    "weaning age",
+    "baby first teeth",
+    "baby sleep 6 months"
+  ],
+  "cardText": "Rolling, solids, first teeth, sleep and play ideas.",
+  "partnersTitle": "Baby picks from our partners"
+}

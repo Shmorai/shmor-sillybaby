@@ -1,0 +1,94 @@
+{
+  "updated": "2026-11-18",
+  "slug": "big-kids",
+  "title": "Big Kids (8 to 12): Puberty, Phones and Independence",
+  "description": "Raising 8 to 12 year olds: growing independence, first phones and online safety, puberty basics, sleep, activity and how to keep talking as they grow.",
+  "eyebrow": "8–12 years",
+  "h1": "Big kids: 8 to 12 years",
+  "intro": "More independence, first phones and the start of growing up. The tween years go fast, and staying close matters more than ever.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1532789339108-2ebc484efbf1",
+    "alt": "Two children reading a book together on a sofa",
+    "credit": "Ben Mullins",
+    "creditUrl": "https://unsplash.com/@benmullins"
+  },
+  "sections": [
+    {
+      "h2": "Growing independence",
+      "html": "<p>Between 8 and 12, children want more say and more freedom: walking to a friend's house, managing money, choosing clubs. Small, gradual steps build confidence. Agree clear rules together, explain the reasons, and keep a regular time to talk, like car journeys, dog walks or bedtime.</p>"
+    },
+    {
+      "h2": "Puberty: what to know",
+      "html": "<p>According to the NHS, puberty commonly starts between 8 and 13 in girls and between 9 and 14 in boys. Talking early and simply, before changes start, helps children feel ready.</p><div class=\"cards-3\"><div class=\"mini pink\"><h3>Girls</h3><p>Breast development is often the first sign; periods usually follow about two years later.</p></div><div class=\"mini sky\"><h3>Boys</h3><p>Growth of the testicles is usually first, then body hair, voice changes and growth spurts.</p></div><div class=\"mini sun\"><h3>Everyone</h3><p>Body odour, spots, growth spurts and stronger feelings are normal.</p></div></div><p>See a GP or paediatrician if signs of puberty start very early (before 8 in girls or 9 in boys) or haven't started by 13 in girls or 14 in boys.</p>"
+    },
+    {
+      "h2": "Phones, social media and online safety",
+      "html": "<ul><li>Most social media platforms set a minimum age of 13 in their terms.</li><li>Use parental controls and app-store age limits, and keep devices out of bedrooms at night.</li><li>Talk about privacy, kindness online, scams and what to do if something upsetting happens: tell a trusted adult, and don't reply.</li><li>Make a family plan together; the AAP's <a href=\"https://www.healthychildren.org/English/fmp/Pages/MediaPlan.aspx\" rel=\"noopener\" target=\"_blank\">Family Media Plan</a> is free.</li></ul>"
+    },
+    {
+      "h2": "Health: sleep, activity and vaccines",
+      "html": "<p>The AASM recommends 9 to 12 hours of sleep a night for ages 6 to 12. Aim for an average of 60 minutes of activity a day (UK CMO; US guidelines). The HPV vaccine is offered at around 12 to 13 in the UK (school Year 8) and recommended at 11 to 12 in the US (from age 9). Your school nurse, GP or paediatrician can tell you what your child is due.</p>"
+    },
+    {
+      "h2": "Mental health and wellbeing",
+      "html": "<p>Worries about school, friendships and body image are common. Listen without rushing to fix, notice changes in sleep, eating or mood, and ask for help early from school staff or your GP. In the UK, young people can contact Childline (0800 1111); in the US, 988 offers crisis support by call or text.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age should a child get a phone?",
+      "a": "There is no official right age. Many families decide based on maturity and need (for example, travelling to school alone). Start with a basic phone or strict parental controls, agree rules together and review them as your child grows."
+    },
+    {
+      "q": "When does puberty start?",
+      "a": "The NHS says puberty commonly starts between 8 and 13 in girls and between 9 and 14 in boys. Speak to a GP or paediatrician if it seems very early or late."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Early or late puberty / stages of puberty",
+      "url": "https://www.nhs.uk/conditions/early-or-delayed-puberty/"
+    },
+    {
+      "title": "American Academy of Sleep Medicine: Recommended amount of sleep for pediatric populations (2016)",
+      "url": "https://doi.org/10.5664/jcsm.5866"
+    },
+    {
+      "title": "UK Chief Medical Officers’ physical activity guidelines",
+      "url": "https://www.gov.uk/government/publications/physical-activity-guidelines-uk-chief-medical-officers-report"
+    },
+    {
+      "title": "AAP: Family Media Plan (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/fmp/Pages/MediaPlan.aspx"
+    },
+    {
+      "title": "NHS: HPV vaccine",
+      "url": "https://www.nhs.uk/vaccinations/hpv-vaccine/"
+    },
+    {
+      "title": "CDC: HPV vaccine recommendations",
+      "url": "https://www.cdc.gov/hpv/vaccines/index.html"
+    },
+    {
+      "title": "Childline",
+      "url": "https://www.childline.org.uk/"
+    }
+  ],
+  "related": [
+    "school-age",
+    "play-and-learning",
+    "resources",
+    "ages"
+  ],
+  "keywords": [
+    "tweens",
+    "preteen",
+    "10 year old",
+    "12 year old",
+    "puberty age",
+    "first phone age",
+    "online safety kids",
+    "kids mental health"
+  ],
+  "cardText": "Independence, phones, puberty and staying close."
+}

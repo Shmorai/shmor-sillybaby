@@ -1,0 +1,45 @@
+{
+  "updated": "2026-11-18",
+  "slug": "how-we-write",
+  "title": "How SillyBaby Writes and Checks Its Guides",
+  "description": "How SillyBaby researches and checks its baby and child guides: official sources only, no invented reviews or prices, clear affiliate labels, regular updates.",
+  "eyebrow": "Editorial standards",
+  "h1": "How we write and check our guides",
+  "intro": "Parents deserve information they can trust. Here is how we make our guides, and what we will never do.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1591195852468-03a01d1375d6",
+    "alt": "An open lined notebook with a pen above it",
+    "credit": "engin akyurt",
+    "creditUrl": "https://unsplash.com/@enginakyurt"
+  },
+  "search": false,
+  "sections": [
+    {
+      "h2": "Official sources first",
+      "html": "<p>Every health, feeding, sleep and safety point is based on guidance from official bodies such as the NHS, NICE, the CDC, the American Academy of Pediatrics, the WHO, the NIH, GOV.UK, NHTSA, and specialist charities such as The Lullaby Trust and the Child Accident Prevention Trust. We link to our sources at the bottom of every guide.</p>"
+    },
+    {
+      "h2": "What we never do",
+      "html": "<ul><li>Invent statistics, prices, deals, product reviews, test results or testimonials.</li><li>Present ourselves as doctors, midwives or nurses. We are not, and our guides are not medical advice.</li><li>Let affiliate partnerships change our safety advice.</li></ul>"
+    },
+    {
+      "h2": "Affiliate links",
+      "html": "<p>Some links to shops are affiliate links: if you buy, we may earn a commission at no extra cost to you. They are labelled, open in a new tab and never replace the safety information around them. Read <a href=\"https://shmor.ai/affiliate-disclosure/\">how we make money</a>.</p>"
+    },
+    {
+      "h2": "Updates and corrections",
+      "html": "<p>Official guidance changes, and we review guides regularly. Each page shows when it was last updated. Spotted something out of date? Email <a href=\"mailto:sillybaby@shmor.ai\">sillybaby@shmor.ai</a> and we will check it against the latest official advice.</p>"
+    }
+  ],
+  "related": [
+    "resources",
+    "health",
+    "ages"
+  ],
+  "keywords": [
+    "sillybaby editorial standards",
+    "how we check facts",
+    "baby advice sources"
+  ],
+  "cardText": "Our sources, rules and how to report a correction."
+}

@@ -1,0 +1,72 @@
+{
+  "updated": "2026-11-18",
+  "slug": "baby-diary",
+  "nav": "Baby diary",
+  "title": "Printable Baby Diary: Feed, Nappy and Sleep Tracker",
+  "description": "A free printable baby diary to track feeds, nappies (diapers) and sleep in the newborn weeks, plus a milestones log and month-by-month memory prompts.",
+  "eyebrow": "Baby diary",
+  "h1": "Your SillyBaby diary",
+  "intro": "Tired brains forget. A simple log of feeds, nappies and sleep helps you spot patterns and answer “when did they last feed?” at your midwife, health visitor or paediatrician visits. Print this page (the menus disappear when you print).",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3",
+    "alt": "A fountain pen resting on an open spiral notebook",
+    "credit": "Aaron Burden",
+    "creditUrl": "https://unsplash.com/@aaronburden"
+  },
+  "search": false,
+  "sections": [
+    {
+      "h2": "Daily log: feeds, nappies and sleep",
+      "html": "<p>Use one sheet a day in the early weeks. Tick W for a wet nappy and D for a dirty one.</p><div class=\"table-wrap\"><table class=\"diary\"><thead><tr><th>Time</th><th>Feed (side / amount)</th><th>Nappy W / D</th><th>Sleep from–to</th><th>Mood</th><th>Notes</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div><p class=\"callout tip\">From around day 5, the NHS says a well-fed baby has at least 6 heavy wet nappies a day. Fewer than that, or no poo, is worth mentioning to your midwife or health visitor.</p>"
+    },
+    {
+      "h2": "Milestones log",
+      "html": "<div class=\"table-wrap\"><table class=\"diary\"><thead><tr><th>Milestone</th><th>Date</th><th>Notes</th></tr></thead><tbody><tr><td>First smile</td><td></td><td></td></tr><tr><td>Holds head steady</td><td></td><td></td></tr><tr><td>Rolls over</td><td></td><td></td></tr><tr><td>First laugh</td><td></td><td></td></tr><tr><td>Sits alone</td><td></td><td></td></tr><tr><td>First tooth</td><td></td><td></td></tr><tr><td>First food</td><td></td><td></td></tr><tr><td>Crawls or shuffles</td><td></td><td></td></tr><tr><td>Pulls to stand</td><td></td><td></td></tr><tr><td>First steps</td><td></td><td></td></tr><tr><td>First word</td><td></td><td></td></tr><tr><td>First two-word phrase</td><td></td><td></td></tr></tbody></table></div><p>Compare with our <a href=\"/milestones/\">milestones timeline</a> (just a guide: every baby is different).</p>"
+    },
+    {
+      "h2": "Diary prompts, month by month",
+      "html": "<ul class=\"ladder\"><li><span class=\"age\">Month 1</span><p>How did you choose their name? Who visited first? What surprised you most?</p></li><li><span class=\"age\">Month 3</span><p>What makes them smile? Favourite song or cuddle position?</p></li><li><span class=\"age\">Month 6</span><p>First tastes and funniest food faces. New sounds they make.</p></li><li><span class=\"age\">Month 9</span><p>Favourite toy, game or book. Where do they love to go?</p></li><li><span class=\"age\">Month 12</span><p>First birthday: who came, what they ate, how far they have come.</p></li><li><span class=\"age\">Every year</span><p>A height mark on the door frame, a favourite saying, a drawing they made.</p></li></ul><p>Prefer an app? In the UK, your baby's red book (Personal Child Health Record) is also increasingly available digitally in some areas; the CDC's <a href=\"https://www.cdc.gov/act-early/milestones-app/index.html\" rel=\"noopener\" target=\"_blank\">Milestone Tracker app</a> is free in the US.</p>"
+    },
+    {
+      "h2": "Questions to take to appointments",
+      "html": "<ul><li>Is my baby gaining weight as expected?</li><li>Is this many feeds, wet and dirty nappies normal for their age?</li><li>Which vaccines are next, and when?</li><li>What should I do if they get a temperature?</li><li>How am I doing? (Your wellbeing matters too.)</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to track my newborn’s feeds?",
+      "a": "It isn’t required, but many parents find a simple log helpful in the first weeks, especially if there are questions about feeding or weight. Your midwife or health visitor may ask about wet and dirty nappies."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Your baby after the birth (Start for Life / Pregnancy, birth and beyond)",
+      "url": "https://www.nhs.uk/baby/"
+    },
+    {
+      "title": "CDC: Milestones by age (Learn the Signs. Act Early.)",
+      "url": "https://www.cdc.gov/act-early/milestones/index.html"
+    },
+    {
+      "title": "NHS: Your baby’s health and development reviews",
+      "url": "https://www.nhs.uk/baby/babys-development/height-weight-and-reviews/baby-reviews/"
+    }
+  ],
+  "related": [
+    "newborn",
+    "milestones",
+    "feeding",
+    "care/nappy-changing"
+  ],
+  "keywords": [
+    "baby diary",
+    "baby log",
+    "feeding tracker",
+    "newborn feeding chart",
+    "nappy tracker",
+    "baby sleep log",
+    "printable baby tracker",
+    "baby journal prompts"
+  ],
+  "cardText": "Printable feed, nappy and sleep log plus memory prompts."
+}

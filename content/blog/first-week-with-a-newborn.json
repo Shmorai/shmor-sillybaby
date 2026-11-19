@@ -1,0 +1,95 @@
+{
+  "updated": "2026-11-18",
+  "slug": "blog/first-week-with-a-newborn",
+  "type": "post",
+  "date": "2026-11-14",
+  "title": "Your First Week with a Newborn: What to Expect",
+  "description": "The first week with a newborn, day by day: feeding, nappies, weight, sleep, the baby blues and checks, plus warning signs that mean you should call for help.",
+  "eyebrow": "Newborn",
+  "h1": "Your first week with a newborn",
+  "intro": "The first week is a blur of feeds, nappies and staring at a tiny face. Here is what is normal, what to watch for and how to look after yourself.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1773243086593-d36487e39a0b",
+    "alt": "An adult hand holding a newborn baby’s hand",
+    "credit": "Olivia Anne Snyder",
+    "creditUrl": "https://unsplash.com/@olivialu10"
+  },
+  "sections": [
+    {
+      "h2": "Days 1 to 3: getting to know each other",
+      "html": "<ul><li><strong>Feeding:</strong> babies may feed little and often. Colostrum, the first milk, comes in small amounts and is just what your baby needs. If you formula feed, small amounts are normal.</li><li><strong>Nappies:</strong> the first poos are dark and sticky (meconium).</li><li><strong>Weight:</strong> most babies lose some weight in the first days.</li><li><strong>Checks:</strong> your baby has a newborn physical exam and hearing test within the first few days (UK), or newborn screening tests (US).</li></ul>"
+    },
+    {
+      "h2": "Days 3 to 5: milk comes in",
+      "html": "<p>For breastfeeding parents, milk often “comes in” around day 3 to 5, and breasts can feel full and tender. Feeding often helps. Poos change from dark to greenish to yellow. In the UK, the blood spot (heel prick) test is usually done around day 5.</p>"
+    },
+    {
+      "h2": "Days 5 to 7: finding a rhythm",
+      "html": "<p>From around day 5, look for at least 6 heavy wet nappies a day and regular yellow poos (NHS). Your midwife will check how feeding is going and your baby's weight. Most babies are back to their birth weight by about 2 weeks. A simple <a href=\"/baby-diary/\">feed and nappy diary</a> makes these conversations easier.</p>"
+    },
+    {
+      "h2": "Sleep in week one",
+      "html": "<p>Newborns sleep a lot but wake often to feed, day and night. Always put your baby on their back in their own clear cot or Moses basket in your room. Our <a href=\"/sleep/safe-sleep/\">safe sleep guide</a> has a one-picture summary. If you use a sleep bag or swaddle (such as these [[link:cj8022425-swaddle|swaddles]]), check it’s the right size for a newborn.</p>"
+    },
+    {
+      "h2": "Looking after yourself",
+      "html": "<p>Bleeding after birth (lochia), soreness, tiredness and big emotions are all expected. Up to two weeks of tearfulness and mood swings (the baby blues) is common. If you feel low or anxious for longer, or have thoughts of harming yourself, tell your midwife, health visitor or GP straight away. See our <a href=\"/newborn/\">newborn guide</a> for UK and US support lines.</p>"
+    },
+    {
+      "h2": "When to call for help",
+      "html": "<p class=\"callout warn\">Call 999 / 911 / 112 if your baby has trouble breathing, turns blue or grey, is floppy or unresponsive, or has a fit. Get urgent advice (midwife, GP, NHS 111 or your paediatrician) if your baby has a temperature of 38°C (100.4°F) or more, isn't feeding, has few wet nappies, has jaundice in the first 24 hours, or you're worried. For you: heavy bleeding, fever, severe headache, chest pain or a painful, swollen leg need urgent medical help.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much should a newborn eat in the first week?",
+      "a": "Small amounts often. Breastfed babies may feed 8 to 12 times or more in 24 hours. Watch for wet and dirty nappies and ask your midwife to check feeding and weight."
+    },
+    {
+      "q": "Is it normal for a newborn to lose weight?",
+      "a": "Yes. Most babies lose some weight in the first few days and regain their birth weight by about 2 weeks. Your midwife will weigh your baby and help if they lose more than expected."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Your baby after the birth (Start for Life / Pregnancy, birth and beyond)",
+      "url": "https://www.nhs.uk/baby/"
+    },
+    {
+      "title": "NHS: Newborn blood spot test (heel prick)",
+      "url": "https://www.nhs.uk/baby/newborn-screening/blood-spot-test/"
+    },
+    {
+      "title": "NHS: Newborn jaundice",
+      "url": "https://www.nhs.uk/conditions/jaundice-newborn/"
+    },
+    {
+      "title": "NHS: Postnatal depression",
+      "url": "https://www.nhs.uk/mental-health/conditions/post-natal-depression/overview/"
+    },
+    {
+      "title": "NHS: Your post-pregnancy body",
+      "url": "https://www.nhs.uk/conditions/baby/support-and-services/your-post-pregnancy-body/"
+    },
+    {
+      "title": "AAP Bright Futures: Well-child visits (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/family-life/health-management/Pages/Well-Child-Care-A-Check-Up-for-Success.aspx"
+    }
+  ],
+  "related": [
+    "newborn",
+    "baby-diary",
+    "feeding/breastfeeding"
+  ],
+  "keywords": [
+    "first week with newborn",
+    "newborn first week",
+    "newborn day by day",
+    "when does milk come in",
+    "newborn weight loss",
+    "baby blues",
+    "newborn checks",
+    "new mom first week"
+  ],
+  "cardText": "Day-by-day feeding, nappies, checks and self-care."
+}

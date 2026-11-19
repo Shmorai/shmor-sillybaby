@@ -1,0 +1,170 @@
+{
+  "updated": "2026-11-18",
+  "slug": "toddler",
+  "title": "Toddler Guide (1 to 3 Years): Words, Food and Tantrums",
+  "description": "Toddler guide for ages 1 to 3: first steps and words, tantrums, fussy eating, milk and vitamins, sleep, potty readiness and keeping busy toddlers safe.",
+  "eyebrow": "1–3 years",
+  "h1": "Toddlers: 1 to 3 years",
+  "intro": "Wobbly first steps, a word for everything and feelings far bigger than they are. Here is how to support (and survive) the toddler years.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1440288736878-766bd5839edb",
+    "alt": "A toddler girl playing with soap bubbles",
+    "credit": "Leo Rivas",
+    "creditUrl": "https://unsplash.com/@leorivas"
+  },
+  "chips": [
+    {
+      "label": "Potty training",
+      "slug": "care/potty-training"
+    },
+    {
+      "label": "Milestones",
+      "slug": "milestones"
+    },
+    {
+      "label": "Play ideas",
+      "slug": "play-and-learning"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Toddler milestones",
+      "html": "<ul class=\"ladder\"><li><span class=\"age\">15 months</span><p>Takes a few steps alone, tries to say one or two words besides “mama” or “dada”, points to ask for things.</p></li><li><span class=\"age\">18 months</span><p>Walks without holding on, tries to say three or more words, scribbles, and follows simple one-step directions.</p></li><li><span class=\"age\">2 years</span><p>Kicks a ball, runs, says at least two words together (“more milk”), and points to things in a book when you ask.</p></li><li><span class=\"age\">30 months</span><p>Says about 50 words, jumps off the ground with both feet, and takes some steps when dressing (like putting on loose trousers).</p></li></ul><p>Based on CDC checklists (things most children do by that age). In the UK, your health visitor offers a review at around 2 to 2½ years. Speak up early if your toddler isn't using words by around 18 months or has lost skills.</p>"
+    },
+    {
+      "h2": "Food, milk and vitamins",
+      "html": "<ul><li><strong>Milk:</strong> from 12 months, whole (full-fat) cow's milk can be your toddler's main drink (NHS and AAP). Toddler and growing-up milks aren't needed. Breastfeeding can continue for as long as you both want.</li><li><strong>Bottles to cups:</strong> aim to move from bottles to an open or free-flow cup around the first birthday.</li><li><strong>Meals:</strong> three meals and two or three healthy snacks, eating together where you can. Toddlers often refuse new foods; keep offering small amounts without pressure.</li><li><strong>Vitamins:</strong> the NHS recommends children aged 6 months to 5 years have a daily supplement with vitamins A, C and D, unless they drink more than 500ml of formula a day.</li><li><strong>Choking:</strong> cut grapes and cherry tomatoes lengthways into quarters, and no whole nuts under 5.</li></ul>"
+    },
+    {
+      "h2": "Tantrums and big feelings",
+      "html": "<p>Tantrums are a normal part of development: toddlers have strong feelings and not yet the words or self-control to manage them. What often helps:</p><div class=\"cards-3\"><div class=\"mini pink\"><h3>Stay calm and close</h3><p>Your calm helps them calm. Keep them safe and wait it out.</p></div><div class=\"mini sky\"><h3>Name the feeling</h3><p>“You’re cross because the park is closed.”</p></div><div class=\"mini sun\"><h3>Offer simple choices</h3><p>“Red cup or blue cup?” gives some control.</p></div><div class=\"mini mint\"><h3>Spot triggers</h3><p>Hunger and tiredness are the big two.</p></div></div><p>Ask your health visitor or GP if tantrums are very frequent, very long, or your child hurts themselves or others.</p>"
+    },
+    {
+      "h2": "Sleep and routines",
+      "html": "<p>The AASM recommends 11 to 14 hours in 24 hours (including naps) for children aged 1 to 2, and most toddlers drop to one nap during the second year. A predictable bedtime routine (bath, teeth, books, bed) helps. Many toddlers move from a cot to a bed between 18 months and 3 years; there's no rush while they are safe and happy in a cot. Many toddlers keep using a sleep bag after moving to a bed; some, like Kaiya Baby’s [[link:cj8022425-walker|walker sleep sacks]], have foot openings so children can walk in them. Always choose the right size for your child’s height and weight.</p>"
+    },
+    {
+      "h2": "Potty training and safety",
+      "html": "<p>Most children show signs of being ready for <a href=\"/care/potty-training/\">potty training</a> somewhere between 18 months and 3 years, so follow your child's readiness rather than a date.</p><p>Toddlers climb, open and taste everything. Anchor furniture and TVs to the wall, keep medicines, cleaning products, laundry capsules, button batteries and magnets locked away, and stay within reach around water. See our <a href=\"/safety/childproofing/\">childproofing checklist</a>. Keep your toddler rear-facing in the car for as long as their seat allows.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Toddler kit worth having",
+      "intro": "Useful buys for 1 to 3 year olds, with what to check first.",
+      "items": [
+        {
+          "icon": "utensils",
+          "title": "Open cups and toddler cutlery",
+          "age": "12 m+",
+          "text": "Practise drinking and feeding themselves.",
+          "checks": [
+            "Open or free-flow cups rather than bottles",
+            "Short, chunky handles for little hands",
+            "BPA-free and dishwasher-safe"
+          ],
+          "guide": "feeding/starting-solids"
+        },
+        {
+          "icon": "check",
+          "title": "Potty or toilet seat",
+          "age": "18 m–3 y",
+          "text": "When your child shows readiness signs.",
+          "checks": [
+            "Stable base that won’t tip",
+            "A step stool if using the big toilet",
+            "Easy to clean"
+          ],
+          "guide": "care/potty-training"
+        },
+        {
+          "icon": "car",
+          "title": "Next-stage car seat",
+          "age": "When outgrown",
+          "text": "Move up only when they reach the seat’s height or weight limit.",
+          "checks": [
+            "Rear-facing for as long as possible (UK i-Size seats: at least to 15 months)",
+            "Meets R129 or FMVSS 213",
+            "Correct installation, and no bulky coats under the harness"
+          ],
+          "guide": "safety/car-seats"
+        },
+        {
+          "icon": "sparkles",
+          "title": "Play that builds skills",
+          "age": "1–3 y",
+          "text": "Simple toys get the most use.",
+          "checks": [
+            "Stacking, posting and push-along toys",
+            "Chunky crayons and board books",
+            "Age-labelled: no small parts for under-3s"
+          ],
+          "guide": "play-and-learning"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many words should a 2 year old say?",
+      "a": "By 2, the CDC lists saying at least two words together, like “more milk”, as a milestone most children reach, and by 30 months about 50 words. Children vary a lot, but if you are worried about speech, ask your health visitor, GP or paediatrician; early help works well."
+    },
+    {
+      "q": "Do toddlers need toddler milk?",
+      "a": "No. The NHS says toddler, growing-up and follow-on milks aren’t needed. From 12 months whole cow’s milk (or continued breastfeeding) alongside a varied diet is fine. Ask your GP or dietitian about alternatives if your child has an allergy."
+    },
+    {
+      "q": "When should a toddler move to a bed?",
+      "a": "Usually between 18 months and 3 years, often when they start climbing out of the cot. There is no set age; make the move when it suits your child and keep the room childproofed."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CDC: Milestones by age (Learn the Signs. Act Early.)",
+      "url": "https://www.cdc.gov/act-early/milestones/index.html"
+    },
+    {
+      "title": "NHS: Vitamins for children",
+      "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/vitamins-for-children/"
+    },
+    {
+      "title": "NHS: Temper tantrums",
+      "url": "https://www.nhs.uk/baby/babys-development/behaviour/temper-tantrums/"
+    },
+    {
+      "title": "American Academy of Sleep Medicine: Recommended amount of sleep for pediatric populations (2016)",
+      "url": "https://doi.org/10.5664/jcsm.5866"
+    },
+    {
+      "title": "NHS: How to potty train",
+      "url": "https://www.nhs.uk/baby/babys-development/potty-training-and-bedwetting/how-to-potty-train/"
+    },
+    {
+      "title": "HealthyChildren.org (American Academy of Pediatrics)",
+      "url": "https://www.healthychildren.org/"
+    },
+    {
+      "title": "NHS Start for Life: Weaning",
+      "url": "https://www.nhs.uk/start-for-life/baby/weaning/"
+    }
+  ],
+  "related": [
+    "care/potty-training",
+    "play-and-learning",
+    "safety/childproofing",
+    "milestones"
+  ],
+  "keywords": [
+    "toddler",
+    "toddler development",
+    "toddler tantrums",
+    "toddler milestones",
+    "toddler milk",
+    "toddler sleep",
+    "fussy eating toddler",
+    "18 month old",
+    "2 year old"
+  ],
+  "cardText": "Walking, words, tantrums, food and potty readiness."
+}

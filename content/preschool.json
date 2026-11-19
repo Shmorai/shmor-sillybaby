@@ -1,0 +1,150 @@
+{
+  "updated": "2026-11-18",
+  "slug": "preschool",
+  "title": "Preschoolers (3 to 5 Years): Play, Feelings and School",
+  "description": "Raising a preschooler aged 3 to 5: development milestones, play and learning, friendships, feelings, sleep, healthy eating and getting ready for school.",
+  "eyebrow": "3–5 years",
+  "h1": "Preschoolers: 3 to 5 years",
+  "intro": "“Why?” on repeat, epic pretend play and growing independence. Here is how to help your preschooler thrive and get ready for school.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1588075592405-d3d4f0846961",
+    "alt": "A group of young children sitting on a classroom floor listening to a story",
+    "credit": "CDC",
+    "creditUrl": "https://unsplash.com/@cdc"
+  },
+  "sections": [
+    {
+      "h2": "Preschool milestones",
+      "html": "<ul class=\"ladder\"><li><span class=\"age\">3 years</span><p>Talks with you in conversation using at least two back-and-forth exchanges, asks “who, what, where, why” questions, puts on some clothes by themselves, and draws a circle when shown how.</p></li><li><span class=\"age\">4 years</span><p>Says sentences of four or more words, pretends to be something else during play, catches a large ball most of the time, and serves themselves food with help.</p></li><li><span class=\"age\">5 years</span><p>Tells a story with at least two events, counts to 10, hops on one foot, buttons some buttons, and follows rules or takes turns in simple games.</p></li></ul><p>Milestones from the CDC. In the UK, children's development is also reviewed at school entry.</p>"
+    },
+    {
+      "h2": "Play, learning and screen time",
+      "html": "<p>Play is how preschoolers learn. Pretend play builds language and empathy, building and puzzles build problem-solving, and running, climbing and riding build strength and coordination.</p><ul><li><strong>Activity:</strong> the UK Chief Medical Officers advise at least 180 minutes of physical activity a day for 3 and 4 year olds, including at least 60 minutes of more energetic play. The WHO says the same.</li><li><strong>Screens:</strong> the WHO advises no more than 1 hour of sedentary screen time a day for 2 to 4 year olds (less is better), and the AAP suggests choosing high-quality programmes and watching together.</li><li><strong>Reading:</strong> share books every day; ask questions about the pictures and let them “read” to you.</li></ul><p>More ideas in <a href=\"/play-and-learning/\">play and learning</a>.</p>"
+    },
+    {
+      "h2": "Feelings and friendships",
+      "html": "<p>Preschoolers start to play with other children rather than alongside them, learn to share and take turns, and begin to name their feelings. Help by naming emotions, praising effort (“you kept trying!”), and keeping rules simple and consistent.</p>"
+    },
+    {
+      "h2": "Getting ready for school",
+      "html": "<p>In England, children usually start Reception in the September after they turn 4 (school is compulsory from the term after their 5th birthday). In the US, kindergarten usually starts at around 5, and pre-K and Head Start programmes vary by state. Helpful skills to practise:</p><ul><li>Using the toilet and washing hands alone</li><li>Putting on coats and shoes</li><li>Recognising their own name</li><li>Opening lunch boxes and packets</li><li>Asking a grown-up for help</li></ul>"
+    },
+    {
+      "h2": "Health, sleep and safety",
+      "html": "<p>The AASM recommends 10 to 13 hours of sleep in 24 hours (including naps) for 3 to 5 year olds. Keep up dental check-ups and supervised brushing twice a day with a pea-sized amount of fluoride toothpaste. Children should stay in an appropriate car seat or booster (UK law: until 12 years old or 135cm tall). Teach road safety by holding hands and talking through crossings.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Preschool picks",
+      "intro": "Things that support play, independence and safety at 3 to 5.",
+      "items": [
+        {
+          "icon": "sparkles",
+          "title": "Open-ended toys",
+          "age": "3–5 y",
+          "text": "Toys that can be anything.",
+          "checks": [
+            "Blocks, dress-up, play dough, small-world sets",
+            "Sturdy and age-labelled",
+            "Few toys, rotated, beat many toys at once"
+          ],
+          "guide": "play-and-learning"
+        },
+        {
+          "icon": "file",
+          "title": "Picture books",
+          "age": "3–5 y",
+          "text": "Daily reading builds language.",
+          "checks": [
+            "Rhymes, repetition and lift-the-flap",
+            "Books about feelings and starting school",
+            "Free options: libraries, Bookstart (UK), Imagination Library"
+          ],
+          "guide": "play-and-learning"
+        },
+        {
+          "icon": "shield",
+          "title": "Balance bike and helmet",
+          "age": "3 y+",
+          "text": "Great for confidence and coordination.",
+          "checks": [
+            "Child can sit with both feet flat on the ground",
+            "Helmet meets EN 1078 (UK/EU) or CPSC (US)",
+            "Helmet fits snugly, level on the forehead"
+          ],
+          "guide": "school-age"
+        },
+        {
+          "icon": "car",
+          "title": "High-back booster or harness seat",
+          "age": "When outgrown",
+          "text": "Only move up when the current seat is outgrown.",
+          "checks": [
+            "Height-based R129 seats in the UK/EU",
+            "Shoulder belt crosses the chest, lap belt on the hips",
+            "Back seat is safest"
+          ],
+          "guide": "safety/car-seats"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much sleep does a 4 year old need?",
+      "a": "The American Academy of Sleep Medicine recommends 10 to 13 hours in 24 hours for 3 to 5 year olds, including naps. Many children drop their daytime nap at some point during this stage."
+    },
+    {
+      "q": "When do children start school in the UK?",
+      "a": "In England, most children start Reception class in the September after their 4th birthday. School becomes compulsory from the term after a child’s 5th birthday. Scotland, Wales and Northern Ireland have their own rules."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CDC: Milestones by age (Learn the Signs. Act Early.)",
+      "url": "https://www.cdc.gov/act-early/milestones/index.html"
+    },
+    {
+      "title": "UK Chief Medical Officers’ physical activity guidelines",
+      "url": "https://www.gov.uk/government/publications/physical-activity-guidelines-uk-chief-medical-officers-report"
+    },
+    {
+      "title": "WHO: Guidelines on physical activity, sedentary behaviour and sleep for children under 5",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    },
+    {
+      "title": "AAP: Family Media Plan (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/fmp/Pages/MediaPlan.aspx"
+    },
+    {
+      "title": "American Academy of Sleep Medicine: Recommended amount of sleep for pediatric populations (2016)",
+      "url": "https://doi.org/10.5664/jcsm.5866"
+    },
+    {
+      "title": "GOV.UK: Child car seats, the law",
+      "url": "https://www.gov.uk/child-car-seats-the-rules"
+    },
+    {
+      "title": "NHS: Looking after your baby’s teeth",
+      "url": "https://www.nhs.uk/baby/babys-development/teething/looking-after-your-babys-teeth/"
+    }
+  ],
+  "related": [
+    "play-and-learning",
+    "school-age",
+    "milestones",
+    "toddler"
+  ],
+  "keywords": [
+    "preschooler",
+    "preschool age",
+    "4 year old development",
+    "school readiness",
+    "starting school",
+    "screen time preschool",
+    "preschool sleep"
+  ],
+  "cardText": "Play, feelings, friendships and getting school-ready."
+}

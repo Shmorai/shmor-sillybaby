@@ -1,0 +1,83 @@
+{
+  "updated": "2026-11-18",
+  "slug": "blog/hospital-bag-checklist",
+  "type": "post",
+  "date": "2026-11-12",
+  "title": "Hospital Bag Checklist: Mum, Baby and Birth Partner",
+  "description": "A practical hospital bag checklist for labour and birth: what to pack for you, your baby and your birth partner, when to pack it, and the things you can skip.",
+  "eyebrow": "Pregnancy & birth",
+  "h1": "Hospital bag checklist (that you will actually use)",
+  "intro": "Pack once, calmly, a few weeks before your due date. Here is a no-nonsense list for you, your baby and your birth partner, whether you are giving birth in a hospital, birth centre or planning a home birth.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1448582649076-3981753123b5",
+    "alt": "A brown duffel bag beside a wooden chair",
+    "credit": "Erol Ahmed",
+    "creditUrl": "https://unsplash.com/@erol"
+  },
+  "sections": [
+    {
+      "h2": "When to pack",
+      "html": "<p>The NHS suggests having your bag ready a few weeks before your due date. Keep it by the door with your maternity notes, and make sure your birth partner knows where it is.</p>"
+    },
+    {
+      "h2": "For you",
+      "html": "<ul><li>Your birth plan and maternity notes (or the app your maternity service uses)</li><li>Something loose and comfortable to wear in labour</li><li>A dressing gown, slippers and a few pairs of socks</li><li>2 or 3 comfortable, supportive bras (nursing bras if you plan to breastfeed) and breast pads</li><li>Maternity pads (plenty) and comfortable, high-waisted pants</li><li>Toiletries, lip balm, hairbands, glasses if you wear them</li><li>Snacks and drinks, a phone and a long charging cable</li><li>A loose, comfy outfit to go home in</li><li>Any medicines you take</li></ul>"
+    },
+    {
+      "h2": "For your baby",
+      "html": "<ul><li>Sleepsuits and vests (bodysuits): newborn and 0–3 month sizes, for example these [[link:cj8022425-bodysuits|organic cotton bodysuits]]</li><li>A hat and socks or scratch mittens</li><li>A few nappies (diapers) and cotton wool or fragrance-free wipes</li><li>Muslins or burp cloths</li><li>A shawl or blanket, and a warm outer layer depending on the weather</li><li>If you plan to formula feed: ready-to-feed formula and sterilised bottles (check what your hospital provides)</li><li><strong>A rear-facing car seat</strong> fitted in the car before your due date, if you'll drive home. See our <a href=\"/safety/car-seats/\">car seat guide</a>.</li></ul>"
+    },
+    {
+      "h2": "For your birth partner",
+      "html": "<ul><li>Snacks, drinks and a refillable water bottle</li><li>Change of clothes and toiletries</li><li>Phone, charger, a power bank and some change for parking or vending machines</li><li>Something to pass the time in early labour</li></ul>"
+    },
+    {
+      "h2": "What you can skip",
+      "html": "<p>You don't need lots of outfits for the baby, expensive gadgets or your whole skincare routine. Hospitals and birth centres differ, so ask your midwife or check your maternity unit's website for what they provide (for example, nappies or formula) and any restrictions.</p>"
+    },
+    {
+      "h2": "After you get home",
+      "html": "<p>Have the basics ready at home: a safe sleep space (see <a href=\"/sleep/safe-sleep/\">safe sleep</a>), nappies, a few sleep bags or light blankets and feeding supplies. Our <a href=\"/gear/\">baby gear guide</a> and <a href=\"/newborn/\">newborn guide</a> cover the first weeks.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When should I pack my hospital bag?",
+      "a": "A few weeks before your due date, according to the NHS. If you’ve been told you may give birth early, pack sooner."
+    },
+    {
+      "q": "How many baby outfits do I need for hospital?",
+      "a": "A few sleepsuits and vests in newborn and 0–3 month sizes is usually enough, plus a hat and a warm layer for going home."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Pack your bag for labour",
+      "url": "https://www.nhs.uk/pregnancy/labour-and-birth/preparing-for-the-birth/pack-your-bag-for-labour/"
+    },
+    {
+      "title": "GOV.UK: Child car seats, the law",
+      "url": "https://www.gov.uk/child-car-seats-the-rules"
+    },
+    {
+      "title": "NHTSA: Car seats and booster seats",
+      "url": "https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats"
+    }
+  ],
+  "related": [
+    "newborn",
+    "gear",
+    "safety/car-seats"
+  ],
+  "keywords": [
+    "hospital bag checklist",
+    "what to pack in hospital bag",
+    "hospital bag for labour",
+    "baby hospital bag",
+    "birth partner bag",
+    "when to pack hospital bag",
+    "hospital bag list"
+  ],
+  "cardText": "What to pack for you, your baby and your birth partner.",
+  "partnersTitle": "For your baby, from our partners"
+}

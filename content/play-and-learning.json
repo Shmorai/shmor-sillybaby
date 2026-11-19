@@ -1,0 +1,128 @@
+{
+  "updated": "2026-11-18",
+  "slug": "play-and-learning",
+  "nav": "Play & learning",
+  "title": "Play and Learning Ideas by Age: Baby to 12 Years",
+  "description": "Easy play and learning ideas by age, from tummy time to board games: reading, outdoor play, screen time guidance from the WHO and AAP, and free book schemes.",
+  "eyebrow": "Play & learning",
+  "h1": "Play is how they learn",
+  "intro": "You don’t need fancy toys. Talking, reading, moving and silly games do most of the work. Here are ideas for every age.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1714646793075-6dbfc604e664",
+    "alt": "A mother and child lying on the floor reading a book together",
+    "credit": "Vitaly Gariev",
+    "creditUrl": "https://unsplash.com/@silverkblack"
+  },
+  "sections": [
+    {
+      "h2": "Play ideas by age",
+      "html": "<ul class=\"ladder\"><li><span class=\"age\">0–3 m</span><p>Face-to-face chats, singing, black-and-white pictures, short tummy time on your chest or the floor.</p></li><li><span class=\"age\">3–12 m</span><p>Peekaboo, rattles, stacking cups, banging pots, board books, rolling a ball, splashing in the bath (supervised).</p></li><li><span class=\"age\">1–3 y</span><p>Push-along toys, shape sorters, chunky crayons, sand and water, dancing, simple pretend play (“tea party”).</p></li><li><span class=\"age\">3–5 y</span><p>Dress-up, building, play dough, puzzles, scooting and balance bikes, nature walks, counting and rhyming games.</p></li><li><span class=\"age\">5–8 y</span><p>Board games, Lego, crafts, cooking together, bikes, swimming, clubs and sports, reading together.</p></li><li><span class=\"age\">8–12 y</span><p>Hobbies, team sports, chess and strategy games, coding, music, building dens, longer books and graphic novels.</p></li></ul>"
+    },
+    {
+      "h2": "Screen time guidance",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Age</th><th>WHO (2019)</th><th>AAP</th></tr></thead><tbody><tr><td>Under 1</td><td>No screen time</td><td>Avoid screens other than video-chatting under 18–24 months</td></tr><tr><td>1 year</td><td>No sedentary screen time</td><td>If introducing media from 18 months, choose high-quality and watch together</td></tr><tr><td>2–4 years</td><td>No more than 1 hour a day; less is better</td><td>2–5 years: about 1 hour a day of high-quality programmes, co-viewed</td></tr><tr><td>5+ years</td><td>—</td><td>Make a family media plan that protects sleep, activity and family time</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Moving more",
+      "html": "<p>The WHO and UK Chief Medical Officers recommend babies are active several times a day, including at least 30 minutes of tummy time spread through the day; 1 to 4 year olds at least 180 minutes of activity a day (for 3 to 4 year olds, including at least 60 minutes of energetic play); and children aged 5 and over an average of at least 60 minutes of moderate-to-vigorous activity a day.</p>"
+    },
+    {
+      "h2": "Reading together, and free books",
+      "html": "<p>Sharing books every day, from birth, builds language and closeness. Free schemes include <a href=\"https://www.booktrust.org.uk/what-we-do/programmes-and-campaigns/bookstart/\" rel=\"noopener\" target=\"_blank\">Bookstart</a> (BookTrust, England and Wales) and <a href=\"https://imaginationlibrary.com/\" rel=\"noopener\" target=\"_blank\">Dolly Parton's Imagination Library</a> (free books by post in participating areas of the US, UK and other countries). Your local library card is free too.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Toys that grow with them",
+      "intro": "A few open-ended toys beat a mountain of single-use ones.",
+      "items": [
+        {
+          "icon": "sparkles",
+          "title": "Stacking and sorting",
+          "age": "6 m–3 y",
+          "checks": [
+            "No small parts for under-3s (CE / UKCA or ASTM F963 labelled)",
+            "Easy to wipe clean"
+          ]
+        },
+        {
+          "icon": "house",
+          "title": "Building blocks",
+          "age": "1 y+",
+          "checks": [
+            "Chunky for toddlers, smaller bricks from 3+",
+            "Sturdy and smooth-edged"
+          ]
+        },
+        {
+          "icon": "heart",
+          "title": "Pretend play",
+          "age": "2 y+",
+          "checks": [
+            "Dress-up, kitchens, dolls, small-world sets",
+            "No cords longer than safety limits"
+          ]
+        },
+        {
+          "icon": "compass",
+          "title": "Outdoor play",
+          "age": "1 y+",
+          "checks": [
+            "Balls, scooters, balance bikes",
+            "Helmets that fit"
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much screen time is OK for a 2 year old?",
+      "a": "The WHO advises no more than 1 hour of sedentary screen time a day for 2 to 4 year olds, and less is better. The AAP suggests choosing high-quality programmes and watching together."
+    },
+    {
+      "q": "What are the best toys for a 1 year old?",
+      "a": "Simple, open-ended toys: stacking cups, shape sorters, push-along toys, balls and board books. Check age labels and avoid small parts."
+    }
+  ],
+  "sources": [
+    {
+      "title": "WHO: Guidelines on physical activity, sedentary behaviour and sleep for children under 5",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    },
+    {
+      "title": "UK Chief Medical Officers’ physical activity guidelines",
+      "url": "https://www.gov.uk/government/publications/physical-activity-guidelines-uk-chief-medical-officers-report"
+    },
+    {
+      "title": "AAP: Family Media Plan (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/fmp/Pages/MediaPlan.aspx"
+    },
+    {
+      "title": "BookTrust: Bookstart",
+      "url": "https://www.booktrust.org.uk/what-we-do/programmes-and-campaigns/bookstart/"
+    },
+    {
+      "title": "Dolly Parton’s Imagination Library",
+      "url": "https://imaginationlibrary.com/"
+    }
+  ],
+  "related": [
+    "milestones",
+    "toddler",
+    "preschool",
+    "resources"
+  ],
+  "keywords": [
+    "play ideas",
+    "activities for toddlers",
+    "baby play ideas",
+    "screen time guidelines",
+    "learning activities for kids",
+    "tummy time",
+    "best toys by age",
+    "free books for babies"
+  ],
+  "cardText": "Play ideas, reading, activity and screen time by age."
+}

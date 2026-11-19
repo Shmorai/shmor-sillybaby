@@ -1,0 +1,128 @@
+{
+  "updated": "2026-11-18",
+  "slug": "feeding/formula-and-bottle-feeding",
+  "nav": "Formula and bottles",
+  "title": "Formula and Bottle Feeding: How to Make Feeds Safely",
+  "description": "How to bottle feed safely: choosing first infant formula, sterilising, making up feeds with water at 70°C, paced bottle feeding and how much milk babies need.",
+  "eyebrow": "Feeding",
+  "h1": "Formula and bottle feeding, safely",
+  "intro": "Whether you formula feed, give expressed milk or combine both, safe preparation and responsive feeding are what matter most.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1529567054786-fc5235fdd39e",
+    "alt": "A parent bottle feeding a baby",
+    "credit": "Rainier Ridao",
+    "creditUrl": "https://unsplash.com/@rainierridao"
+  },
+  "sections": [
+    {
+      "h2": "Choosing formula",
+      "html": "<ul><li><strong>First infant formula</strong> (usually cows' milk based) is suitable for the whole first year. The NHS says follow-on formula isn't needed, and toddler or growing-up milks aren't necessary after 12 months.</li><li>All infant formula sold in the UK and EU must meet the same legal composition rules, and US formula must meet FDA requirements, so pricier brands aren't nutritionally “better”.</li><li>Only use specialist formulas (for example, for cows' milk allergy) on the advice of a health professional.</li><li>Never water down formula or add anything to the bottle.</li></ul>"
+    },
+    {
+      "h2": "How to make up a formula feed (UK NHS method)",
+      "html": "<p>Powdered formula isn't sterile, so the NHS advises using water at <strong>at least 70°C</strong> to kill any bacteria:</p><ol><li>Fill the kettle with at least 1 litre of fresh tap water, boil it, then leave it to cool for <strong>no more than 30 minutes</strong>.</li><li>Clean and disinfect the work surface; wash your hands.</li><li>Pour the correct amount of water into a sterilised bottle (check the formula pack).</li><li>Add the exact number of level scoops, using the scoop in the pack.</li><li>Put on the teat and cap, and shake well.</li><li>Cool quickly under a cold tap, and test on the inside of your wrist: it should feel warm, not hot.</li><li>Throw away any formula left after a feed.</li></ol><p class=\"callout\">Never warm bottles in a microwave (it creates hot spots). Ready-to-feed liquid formula is sterile and doesn't need hot water, which is useful for nights and travel. In the US, the CDC and the formula label give the instructions to follow; ask your paediatrician what's right for your baby.</p>"
+    },
+    {
+      "h2": "Sterilising bottles",
+      "html": "<p>Sterilise bottles, teats and equipment until your baby is at least 12 months old (NHS). Wash in hot soapy water first, then use a steam steriliser, boiling (10 minutes) or cold-water sterilising solution, following the maker's instructions.</p>"
+    },
+    {
+      "h2": "Paced, responsive bottle feeding",
+      "html": "<div class=\"cards-3\"><div class=\"mini pink\"><h3>Hold close and upright</h3><p>Keep your baby fairly upright, supporting the head, and look at them.</p></div><div class=\"mini sky\"><h3>Invite the teat</h3><p>Brush the teat on their lips and let them draw it in.</p></div><div class=\"mini sun\"><h3>Bottle horizontal</h3><p>Tip it just enough to fill the teat, so they control the pace.</p></div><div class=\"mini mint\"><h3>Pause and watch</h3><p>Give breaks and stop when they show fullness cues; no need to finish the bottle.</p></div></div><p>Never prop a bottle or leave a baby alone to feed. Limiting the number of people who feed a young baby helps build closeness.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Bottle-feeding kit",
+      "items": [
+        {
+          "icon": "droplet",
+          "title": "Bottles and teats",
+          "age": "0–12 m",
+          "text": "Start with a few and see what suits your baby.",
+          "checks": [
+            "Slow-flow teats for newborns",
+            "Easy to clean with a bottle brush",
+            "Replace teats when worn or cracked"
+          ]
+        },
+        {
+          "icon": "thermometer",
+          "title": "Steriliser",
+          "age": "0–12 m",
+          "text": "Steam, microwave-steam or cold-water.",
+          "checks": [
+            "Fits your bottles",
+            "Clear instructions and timings",
+            "Sterilise until at least 12 months (NHS)"
+          ]
+        },
+        {
+          "icon": "clock",
+          "title": "Formula preparation machine?",
+          "age": "Optional",
+          "text": "Some machines dispense water at a set temperature.",
+          "checks": [
+            "The NHS method uses water of at least 70°C; check the machine meets this",
+            "Clean and descale as the maker says",
+            "A kettle and timer do the same job"
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much formula does a baby need?",
+      "a": "It varies by baby and age; the formula pack gives a guide. Follow your baby’s hunger and fullness cues rather than forcing them to finish a bottle, and ask your health visitor or paediatrician if you’re unsure about amounts or weight gain."
+    },
+    {
+      "q": "Can I make up bottles in advance?",
+      "a": "The NHS advises making up each feed fresh. If you need to prepare a feed in advance (for example, at nursery), cool it quickly and store it in the back of the fridge for no more than 24 hours. Ready-to-feed formula is a convenient alternative."
+    },
+    {
+      "q": "Do I need follow-on formula at 6 months?",
+      "a": "No. The NHS says first infant formula can be used for the whole first year, and follow-on formula isn’t needed. From 12 months, whole cow’s milk can be the main drink."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: How to make up baby formula",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/making-up-baby-formula/"
+    },
+    {
+      "title": "NHS: Types of formula",
+      "url": "https://www.nhs.uk/conditions/baby/breastfeeding-and-bottle-feeding/bottle-feeding/types-of-formula/"
+    },
+    {
+      "title": "NHS: Sterilising baby bottles",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/sterilising-baby-bottles/"
+    },
+    {
+      "title": "CDC: Infant formula preparation and storage",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/formula-feeding/index.html"
+    },
+    {
+      "title": "Unicef UK Baby Friendly Initiative: Responsive bottle feeding",
+      "url": "https://www.unicef.org.uk/babyfriendly/baby-friendly-resources/bottle-feeding-resources/"
+    }
+  ],
+  "related": [
+    "feeding",
+    "feeding/breastfeeding",
+    "newborn",
+    "feeding/starting-solids"
+  ],
+  "keywords": [
+    "formula feeding",
+    "bottle feeding",
+    "how to make formula",
+    "sterilising bottles",
+    "paced bottle feeding",
+    "infant formula",
+    "follow on milk",
+    "how much formula"
+  ],
+  "cardText": "Choosing formula, making feeds safely and paced feeding."
+}

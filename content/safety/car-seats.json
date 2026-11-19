@@ -1,0 +1,129 @@
+{
+  "updated": "2026-11-18",
+  "slug": "safety/car-seats",
+  "nav": "Car seats",
+  "title": "Car Seat Guide: Stages, Rules and Fitting Tips",
+  "description": "Car seats by stage, from rear-facing infant seats to boosters: the law in the UK, US and Europe, i-Size R129, fitting checks and the coat rule.",
+  "eyebrow": "Safety",
+  "h1": "Car seats, stage by stage",
+  "intro": "A correctly fitted car seat is one of the most important things you will buy. Here are the stages, the rules and the checks that matter.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1619719287848-883c8f26efbc",
+    "alt": "A grey and black child car seat in a car",
+    "credit": "Erik Mclean",
+    "creditUrl": "https://unsplash.com/@introspectivedsgn"
+  },
+  "sections": [
+    {
+      "h2": "The four stages",
+      "html": "<figure class=\"diagram\"><svg viewBox=\"0 0 640 210\" role=\"img\" aria-labelledby=\"csT\"><title id=\"csT\">Car seat stages: rear-facing for as long as possible, then forward-facing with a harness, then a booster seat until the adult seat belt fits, then the adult belt in the back seat.</title><defs><marker id=\"ca\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#2A2350\"/></marker></defs><rect x=\"8\" y=\"20\" width=\"138\" height=\"150\" rx=\"20\" fill=\"#FF7EB6\"/><text x=\"77\" y=\"16\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#6E6890\">STAGE 1</text><text x=\"77\" y=\"60\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#2A2350\">Rear-facing</text><text x=\"77\" y=\"90\" text-anchor=\"middle\" font-size=\"14\" fill=\"#2A2350\">Infant carrier or</text><text x=\"77\" y=\"108\" text-anchor=\"middle\" font-size=\"14\" fill=\"#2A2350\">convertible seat</text><text x=\"77\" y=\"196\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"700\" fill=\"#4E4772\">As long as possible</text><path d=\"M148 95h16\" stroke=\"#2A2350\" stroke-width=\"3\" marker-end=\"url(#ca)\"/><rect x=\"168\" y=\"20\" width=\"138\" height=\"150\" rx=\"20\" fill=\"#7CC6FE\"/><text x=\"237\" y=\"16\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#6E6890\">STAGE 2</text><text x=\"237\" y=\"60\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#2A2350\">Forward-facing</text><text x=\"237\" y=\"90\" text-anchor=\"middle\" font-size=\"14\" fill=\"#2A2350\">with a 5-point</text><text x=\"237\" y=\"108\" text-anchor=\"middle\" font-size=\"14\" fill=\"#2A2350\">harness</text><text x=\"237\" y=\"196\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"700\" fill=\"#4E4772\">When rear-facing is outgrown</text><path d=\"M308 95h16\" stroke=\"#2A2350\" stroke-width=\"3\" marker-end=\"url(#ca)\"/><rect x=\"328\" y=\"20\" width=\"138\" height=\"150\" rx=\"20\" fill=\"#FFD166\"/><text x=\"397\" y=\"16\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#6E6890\">STAGE 3</text><text x=\"397\" y=\"60\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#2A2350\">Booster seat</text><text x=\"397\" y=\"90\" text-anchor=\"middle\" font-size=\"14\" fill=\"#2A2350\">High-back booster</text><text x=\"397\" y=\"108\" text-anchor=\"middle\" font-size=\"14\" fill=\"#2A2350\">with adult belt</text><text x=\"397\" y=\"196\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"700\" fill=\"#4E4772\">Until the belt fits</text><path d=\"M468 95h16\" stroke=\"#2A2350\" stroke-width=\"3\" marker-end=\"url(#ca)\"/><rect x=\"488\" y=\"20\" width=\"138\" height=\"150\" rx=\"20\" fill=\"#6FDDB8\"/><text x=\"557\" y=\"16\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#6E6890\">STAGE 4</text><text x=\"557\" y=\"60\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#2A2350\">Adult seat belt</text><text x=\"557\" y=\"90\" text-anchor=\"middle\" font-size=\"14\" fill=\"#2A2350\">Back seat</text><text x=\"557\" y=\"108\" text-anchor=\"middle\" font-size=\"14\" fill=\"#2A2350\">until 13 (AAP)</text><text x=\"557\" y=\"196\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"700\" fill=\"#4E4772\">Belt fits properly</text></svg><figcaption>Move up a stage only when your child reaches the height or weight limit of their current seat, not at a set birthday.</figcaption></figure>"
+    },
+    {
+      "h2": "Rules in the UK, Europe and the US",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Where</th><th>Main rules</th></tr></thead><tbody><tr><td>UK</td><td>Children must use a child car seat until they are <strong>12 years old or 135cm tall</strong>, whichever comes first. Only EU-approved seats (R44 or R129) can be used. Never fit a rear-facing seat in front of an active airbag. Under R129 (i-Size), babies stay rear-facing until at least 15 months.</td></tr><tr><td>EU</td><td>EU law requires children under 150cm to use an approved child restraint (some countries set 135cm). New seats are approved to UN R129 (i-Size).</td></tr><tr><td>US</td><td>Laws vary by state. The AAP advises rear-facing for as long as possible, until the highest height or weight the seat allows, then a forward-facing harness, then a belt-positioning booster until the seat belt fits (usually at about 4 ft 9 in / 145cm, between ages 8 and 12). Children under 13 should ride in the back seat. Seats must meet FMVSS 213.</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Fitting checks every time",
+      "html": "<ul><li><strong>Tight install:</strong> the seat should move no more than about an inch (2.5cm) side to side at the belt path or ISOFIX base.</li><li><strong>Harness:</strong> snug enough that you can't pinch any slack at the shoulder (the “pinch test”). Chest clip at armpit level (US seats).</li><li><strong>No bulky coats:</strong> take off puffy coats and snowsuits before buckling; tuck a blanket over the harness instead.</li><li><strong>Recline:</strong> newborns need the correct recline angle so their head doesn't flop forward.</li><li><strong>Not for sleep at home:</strong> move your baby to a flat sleep space after the journey. Many manufacturers also advise regular breaks on long trips.</li></ul>"
+    },
+    {
+      "h2": "Second-hand seats and getting a check",
+      "html": "<p>Avoid second-hand car seats unless you know their full history: a seat that has been in a crash may be damaged in ways you can't see, and seats have expiry dates in the US. Free fitting help: in the US, a certified Child Passenger Safety Technician via <a href=\"https://www.nhtsa.gov/equipment/car-seats-and-booster-seats\" rel=\"noopener\" target=\"_blank\">NHTSA</a>; in the UK, many retailers offer fitting checks, and <a href=\"https://www.childcarseats.org.uk/\" rel=\"noopener\" target=\"_blank\">childcarseats.org.uk</a> (RoSPA) explains the rules.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Choosing the right seat",
+      "intro": "Labels to look for, and the questions to ask in store or online.",
+      "items": [
+        {
+          "icon": "car",
+          "title": "Infant carrier (stage 1)",
+          "age": "Birth to ~12–15 m",
+          "text": "Rear-facing and portable.",
+          "checks": [
+            "UN R129 (i-Size) or FMVSS 213 approved",
+            "Fits your car: check the maker’s fit list",
+            "Newborn insert and correct recline"
+          ]
+        },
+        {
+          "icon": "shield",
+          "title": "Extended rear-facing seat",
+          "age": "To 4 y on many seats",
+          "text": "Keeps children rear-facing for longer.",
+          "checks": [
+            "High rear-facing height and weight limits",
+            "ISOFIX or a secure belt fit",
+            "Side impact protection"
+          ]
+        },
+        {
+          "icon": "check",
+          "title": "High-back booster",
+          "age": "~100–150cm",
+          "text": "Positions the adult belt correctly.",
+          "checks": [
+            "Height-based R129 approval in the UK/EU",
+            "Belt guides for lap and shoulder",
+            "Backless boosters only for older, taller children"
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When can my baby face forward in the car?",
+      "a": "Keep your child rear-facing for as long as their seat allows. In the UK and EU, R129 (i-Size) seats require rear-facing until at least 15 months. The AAP advises staying rear-facing until your child reaches the seat’s rear-facing height or weight limit, which for many seats is age 2 or older."
+    },
+    {
+      "q": "When can a child stop using a booster seat in the UK?",
+      "a": "UK law says children must use a child car seat until they are 12 years old or 135cm tall, whichever comes first. Many safety experts recommend using a booster until 150cm."
+    },
+    {
+      "q": "Can my baby wear a coat in a car seat?",
+      "a": "Take off thick or puffy coats and snowsuits before buckling, because they can stop the harness fitting tightly. Use thin layers and put a blanket or coat over the top of the harness instead."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Child car seats, the law",
+      "url": "https://www.gov.uk/child-car-seats-the-rules"
+    },
+    {
+      "title": "NHTSA: Car seats and booster seats",
+      "url": "https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats"
+    },
+    {
+      "title": "AAP: Car seats, information for families (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx"
+    },
+    {
+      "title": "RoSPA: Child car seats",
+      "url": "https://www.childcarseats.org.uk/"
+    },
+    {
+      "title": "European Commission: Child restraint systems",
+      "url": "https://road-safety.transport.ec.europa.eu/eu-road-safety-policy/priorities/safe-road-use/children_en"
+    }
+  ],
+  "related": [
+    "health",
+    "gear",
+    "blog/winter-baby-care",
+    "newborn"
+  ],
+  "keywords": [
+    "car seat",
+    "car seat stages",
+    "rear facing car seat",
+    "i-size",
+    "r129",
+    "booster seat age",
+    "car seat law uk",
+    "car seat coat"
+  ],
+  "cardText": "Stages, the law and fitting checks for every age."
+}

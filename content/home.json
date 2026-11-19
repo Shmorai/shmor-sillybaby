@@ -1,15 +1,191 @@
 {
+  "updated": "2026-11-18",
   "slug": "",
-  "title": "SillyBaby: Playful, practical baby and child care guides fro",
-  "description": "Playful, practical baby and child care guides from newborn to age 12, with feeding, sleep, milestones, safety and gear advice for new parents in the US, UK and Europe. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "SillyBaby",
-  "intro": "Playful, practical baby and child care guides from newborn to age 12, with feeding, sleep, milestones, safety and gear advice for new parents in the US, UK and Europe.",
-  "related": [],
+  "title": "SillyBaby: Baby & Child Care Guides from Newborn to 12",
+  "description": "Friendly, fact-checked baby and child care guides for new and first-time parents: feeding, sleep, milestones, health, safety and gear from newborn to age 12.",
+  "eyebrow": "Newborn · Baby · Toddler · Kids",
+  "h1": "Big love, little people, zero judgement.",
+  "h1Html": "Big love, little people, <span class=\"hl\">zero judgement.</span>",
+  "intro": "Friendly, fact-checked guides for new and first-time parents in the US, UK and Europe. Feeding, sleep, milestones, health, safety, gear and play, sorted by age from the newborn days to 12, with every health tip checked against the NHS, CDC, AAP and WHO.",
+  "searchPlaceholder": "Try “safe sleep” or “starting solids”",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1778276539528-1d1846658dd1",
+    "alt": "A mother smiling at her laughing baby",
+    "credit": "Rashmi Kalburgie",
+    "creditUrl": "https://unsplash.com/@rkalburgie"
+  },
+  "chips": [
+    {
+      "label": "Newborn",
+      "slug": "newborn"
+    },
+    {
+      "label": "Safe sleep",
+      "slug": "sleep/safe-sleep"
+    },
+    {
+      "label": "Starting solids",
+      "slug": "feeding/starting-solids"
+    },
+    {
+      "label": "Fever",
+      "slug": "health/fever-in-babies-and-children"
+    },
+    {
+      "label": "Milestones",
+      "slug": "milestones"
+    },
+    {
+      "label": "Baby diary",
+      "slug": "baby-diary"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Checked against",
+          "text": "NHS, CDC, AAP and WHO guidance."
+        },
+        {
+          "icon": "heart",
+          "title": "No judgement.",
+          "text": "Breast, bottle, both: fed is the goal."
+        },
+        {
+          "icon": "globe",
+          "title": "US, UK and EU",
+          "text": "diapers and nappies, both explained."
+        },
+        {
+          "icon": "wallet",
+          "title": "Free to use.",
+          "text": "You always buy direct."
+        }
+      ]
+    },
+    {
+      "type": "tiles",
+      "position": "top",
+      "class": "ages",
+      "title": "Pick your little one’s age",
+      "intro": "Every age guide covers feeding, sleep, development, health, safety, play and the kit that actually helps at that stage.",
+      "items": [
+        {
+          "slug": "newborn",
+          "title": "Newborn",
+          "badge": "0–3 months",
+          "text": "Feeds, nappies, sleep and the first checks."
+        },
+        {
+          "slug": "baby",
+          "title": "Baby",
+          "badge": "3–12 months",
+          "text": "Rolling, solids, teeth and crawling."
+        },
+        {
+          "slug": "toddler",
+          "title": "Toddler",
+          "badge": "1–3 years",
+          "text": "Walking, words, tantrums and potty."
+        },
+        {
+          "slug": "preschool",
+          "title": "Preschooler",
+          "badge": "3–5 years",
+          "text": "Big feelings, play and getting school-ready."
+        },
+        {
+          "slug": "school-age",
+          "title": "School age",
+          "badge": "5–8 years",
+          "text": "Routines, reading, friends and activity."
+        },
+        {
+          "slug": "big-kids",
+          "title": "Big kids",
+          "badge": "8–12 years",
+          "text": "Independence, screens and body changes."
+        }
+      ]
+    }
+  ],
+  "highlightsTitle": "Why parents like it here",
+  "highlights": [
+    {
+      "icon": "🍼",
+      "title": "Straight answers",
+      "text": "Short, clear steps first, the detail after. Made for reading one-handed at 3am."
+    },
+    {
+      "icon": "🩺",
+      "title": "Official sources",
+      "text": "Health and safety tips come from the NHS, CDC, AAP, WHO and baby-safety charities, linked on every page."
+    },
+    {
+      "icon": "🎨",
+      "title": "Pictures that explain",
+      "text": "Diagrams for safe sleep, hunger cues, milestones, car seats and more."
+    },
+    {
+      "icon": "🧸",
+      "title": "Kit that earns its place",
+      "text": "What to look for in each product, by age, so you buy less and buy right."
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use SillyBaby?",
-      "html": "<p>Playful, practical baby and child care guides from newborn to age 12, with feeding, sleep, milestones, safety and gear advice for new parents in the US, UK and Europe.</p>"
+      "h2": "Everything new parents search for, in one friendly place",
+      "html": "<p>The first years bring a lot of questions, usually all at once. SillyBaby puts the answers in order, by your child's age and by topic:</p><ul><li><strong>Feeding:</strong> <a href=\"/feeding/breastfeeding/\">breastfeeding</a>, <a href=\"/feeding/formula-and-bottle-feeding/\">formula and bottle feeding</a> and <a href=\"/feeding/starting-solids/\">starting solids</a> (weaning) at around 6 months.</li><li><strong>Sleep:</strong> how much sleep is normal at each age and the <a href=\"/sleep/safe-sleep/\">safe sleep basics</a> every carer should know.</li><li><strong>Development:</strong> what most children do by each age in our <a href=\"/milestones/\">milestones timeline</a>, and when to ask for a check.</li><li><strong>Health and safety:</strong> what to do about a <a href=\"/health/fever-in-babies-and-children/\">high temperature</a>, <a href=\"/safety/car-seats/\">car seats</a> and <a href=\"/safety/childproofing/\">childproofing your home</a>.</li><li><strong>Everyday care:</strong> <a href=\"/care/nappy-changing/\">nappy (diaper) changing</a>, <a href=\"/care/bathing-your-baby/\">bath time</a>, <a href=\"/care/teething/\">teething</a> and <a href=\"/care/potty-training/\">potty training</a>.</li></ul>"
+    },
+    {
+      "h2": "Gear guides that help you buy less (and buy right)",
+      "html": "<p>Babies need less than shops suggest. Our <a href=\"/gear/\">baby gear guide</a> sorts the essentials by age and explains the safety labels to check, from car seats that meet <strong>UN R129 (i-Size)</strong> in the UK and Europe or <strong>FMVSS 213</strong> in the US, to sleep bags that fit properly at the neck and armholes. Where we link to a shop, it is clearly marked, and you always buy directly from the retailer.</p>"
+    },
+    {
+      "h2": "Keep a baby diary, and look after you too",
+      "html": "<p>Our printable <a href=\"/baby-diary/\">baby diary</a> makes it easy to track feeds, nappies and sleep in the early weeks (handy for midwife, health visitor and paediatrician appointments) and to jot down the firsts you'll want to remember. And because parents matter too, our <a href=\"/newborn/\">newborn guide</a> covers the baby blues, postnatal depression and where to get support in the UK and US.</p><p class=\"callout\">SillyBaby is general information, not medical advice. If you're worried about your baby or child, trust your instincts and contact your midwife, health visitor, GP, paediatrician or NHS 111. In an emergency call 999 (UK), 911 (US) or 112 (EU).</p>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "Is SillyBaby written by doctors?",
+      "a": "No. SillyBaby is an independent guide site. We summarise official guidance from bodies such as the NHS, CDC, the American Academy of Pediatrics, the WHO and baby-safety charities, and link to it on every page so you can read the original. Always ask your own midwife, health visitor or paediatrician about your child."
+    },
+    {
+      "q": "Do you cover UK and US advice?",
+      "a": "Yes. Where guidance differs between the UK, US and Europe (for example car seat rules or formula advice), we explain both and use both sets of words: diapers and nappies, pacifiers and dummies, strollers and pushchairs."
+    },
+    {
+      "q": "How does SillyBaby make money?",
+      "a": "Some links to shops are affiliate links. If you buy through them, we may earn a commission at no extra cost to you. It never changes our safety advice, and we never invent prices, reviews or test results."
+    }
+  ],
+  "latestPosts": 3,
+  "related": [
+    "milestones",
+    "sleep/safe-sleep",
+    "feeding/starting-solids",
+    "resources"
+  ],
+  "keywords": [
+    "baby care",
+    "newborn care",
+    "first time mom",
+    "first time mum",
+    "baby advice",
+    "toddler advice",
+    "parenting guide",
+    "baby milestones",
+    "baby sleep",
+    "baby feeding"
+  ],
+  "ctaTitle": "What can we help with today?",
+  "partners": [
+    "cj8022425-home"
+  ],
+  "partnersTitle": "From our partners"
 }

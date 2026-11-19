@@ -1,0 +1,239 @@
+{
+  "updated": "2026-11-18",
+  "slug": "gear",
+  "nav": "Baby gear",
+  "navOrder": 7,
+  "title": "Baby Gear Guide: What You Really Need, by Age",
+  "description": "The baby gear you really need, sorted by age: car seats, prams and strollers, cots, sleep bags, carriers and feeding kit, plus safety labels to check.",
+  "eyebrow": "Gear",
+  "h1": "Baby gear, minus the overwhelm",
+  "intro": "Baby shops can make you feel you need everything. You don’t. Here is what genuinely helps at each stage, and the safety checks that matter more than the brand.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1528121108018-743eef2e4a7a",
+    "alt": "A red bassinet pram outdoors",
+    "credit": "Tommaso Pecchioli",
+    "creditUrl": "https://unsplash.com/@pecchio"
+  },
+  "sections": [
+    {
+      "h2": "Before baby arrives: the true essentials",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Must-have</th><th>Why</th><th>Safety check</th></tr></thead><tbody><tr><td>Rear-facing car seat</td><td>Needed for the drive home</td><td>R129 (i-Size) or FMVSS 213</td></tr><tr><td>Cot, crib or Moses basket</td><td>A safe, separate sleep space in your room</td><td>Firm, flat, well-fitting mattress</td></tr><tr><td>Sleep bags or light blankets</td><td>Warmth without loose bedding</td><td>Correct size; fitted neck, no hood</td></tr><tr><td>Nappies and wipes</td><td>You’ll use plenty</td><td>Right size band</td></tr><tr><td>Feeding basics</td><td>Breast or bottle kit</td><td>First infant formula if formula feeding</td></tr><tr><td>Clothes in newborn and 0–3m sizes</td><td>Babies grow fast</td><td>No cords or loose ribbons</td></tr><tr><td>Pram, pushchair or carrier</td><td>Getting out and about</td><td>Lie-flat for newborns</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Prams, pushchairs and strollers",
+      "html": "<p>Newborns need to lie flat, so choose a pram, carrycot or a pushchair that reclines fully. Think about where you will use it (pavements, parks, public transport), how it folds, how much it weighs and whether it fits your car boot. Look for EN 1888 (UK/EU) or ASTM F833 (US) on the label, and always use the harness and brakes.</p>"
+    },
+    {
+      "h2": "Baby carriers and slings",
+      "html": "<p>Carriers keep your baby close and your hands free. Follow the <strong>T.I.C.K.S.</strong> sling safety rules: <strong>T</strong>ight, <strong>I</strong>n view at all times, <strong>C</strong>lose enough to kiss, <strong>K</strong>eep chin off the chest, <strong>S</strong>upported back. Choose a carrier that supports your baby's hips in an “M” position (knees higher than bottom).</p>"
+    },
+    {
+      "h2": "Things you can skip (or wait on)",
+      "html": "<ul><li><strong>Cot bumpers, sleep positioners, wedges and pillows</strong>: not recommended for safe sleep.</li><li><strong>Baby walkers</strong>: the AAP advises against them because of injury risk.</li><li><strong>Bottle prep gadgets, wipe warmers, special laundry detergents</strong>: nice to have at most.</li><li><strong>Lots of newborn clothes</strong>: babies outgrow them in weeks.</li></ul><p class=\"callout tip\"><strong>Second-hand?</strong> Great for clothes, toys and many bigger items. Avoid second-hand car seats unless you know the full history, and buy a new mattress for each baby if you can (The Lullaby Trust).</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Newborn (0–3 months)",
+      "intro": "The core kit for the first weeks.",
+      "items": [
+        {
+          "icon": "car",
+          "title": "Infant car seat",
+          "age": "0–15 m",
+          "checks": [
+            "Rear-facing, R129 or FMVSS 213",
+            "Fits your car",
+            "Newborn insert"
+          ],
+          "guide": "safety/car-seats"
+        },
+        {
+          "icon": "house",
+          "title": "Moses basket or bedside crib",
+          "age": "0–6 m",
+          "checks": [
+            "Firm, flat mattress",
+            "Bedside cribs: secured to the bed with no gap",
+            "Room-sharing for 6 months"
+          ],
+          "guide": "sleep/safe-sleep"
+        },
+        {
+          "icon": "star",
+          "title": "Sleep bags and swaddles",
+          "age": "0–6 m",
+          "checks": [
+            "Right size and TOG",
+            "Hips free in a swaddle",
+            "Stop swaddling at rolling"
+          ],
+          "guide": "blog/tog-ratings-explained",
+          "link": "cj8022425-sleep-sacks",
+          "cta": "Shop sleep sacks"
+        },
+        {
+          "icon": "heart",
+          "title": "Sling or carrier",
+          "age": "0 m+",
+          "checks": [
+            "T.I.C.K.S. rules",
+            "Hip-healthy M position",
+            "Newborn fit without inserts or with the right insert"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "shelf",
+      "title": "Baby (3–12 months)",
+      "items": [
+        {
+          "icon": "utensils",
+          "title": "High chair",
+          "age": "6 m+",
+          "checks": [
+            "Harness and stable base",
+            "Footrest",
+            "EN 14988 / ASTM F404"
+          ],
+          "guide": "feeding/starting-solids"
+        },
+        {
+          "icon": "fence",
+          "title": "Stair gates",
+          "age": "Before crawling",
+          "checks": [
+            "Screw-fit at top of stairs",
+            "EN 1930 / ASTM F1004"
+          ],
+          "guide": "safety/childproofing"
+        },
+        {
+          "icon": "compass",
+          "title": "Pushchair or stroller",
+          "age": "6 m+",
+          "checks": [
+            "Upright seat for sitting babies",
+            "Folds easily",
+            "EN 1888 / ASTM F833"
+          ]
+        },
+        {
+          "icon": "sparkles",
+          "title": "Play mat and simple toys",
+          "age": "3 m+",
+          "checks": [
+            "No small parts",
+            "Washable"
+          ],
+          "guide": "play-and-learning"
+        }
+      ]
+    },
+    {
+      "type": "shelf",
+      "title": "Toddler and up (1–5 years)",
+      "items": [
+        {
+          "icon": "car",
+          "title": "Next car seat",
+          "age": "When outgrown",
+          "checks": [
+            "Rear-facing as long as possible",
+            "Height-based R129"
+          ],
+          "guide": "safety/car-seats"
+        },
+        {
+          "icon": "check",
+          "title": "Potty and step",
+          "age": "18 m–3 y",
+          "checks": [
+            "Stable and easy to clean"
+          ],
+          "guide": "care/potty-training"
+        },
+        {
+          "icon": "shield",
+          "title": "Balance bike and helmet",
+          "age": "2–3 y+",
+          "checks": [
+            "Feet flat on the ground",
+            "EN 1078 / CPSC helmet"
+          ],
+          "guide": "preschool"
+        },
+        {
+          "icon": "file",
+          "title": "Books",
+          "age": "All ages",
+          "checks": [
+            "Board books first",
+            "Free: libraries, Bookstart, Imagination Library"
+          ],
+          "guide": "play-and-learning"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What baby items do I need before birth?",
+      "a": "At minimum: a rear-facing car seat (if you’ll travel by car), a safe sleep space with a firm, flat mattress, nappies, a few clothes and sleep bags, and feeding basics. Most other things can wait until you know what you need."
+    },
+    {
+      "q": "Is it safe to buy second-hand baby gear?",
+      "a": "Many items are fine second-hand if they’re in good condition and meet current safety standards. Avoid second-hand car seats unless you know their full history, check for recalls, and the Lullaby Trust suggests a new mattress for each baby if possible."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Lullaby Trust: Safer sleep advice",
+      "url": "https://www.lullabytrust.org.uk/safer-sleep-advice/"
+    },
+    {
+      "title": "AAP: How to keep your sleeping baby safe (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+    },
+    {
+      "title": "GOV.UK: Child car seats, the law",
+      "url": "https://www.gov.uk/child-car-seats-the-rules"
+    },
+    {
+      "title": "NHTSA: Car seats and booster seats",
+      "url": "https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats"
+    },
+    {
+      "title": "CPSC: Product recalls",
+      "url": "https://www.cpsc.gov/Recalls"
+    },
+    {
+      "title": "AAP: Baby walkers (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Baby-Walkers-A-Dangerous-Choice.aspx"
+    }
+  ],
+  "related": [
+    "safety/car-seats",
+    "sleep/safe-sleep",
+    "blog/hospital-bag-checklist",
+    "newborn"
+  ],
+  "keywords": [
+    "baby gear",
+    "baby essentials",
+    "newborn essentials list",
+    "baby registry",
+    "what do i need for a newborn",
+    "pram",
+    "stroller",
+    "baby carrier",
+    "baby shopping list"
+  ],
+  "cardText": "The essentials by age, and the safety labels to check.",
+  "partners": [
+    "cj8022425-home"
+  ],
+  "partnersTitle": "Shop from our partners"
+}

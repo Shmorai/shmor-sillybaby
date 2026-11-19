@@ -1,0 +1,26 @@
+{
+  "updated": "2026-11-18",
+  "slug": "blog",
+  "type": "blog",
+  "nav": "Blog",
+  "navOrder": 11,
+  "title": "SillyBaby Blog: Baby and Parenting Tips for New Parents",
+  "description": "The SillyBaby blog: practical, fact-checked posts for new and first-time parents on newborn days, sleep, feeding, seasonal care, gear and growing up.",
+  "eyebrow": "Blog",
+  "h1": "The SillyBaby blog",
+  "intro": "Fresh, practical posts for new and first-time parents, checked against official guidance. New posts every week.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1530047625168-4b29bfbbe1fc",
+    "alt": "A woman kissing a baby",
+    "credit": "Omar Lopez",
+    "creditUrl": "https://unsplash.com/@omarlopez1"
+  },
+  "keywords": [
+    "parenting blog",
+    "baby blog",
+    "new mom tips",
+    "new mum tips",
+    "first time parents"
+  ],
+  "cardText": "Practical, fact-checked posts for new parents."
+}

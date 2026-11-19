@@ -1,0 +1,95 @@
+{
+  "updated": "2026-11-18",
+  "slug": "blog/winter-baby-care",
+  "type": "post",
+  "date": "2026-11-18",
+  "title": "Winter Baby Care: Coats, Colds and Keeping Cosy",
+  "description": "Winter baby care tips: dressing babies for cold weather, car seats and puffy coats, safe winter sleep, colds, bronchiolitis and when to see a doctor.",
+  "eyebrow": "Seasonal",
+  "h1": "Winter baby care: cosy, safe and well",
+  "intro": "Cold mornings, cosy layers and the start of cough-and-cold season. Here is how to keep your baby warm without overheating, and when a winter bug needs a doctor.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1571059381394-f58f73249810",
+    "alt": "A baby wearing an orange knitted hat",
+    "credit": "Jan Kopřiva",
+    "creditUrl": "https://unsplash.com/@jxk"
+  },
+  "sections": [
+    {
+      "h2": "Dressing for the cold",
+      "html": "<p>A simple rule of thumb many health professionals use: dress your baby in one more layer than you're comfortable in. Add a hat, mittens and warm socks outdoors, and use a cover on the pram in wind or rain. <strong>Remove hats and extra layers as soon as you come indoors</strong>, even if your baby is asleep, to avoid overheating.</p>"
+    },
+    {
+      "h2": "Car seats and puffy coats",
+      "html": "<p>Thick coats and snowsuits squash down in a crash and can leave the harness too loose. Take them off before buckling, do the pinch test on the harness, then put a coat or blanket over the top of the straps. See our <a href=\"/safety/car-seats/\">car seat guide</a>.</p>"
+    },
+    {
+      "h2": "Safe sleep in winter",
+      "html": "<p>Keep the room at 16 to 20°C and choose a sleep bag TOG that suits it (<a href=\"/blog/tog-ratings-explained/\">TOG ratings explained</a>). Warmer sleep bags, such as Kaiya Baby’s [[link:cj8022425-sleep-sacks|2.5 and 3.5 TOG sleep sacks]], are made for cooler rooms; never add a duvet on top. No hats, hot water bottles or electric blankets for babies, and keep cots away from radiators and heaters.</p>"
+    },
+    {
+      "h2": "Colds, coughs and bronchiolitis",
+      "html": "<p>Babies and young children catch lots of colds. Bronchiolitis, a common chest infection usually caused by RSV, mainly affects babies under 1 and is more common in winter. It usually gets better on its own, but some babies need hospital care. In the UK, an RSV vaccine is offered in pregnancy (from 28 weeks) to help protect babies; in the US, a maternal vaccine or an RSV antibody for babies is recommended. Ask your midwife, GP or paediatrician.</p><p class=\"callout warn\">Call 999 / 911 if your baby is struggling to breathe (you may see the tummy sucking in under the ribs), has pauses in breathing, or has blue or grey skin or lips. Get urgent advice if they're feeding less than half their usual amount, have no wet nappy for 12 hours, or have a high temperature (38°C or more under 3 months; 39°C or more at 3–6 months).</p>"
+    },
+    {
+      "h2": "Keeping germs down",
+      "html": "<ul><li>Wash hands often, especially before feeds.</li><li>Ask visitors with colds to wait until they're better before cuddles.</li><li>Keep babies away from smoke.</li><li>Keep up to date with routine vaccines and the children's flu vaccine (offered from age 2 in the UK; from 6 months in the US).</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How should I dress my baby for sleep in winter?",
+      "a": "Keep the room at 16 to 20°C if you can, and use a sleep bag with a TOG suited to that temperature with a sleepsuit underneath. No hats indoors, no hot water bottles or electric blankets, and check your baby’s chest or neck to make sure they’re not too hot."
+    },
+    {
+      "q": "When is a cough serious in a baby?",
+      "a": "Call 999 / 911 if your baby is struggling to breathe, has pauses in their breathing, or has blue or grey skin or lips. Get urgent advice if they’re feeding much less, have fewer wet nappies or have a high temperature."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Bronchiolitis",
+      "url": "https://www.nhs.uk/conditions/bronchiolitis/"
+    },
+    {
+      "title": "NHS: RSV vaccine",
+      "url": "https://www.nhs.uk/vaccinations/rsv-vaccine/"
+    },
+    {
+      "title": "CDC: RSV immunization for infants and young children",
+      "url": "https://www.cdc.gov/rsv/vaccines/protect-infants.html"
+    },
+    {
+      "title": "NHS: Children’s flu vaccine",
+      "url": "https://www.nhs.uk/vaccinations/child-flu-vaccine/"
+    },
+    {
+      "title": "The Lullaby Trust: Safer sleep advice",
+      "url": "https://www.lullabytrust.org.uk/safer-sleep-advice/"
+    },
+    {
+      "title": "AAP: Car seats, information for families (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx"
+    },
+    {
+      "title": "NHS: High temperature (fever) in children",
+      "url": "https://www.nhs.uk/conditions/fever-in-children/"
+    }
+  ],
+  "related": [
+    "health/fever-in-babies-and-children",
+    "blog/tog-ratings-explained",
+    "safety/car-seats"
+  ],
+  "keywords": [
+    "winter baby care",
+    "how to dress baby in winter",
+    "baby car seat coat",
+    "bronchiolitis",
+    "rsv baby",
+    "baby cold",
+    "baby cough",
+    "baby sleep winter"
+  ],
+  "cardText": "Layers, car seats, safe winter sleep and winter bugs."
+}

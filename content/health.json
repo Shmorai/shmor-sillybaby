@@ -1,0 +1,120 @@
+{
+  "updated": "2026-11-18",
+  "slug": "health",
+  "nav": "Health",
+  "navOrder": 5,
+  "title": "Baby and Child Health and Safety: When to Get Help",
+  "description": "Baby and child health and safety made clear: fevers, when to call 111 or 911, vaccines, car seats, childproofing and first aid basics.",
+  "eyebrow": "Health & safety",
+  "h1": "Health and safety, without the panic",
+  "intro": "Knowing what is normal, what needs a call and what needs help right now takes a lot of worry out of parenting. Start here.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1609725236589-d987ffc8133a",
+    "alt": "A digital thermometer on a white surface",
+    "credit": "Edgar Soto",
+    "creditUrl": "https://unsplash.com/@edgardo1987"
+  },
+  "blocks": [
+    {
+      "type": "deals",
+      "position": "top",
+      "items": [
+        {
+          "slug": "health/fever-in-babies-and-children",
+          "title": "Fever",
+          "icon": "thermometer",
+          "text": "What counts as a high temperature, and when to get help."
+        },
+        {
+          "slug": "safety/car-seats",
+          "title": "Car seats",
+          "icon": "car",
+          "text": "Stages, the law in the UK, US and EU, and fitting tips."
+        },
+        {
+          "slug": "safety/childproofing",
+          "title": "Childproofing",
+          "icon": "shield",
+          "text": "A room-by-room checklist before your baby moves."
+        },
+        {
+          "slug": "care/teething",
+          "title": "Teething",
+          "icon": "sparkles",
+          "text": "Signs, soothing and what to avoid."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Emergency, urgent or routine?",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Call now</th><th>Get advice today</th><th>Mention at the next check</th></tr></thead><tbody><tr><td><strong>999 (UK) · 911 (US) · 112 (EU)</strong> if your child is struggling to breathe, turns blue or grey, is floppy or unresponsive, has a fit (seizure) for the first time, has a rash that doesn’t fade under a glass, or has a severe allergic reaction.</td><td>Call NHS 111, your GP or your paediatrician if a baby under 3 months has a temperature of 38°C (100.4°F) or more, your child is not feeding or drinking, has fewer wet nappies, or you’re worried.</td><td>Questions about growth, development, sleep, feeding or behaviour that aren’t urgent: your health visitor or well-child visit.</td></tr></tbody></table></div><p class=\"callout\"><strong>Trust your instincts.</strong> You know your child best. If something feels wrong, get help.</p>"
+    },
+    {
+      "h2": "Vaccinations",
+      "html": "<p>Vaccines protect babies and children from serious illnesses. Each country has its own official schedule, which changes from time to time, so always use the current one: the <a href=\"https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/\" rel=\"noopener\" target=\"_blank\">NHS vaccination schedule</a> in the UK, the <a href=\"https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-age.html\" rel=\"noopener\" target=\"_blank\">CDC immunization schedule</a> in the US, or your national health service in Europe. In the UK, the first routine vaccines are offered at 8 weeks; your GP surgery will invite you. A temperature after vaccines is common: see <a href=\"/health/fever-in-babies-and-children/\">fever</a>.</p>"
+    },
+    {
+      "h2": "First aid basics worth learning",
+      "html": "<div class=\"cards-3\"><div class=\"mini pink\"><h3>Choking</h3><p>Back blows and chest thrusts (babies) or abdominal thrusts (over 1), then call for help.</p></div><div class=\"mini sky\"><h3>CPR</h3><p>Baby and child CPR differs from adult CPR. A short course builds confidence.</p></div><div class=\"mini sun\"><h3>Burns and scalds</h3><p>Cool under cool running water for 20 minutes, then get it checked.</p></div><div class=\"mini mint\"><h3>Poisoning</h3><p>Call 111 / your doctor, or Poison Control in the US (1-800-222-1222).</p></div></div><p>Free and low-cost courses and guides come from the British Red Cross, St John Ambulance and the American Red Cross.</p>"
+    },
+    {
+      "h2": "Keeping children safe at home and on the go",
+      "html": "<p>Most childhood accidents happen at home. Our <a href=\"/safety/childproofing/\">childproofing checklist</a> covers stairs, windows, furniture tip-overs, button batteries, medicines and water. For travel, our <a href=\"/safety/car-seats/\">car seat guide</a> explains every stage. And for sleep, start with <a href=\"/sleep/safe-sleep/\">safe sleep</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When should I call NHS 111 about my baby?",
+      "a": "Call NHS 111 (UK) if you’re worried and it isn’t an emergency: for example, a high temperature, fewer wet nappies, not feeding, or a rash you’re unsure about. Call 999 for emergencies such as breathing difficulty, a fit or a rash that doesn’t fade under a glass."
+    },
+    {
+      "q": "Where can I find the vaccine schedule?",
+      "a": "Use your country’s current official schedule: the NHS vaccination schedule in the UK and the CDC child and adolescent immunization schedule in the US. Your GP surgery or paediatrician will tell you what your child is due."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: High temperature (fever) in children",
+      "url": "https://www.nhs.uk/conditions/fever-in-children/"
+    },
+    {
+      "title": "AAP: Fever and your baby (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Fever-and-Your-Baby.aspx"
+    },
+    {
+      "title": "NHS: NHS vaccinations and when to have them",
+      "url": "https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/"
+    },
+    {
+      "title": "CDC: Child and adolescent immunization schedule",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-age.html"
+    },
+    {
+      "title": "British Red Cross: Baby and child first aid",
+      "url": "https://www.redcross.org.uk/first-aid/learn-first-aid-for-babies-and-children"
+    },
+    {
+      "title": "NHS: Baby safety, how to keep your baby safe at home",
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/safety/"
+    }
+  ],
+  "related": [
+    "health/fever-in-babies-and-children",
+    "safety/childproofing",
+    "safety/car-seats",
+    "care/teething"
+  ],
+  "keywords": [
+    "baby health",
+    "child health",
+    "when to call 111 baby",
+    "baby first aid",
+    "child safety",
+    "baby vaccines",
+    "is my baby ill",
+    "sick baby"
+  ],
+  "cardText": "When to get help, vaccines, first aid and safety."
+}

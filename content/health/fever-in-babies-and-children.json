@@ -1,0 +1,99 @@
+{
+  "updated": "2026-11-18",
+  "slug": "health/fever-in-babies-and-children",
+  "nav": "Fever",
+  "title": "Fever in Babies and Children: When to Worry",
+  "description": "What counts as a fever in babies and children, how to take a temperature, safe use of paracetamol and ibuprofen, and the warning signs that need urgent help.",
+  "eyebrow": "Health",
+  "h1": "Fever in babies and children",
+  "intro": "A high temperature is very common in children and is usually the body fighting off an infection. Here is how to check it, what helps and when to get help fast.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1594790628624-9e563bea851d",
+    "alt": "A digital thermometer showing a normal reading",
+    "credit": "Winel Sutanto",
+    "creditUrl": "https://unsplash.com/@weenail"
+  },
+  "sections": [
+    {
+      "h2": "What counts as a high temperature?",
+      "html": "<p>The NHS defines a high temperature in children as <strong>38°C (100.4°F) or above</strong>. The AAP uses the same 100.4°F (38°C) threshold for babies.</p><div class=\"table-wrap\"><table><thead><tr><th>Age</th><th>Temperature</th><th>What to do</th></tr></thead><tbody><tr><td>Under 3 months</td><td>38°C (100.4°F) or higher</td><td><strong>Get urgent medical advice</strong>: call your GP or NHS 111 (UK) or your paediatrician (US) straight away.</td></tr><tr><td>3 to 6 months</td><td>39°C (102.2°F) or higher</td><td><strong>Get urgent medical advice</strong> (NHS).</td></tr><tr><td>Any age</td><td>High temperature with warning signs below</td><td><strong>Call 999 / 911 / 112.</strong></td></tr><tr><td>Older babies and children</td><td>High temperature, otherwise coping</td><td>Fluids, rest, light clothing; get advice if it lasts over 5 days, they’re getting worse or you’re worried.</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Call 999 (UK), 911 (US) or 112 (EU) if your child",
+      "html": "<ul><li>has a stiff neck, or a rash that doesn't fade when you press a glass against it,</li><li>is bothered by light,</li><li>has a fit (seizure) for the first time, or one that lasts more than 5 minutes,</li><li>has unusually cold hands and feet with a high temperature,</li><li>has blue, grey, pale or blotchy skin, lips or tongue,</li><li>is floppy, unusually sleepy or hard to wake,</li><li>finds it hard to breathe, is grunting or their tummy sucks in under the ribs,</li><li>has a weak, high-pitched or continuous cry, or isn't responding as normal.</li></ul>"
+    },
+    {
+      "h2": "How to take a temperature",
+      "html": "<p>Use a digital thermometer. For babies under 5 the NHS recommends an under-the-arm (armpit) reading with a digital thermometer; ear (tympanic) thermometers are another option for older children. In the US, the AAP says a rectal reading is the most accurate for babies under 3 months; ask your paediatrician how to do it. Strip-type forehead thermometers aren't reliable.</p>"
+    },
+    {
+      "h2": "Looking after a child with a fever",
+      "html": "<ul><li><strong>Fluids:</strong> offer plenty of drinks (breast milk or formula for babies). Watch for dehydration: fewer wet nappies, dry mouth, no tears, sunken soft spot.</li><li><strong>Comfort:</strong> light clothing, a comfortable room. Don't undress them fully or sponge them with cold water.</li><li><strong>Medicine:</strong> you can give paracetamol (acetaminophen) or ibuprofen if your child is distressed, following the dose on the pack for their age or weight. NHS: paracetamol from 2 months, ibuprofen from 3 months (if they weigh over 5kg). Don't give both at the same time, and ask a pharmacist before alternating. <strong>Never give aspirin to under-16s.</strong></li><li><strong>Check at night</strong> and keep them off nursery or school while unwell.</li></ul><p class=\"callout tip\">After vaccinations, a raised temperature is common. Ask your GP or nurse about paracetamol advice for your baby's vaccines.</p>"
+    },
+    {
+      "h2": "Febrile seizures",
+      "html": "<p>Some young children (usually between 6 months and 3 years) have a fit when they have a high temperature, called a febrile seizure. They can be frightening but are usually not harmful. Keep your child safe on their side, time it, and call 999 / 911 if it's their first fit, it lasts more than 5 minutes, or they don't recover quickly.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What temperature is a fever in a baby?",
+      "a": "38°C (100.4°F) or higher. If your baby is under 3 months, get urgent medical advice at this temperature. For babies 3 to 6 months, get urgent advice at 39°C (102.2°F) or higher."
+    },
+    {
+      "q": "Should I wake my child to give medicine?",
+      "a": "No need to wake a sleeping child just to give fever medicine; the aim is to make them comfortable, not to bring the number down. Do check on them during the night."
+    },
+    {
+      "q": "Can teething cause a high temperature?",
+      "a": "The NHS says teething isn’t a cause of high temperature. If your baby has a fever, look for another cause and get advice if you’re worried."
+    },
+    {
+      "q": "How long does a fever last in children?",
+      "a": "Most fevers from common viral infections settle within 2 to 3 days. The NHS advises getting medical advice if a high temperature lasts 5 days or more, or sooner if you’re worried."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: High temperature (fever) in children",
+      "url": "https://www.nhs.uk/conditions/fever-in-children/"
+    },
+    {
+      "title": "AAP: Fever and your baby (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Fever-and-Your-Baby.aspx"
+    },
+    {
+      "title": "NHS: Febrile seizures",
+      "url": "https://www.nhs.uk/conditions/febrile-seizures/"
+    },
+    {
+      "title": "NICE: Fever in under 5s, assessment and initial management (NG143)",
+      "url": "https://www.nice.org.uk/guidance/ng143"
+    },
+    {
+      "title": "NHS: Paracetamol for children",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-children/"
+    },
+    {
+      "title": "NHS: Ibuprofen for children",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-children/"
+    }
+  ],
+  "related": [
+    "health",
+    "newborn",
+    "care/teething",
+    "blog/winter-baby-care"
+  ],
+  "keywords": [
+    "fever in babies",
+    "baby temperature",
+    "high temperature child",
+    "when to worry about fever",
+    "baby fever 38",
+    "calpol",
+    "paracetamol for babies",
+    "febrile seizure"
+  ],
+  "cardText": "Temperatures by age, warning signs and safe medicine."
+}

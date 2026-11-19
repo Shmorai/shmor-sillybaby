@@ -1,0 +1,87 @@
+{
+  "updated": "2026-11-18",
+  "slug": "blog/colic-signs-and-soothing",
+  "type": "post",
+  "date": "2026-11-16",
+  "title": "Colic in Babies: Signs, Soothing and When to Get Help",
+  "description": "Is it colic? The signs of colic in babies, soothing techniques that may help, how to cope with a crying baby and when crying means you should call a doctor.",
+  "eyebrow": "Newborn",
+  "h1": "Colic: signs, soothing and coping",
+  "intro": "Hours of crying you can’t seem to settle is exhausting and upsetting. Colic is common, it doesn’t last forever, and you are not doing anything wrong.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1564149809912-731909a19d89",
+    "alt": "A man carrying and comforting a baby",
+    "credit": "Kelly Sikkema",
+    "creditUrl": "https://unsplash.com/@kellysikkema"
+  },
+  "sections": [
+    {
+      "h2": "What is colic?",
+      "html": "<p>Colic is when a healthy baby cries a lot without an obvious reason. The NHS says it is common in the first few weeks and usually stops by around 3 to 4 months (sometimes 6 months). Crying in all babies tends to peak at around 6 to 8 weeks.</p>"
+    },
+    {
+      "h2": "Signs of colic",
+      "html": "<ul><li>Intense crying for more than 3 hours a day, 3 days a week, for at least a week</li><li>Crying that's often in the late afternoon or evening</li><li>Hard to soothe or settle</li><li>Clenched fists, a red face, arching the back, or bringing the knees up to the tummy</li></ul>"
+    },
+    {
+      "h2": "Soothing ideas to try",
+      "html": "<div class=\"cards-3\"><div class=\"mini pink\"><h3>Hold and move</h3><p>Hold your baby close, rock, sway or walk with them, or use a sling.</p></div><div class=\"mini sky\"><h3>White noise</h3><p>Gentle shushing, a fan or calm background sound.</p></div><div class=\"mini sun\"><h3>Warm bath</h3><p>Some babies relax in a warm (not hot) bath.</p></div><div class=\"mini mint\"><h3>Feeding checks</h3><p>Wind during and after feeds; ask about bottle position or latch.</p></div><div class=\"mini lilac\"><h3>Fresh air</h3><p>A walk in the pram or carrier.</p></div><div class=\"mini peach\"><h3>Swap with someone</h3><p>Tag-team with a partner, family or friend.</p></div></div><p>The NHS says there is little evidence for most colic remedies sold in shops, so speak to a pharmacist or health visitor before buying anything. Don't change your baby's formula without advice.</p>"
+    },
+    {
+      "h2": "Coping when the crying won’t stop",
+      "html": "<p>It is completely normal to feel frustrated. If you feel overwhelmed, put your baby down safely on their back in their cot, close the door, and take a few minutes to calm down. <strong>Never shake a baby</strong>; it can cause serious brain injury. The UK's <a href=\"https://iconcope.org/\" rel=\"noopener\" target=\"_blank\">ICON</a> programme has practical tips. Cry-sis (UK) offers a helpline for parents of crying babies.</p>"
+    },
+    {
+      "h2": "When to see a doctor",
+      "html": "<p class=\"callout warn\">Get medical advice if your baby's cry sounds different (high-pitched or weak), they have a temperature of 38°C or higher (under 3 months), they're not feeding or have fewer wet nappies, they vomit green, have blood in their poo, or seem floppy or unwell. Call 999 / 911 if they have trouble breathing or are unresponsive.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When does colic stop?",
+      "a": "Colic usually improves by 3 to 4 months, and almost always by 6 months, according to the NHS."
+    },
+    {
+      "q": "Can breastfeeding mums change their diet to help colic?",
+      "a": "Sometimes a health professional may suggest cutting out certain foods if there’s a sign of allergy, but don’t make big changes without advice. Talk to your GP, health visitor or paediatrician."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Colic",
+      "url": "https://www.nhs.uk/conditions/colic/"
+    },
+    {
+      "title": "ICON: Babies cry, you can cope",
+      "url": "https://iconcope.org/"
+    },
+    {
+      "title": "Cry-sis",
+      "url": "https://www.cry-sis.org.uk/"
+    },
+    {
+      "title": "AAP: Colic relief tips for parents (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Colic.aspx"
+    },
+    {
+      "title": "National Center on Shaken Baby Syndrome: Period of PURPLE Crying",
+      "url": "https://dontshake.org/purple-crying"
+    }
+  ],
+  "related": [
+    "newborn",
+    "resources",
+    "sleep"
+  ],
+  "keywords": [
+    "colic",
+    "colic baby",
+    "signs of colic",
+    "colic remedies",
+    "crying baby",
+    "purple crying",
+    "how to soothe a colicky baby",
+    "baby crying in evening"
+  ],
+  "cardText": "Signs of colic, soothing ideas and how to cope."
+}

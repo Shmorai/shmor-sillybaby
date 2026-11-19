@@ -1,0 +1,131 @@
+{
+  "updated": "2026-11-18",
+  "slug": "care/teething",
+  "nav": "Teething",
+  "title": "Baby Teething: Signs, Soothing and First Teeth Care",
+  "description": "Baby teething explained: when first teeth appear, common signs, safe ways to soothe sore gums, what to avoid (amber necklaces) and brushing first teeth.",
+  "eyebrow": "Care how-tos",
+  "h1": "Teething: tiny teeth, big feelings",
+  "intro": "Dribble, chewing everything, red cheeks and the odd grumpy night. Here is what helps sore gums, what to avoid and how to look after those first teeth.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1491013516836-7db643ee125a",
+    "alt": "A baby holding a wooden toy block",
+    "credit": "Colin Maynard",
+    "creditUrl": "https://unsplash.com/@fromnineteen80"
+  },
+  "sections": [
+    {
+      "h2": "When do babies start teething?",
+      "html": "<p>The NHS says some babies are born with their first teeth, while others start teething before 4 months and some after 12 months, but most start at around 6 months. Most children have all 20 baby teeth by about 2½ years.</p>"
+    },
+    {
+      "h2": "Signs of teething",
+      "html": "<ul><li>Sore, red gums where the tooth is coming through</li><li>A mild temperature (less than 38°C) in some babies</li><li>One flushed cheek, dribbling, gnawing and chewing</li><li>Being more fretful than usual and not sleeping well</li></ul><p class=\"callout\">Teething doesn't cause a high temperature (38°C or more) or diarrhoea. If your baby has these, look for another cause and get advice. See <a href=\"/health/fever-in-babies-and-children/\">fever</a>.</p>"
+    },
+    {
+      "h2": "What helps",
+      "html": "<div class=\"cards-3\"><div class=\"mini mint\"><h3>Something to chew</h3><p>A clean, solid teething ring cooled in the fridge (not the freezer).</p></div><div class=\"mini sky\"><h3>Gum rub</h3><p>Gently rub the gum with a clean finger.</p></div><div class=\"mini sun\"><h3>Healthy snacks</h3><p>For babies over 6 months: chilled cucumber or carrot sticks, supervised.</p></div><div class=\"mini pink\"><h3>Comfort</h3><p>Cuddles, distraction and extra patience.</p></div></div><p>If your baby is in pain, ask a pharmacist about sugar-free paracetamol or ibuprofen suitable for their age.</p>"
+    },
+    {
+      "h2": "What to avoid",
+      "html": "<ul><li><strong>Amber teething necklaces, bracelets and anklets:</strong> the FDA warns they can cause strangulation and choking.</li><li><strong>Benzocaine teething gels</strong>: the FDA advises against them for children under 2. In the UK, ask a pharmacist before using any teething gel.</li><li><strong>Homeopathic teething tablets</strong>: the FDA has warned against them.</li><li>Frozen teething rings, which can damage gums.</li></ul>"
+    },
+    {
+      "h2": "Brushing first teeth",
+      "html": "<p>Start brushing as soon as the first tooth appears, twice a day (last thing at night and one other time). NHS advice: under 3s, a smear of toothpaste with at least 1,000ppm fluoride; 3 to 6 year olds, a pea-sized amount with 1,000 to 1,500ppm. Spit, don't rinse. Take your child to the dentist when the first teeth appear (NHS dental care is free for under-18s in the UK); the AAP and American Academy of Pediatric Dentistry advise a first dental visit by the first birthday.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Teething and tooth kit",
+      "items": [
+        {
+          "icon": "sparkles",
+          "title": "Teething rings and toys",
+          "age": "3 m+",
+          "text": "Safe things to chew.",
+          "checks": [
+            "Solid, not liquid-filled",
+            "Cool in the fridge, not the freezer",
+            "No beads, cords or necklaces"
+          ]
+        },
+        {
+          "icon": "droplet",
+          "title": "First toothbrush and toothpaste",
+          "age": "First tooth",
+          "text": "Start the habit early.",
+          "checks": [
+            "Small, soft-bristled head",
+            "Fluoride toothpaste (at least 1,000ppm)",
+            "A smear for under-3s"
+          ]
+        },
+        {
+          "icon": "heart",
+          "title": "Dribble bibs",
+          "age": "3–18 m",
+          "text": "Keep chins dry and avoid rashes.",
+          "checks": [
+            "Absorbent with waterproof backing",
+            "Remove for sleep"
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does teething cause a fever?",
+      "a": "Teething can cause a slightly raised temperature in some babies, but the NHS says a high temperature (38°C or more) isn’t caused by teething. If your baby has a fever, check for other causes and get advice if you’re worried."
+    },
+    {
+      "q": "Are amber teething necklaces safe?",
+      "a": "No. The US FDA warns that teething necklaces, bracelets and anklets can cause strangulation and choking, and there’s no good evidence they work."
+    },
+    {
+      "q": "When should my baby first see a dentist?",
+      "a": "The NHS suggests taking your child to the dentist when their first teeth appear. The AAP and American Academy of Pediatric Dentistry recommend a first dental visit by the first birthday."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Baby teething symptoms",
+      "url": "https://www.nhs.uk/baby/babys-development/teething/baby-teething-symptoms/"
+    },
+    {
+      "title": "NHS: Looking after your baby’s teeth",
+      "url": "https://www.nhs.uk/baby/babys-development/teething/looking-after-your-babys-teeth/"
+    },
+    {
+      "title": "FDA: Safely soothing teething pain and sensory needs in babies and older children",
+      "url": "https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-and-sensory-needs-babies-and-older-children"
+    },
+    {
+      "title": "NHS: Children’s teeth",
+      "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/taking-care-of-childrens-teeth/"
+    },
+    {
+      "title": "AAP: Teething pain relief (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/ages-stages/baby/teething-tooth-care/Pages/Teething-Pain.aspx"
+    }
+  ],
+  "related": [
+    "care",
+    "baby",
+    "health/fever-in-babies-and-children",
+    "health"
+  ],
+  "keywords": [
+    "teething",
+    "baby teething symptoms",
+    "teething age",
+    "teething remedies",
+    "amber necklace teething",
+    "first tooth",
+    "baby toothpaste",
+    "when do babies get teeth"
+  ],
+  "cardText": "Signs, safe soothing, what to avoid and first brushing."
+}

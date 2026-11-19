@@ -1,0 +1,116 @@
+{
+  "updated": "2026-11-18",
+  "slug": "care/nappy-changing",
+  "nav": "Nappy changing",
+  "title": "How to Change a Nappy (Diaper) and Treat Nappy Rash",
+  "description": "How to change a nappy or diaper step by step, how often to change, cloth vs disposable, and how to prevent and treat nappy rash, plus when to see a doctor.",
+  "eyebrow": "Care how-tos",
+  "h1": "Nappies (diapers), made easy",
+  "intro": "You will change a lot of nappies, so let us make it quick, clean and comfy, and keep nappy rash away.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1573662012516-5cb4399006e7",
+    "alt": "A cloth nappy with a red owl print",
+    "credit": "Laura Ohlman",
+    "creditUrl": "https://unsplash.com/@ohlmanphotography"
+  },
+  "sections": [
+    {
+      "h2": "How to change a nappy in 6 steps",
+      "html": "<ol><li><strong>Get everything ready</strong>: clean nappy, wipes or cotton wool and warm water, a changing mat, and a bag for the dirty nappy.</li><li><strong>Keep one hand on your baby.</strong> The floor is the safest place to change them; never leave a baby alone on a raised surface.</li><li><strong>Open and wipe</strong> away most of the poo with the front of the nappy, then fold it under.</li><li><strong>Clean front to back</strong> (especially for girls) and in the skin folds. For boys, cover the penis with a cloth so you don't get sprayed.</li><li><strong>Let the skin dry</strong>, add a thin barrier cream if needed.</li><li><strong>Fasten the new nappy</strong> snugly but not tight (two fingers at the waist). For newborns, fold it below the cord stump. Wash your hands.</li></ol>"
+    },
+    {
+      "h2": "How often, and what is normal",
+      "html": "<p>Change your baby's nappy when it is wet or dirty, which in the newborn weeks may be 10 to 12 times a day, then fewer as they grow. Newborn poos change from dark, sticky meconium in the first days to yellow (breastfed) or yellow-brown (formula-fed). Tell your midwife, health visitor or doctor about pale or chalky poo, black poo after the first few days, or blood in the nappy.</p>"
+    },
+    {
+      "h2": "Nappy rash: prevention and treatment",
+      "html": "<div class=\"cards-3\"><div class=\"mini mint\"><h3>Change often</h3><p>Change wet or dirty nappies as soon as you can.</p></div><div class=\"mini sky\"><h3>Gentle cleaning</h3><p>Water or fragrance-free wipes; pat dry, don’t rub.</p></div><div class=\"mini sun\"><h3>Nappy-free time</h3><p>Let your baby kick without a nappy on a towel.</p></div><div class=\"mini pink\"><h3>Barrier cream</h3><p>A thin layer of barrier cream; ask a pharmacist which.</p></div></div><p>See a GP, health visitor or doctor if the rash doesn't clear after a few days of treatment, looks bright red with spots spreading into the skin folds (could be thrush), has blisters or pus, or your baby has a fever.</p>"
+    },
+    {
+      "h2": "Cloth or disposable?",
+      "html": "<p>Both work. Reusable (cloth) nappies cost more at the start and need washing, but can be used many times and for more than one child; disposables are convenient. Some UK councils offer reusable nappy schemes or vouchers, so check your council's website. Whatever you use, make sure it fits well at the legs and waist.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Changing kit",
+      "items": [
+        {
+          "icon": "check",
+          "title": "Nappies (diapers)",
+          "age": "0–3 y",
+          "text": "Disposable, reusable or a mix.",
+          "checks": [
+            "Right size for weight (check the pack bands)",
+            "Snug at legs and waist without red marks",
+            "Reusables: a starter kit before committing"
+          ]
+        },
+        {
+          "icon": "droplet",
+          "title": "Wipes and barrier cream",
+          "age": "0–3 y",
+          "text": "Gentle on new skin.",
+          "checks": [
+            "Water or fragrance-free wipes for newborns",
+            "A barrier cream recommended by your pharmacist",
+            "Avoid talc"
+          ]
+        },
+        {
+          "icon": "house",
+          "title": "Changing mat",
+          "age": "0–2 y",
+          "text": "Wipe-clean and padded.",
+          "checks": [
+            "Use on the floor if possible",
+            "Raised changing units: never step away",
+            "Easy to clean"
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I wake my baby to change a nappy?",
+      "a": "Not usually for a wet nappy at night if your baby is comfortable, especially with a good absorbent nappy. Change dirty nappies to protect the skin, and if your baby has nappy rash."
+    },
+    {
+      "q": "What does a healthy newborn poo look like?",
+      "a": "After the dark, sticky meconium of the first days, breastfed babies usually have runny, mustard-yellow poo and formula-fed babies firmer, yellow-brown poo. Pale, chalky, white or black (after the first days) poo should be checked by a health professional."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Nappy rash",
+      "url": "https://www.nhs.uk/baby/caring-for-a-newborn/nappy-rash/"
+    },
+    {
+      "title": "NHS: How to change your baby’s nappy",
+      "url": "https://www.nhs.uk/baby/caring-for-a-newborn/how-to-change-your-babys-nappy/"
+    },
+    {
+      "title": "AAP: Diaper rash (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Diaper-Rash.aspx"
+    }
+  ],
+  "related": [
+    "care",
+    "newborn",
+    "baby-diary",
+    "care/bathing-your-baby"
+  ],
+  "keywords": [
+    "how to change a nappy",
+    "how to change a diaper",
+    "nappy rash",
+    "diaper rash",
+    "newborn poo",
+    "cloth nappies",
+    "reusable nappies",
+    "diaper rash cream"
+  ],
+  "cardText": "Six-step nappy change, normal poos and nappy rash."
+}

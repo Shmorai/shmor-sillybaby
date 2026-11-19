@@ -1,0 +1,114 @@
+{
+  "updated": "2026-11-18",
+  "slug": "care/bathing-your-baby",
+  "nav": "Bath time",
+  "title": "How to Bath a Baby Safely: Water Temperature and Tips",
+  "description": "How to bath a newborn and baby safely: top and tail washes, the right water temperature, how often to bath, cord care and the safety rules.",
+  "eyebrow": "Care how-tos",
+  "h1": "Bath time, safely and happily",
+  "intro": "Bath time can be a lovely, calming part of the day. A little preparation keeps it safe and stress-free.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1609220361664-a5cd02bc7345",
+    "alt": "A baby sitting in a bath",
+    "credit": "Nathan Dumlao",
+    "creditUrl": "https://unsplash.com/@nate_dumlao"
+  },
+  "sections": [
+    {
+      "h2": "Top and tail (newborns)",
+      "html": "<p>A top-and-tail wash is all a newborn needs on most days. Use cotton wool and warm water (no soap): wipe each eye from the nose outwards with a fresh piece, then the face, neck and hands, and finally the nappy area. In the US, the AAP suggests sponge baths until the umbilical cord stump falls off.</p>"
+    },
+    {
+      "h2": "Bath in 7 steps",
+      "html": "<ol><li>Make sure the room is warm and have a towel, clean nappy and clothes ready.</li><li>Fill the bath with 8 to 10cm (3 to 4 inches) of water. Run the cold first, then the hot, and mix well.</li><li>Check the temperature: about 37 to 38°C, or test with your elbow (it should feel warm, not hot). A bath thermometer helps.</li><li>Undress your baby, keep the nappy on until the last moment.</li><li>Lower your baby in gently, supporting the head and neck with one hand.</li><li>Wash with plain water for young babies (or a mild, unperfumed baby cleanser), keeping your hand on them the whole time.</li><li>Lift out, wrap in a towel and pat dry, especially in the creases.</li></ol><p class=\"callout warn\"><strong>Never leave your baby alone in the bath, not even for a second.</strong> If the doorbell or phone rings, take your baby with you. Bath seats and rings are not safety devices.</p>"
+    },
+    {
+      "h2": "How often?",
+      "html": "<p>The NHS says 2 or 3 baths a week is fine for babies, with top-and-tail washes in between. Many families use a bath as part of a calming bedtime routine as their baby gets older.</p>"
+    },
+    {
+      "h2": "Newborn skin and cord care",
+      "html": "<p>Newborn skin can be dry or peel in the first weeks; it usually settles without treatment. Avoid perfumed products. Keep the cord stump clean and dry and let it fall off on its own. Tell your midwife if it looks red, swollen, oozes or smells.</p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "shelf",
+      "title": "Bath kit",
+      "items": [
+        {
+          "icon": "bath",
+          "title": "Baby bath or bath support",
+          "age": "0–12 m",
+          "text": "Makes holding easier.",
+          "checks": [
+            "Non-slip and stable",
+            "Still never leave baby alone",
+            "Easy to drain and store"
+          ]
+        },
+        {
+          "icon": "thermometer",
+          "title": "Bath thermometer",
+          "age": "0–3 y",
+          "text": "Peace of mind.",
+          "checks": [
+            "Clear reading around 37–38°C",
+            "Waterproof and easy to clean",
+            "Still mix and test with your elbow"
+          ]
+        },
+        {
+          "icon": "heart",
+          "title": "Hooded towels",
+          "age": "0–3 y",
+          "text": "Cosy after the bath.",
+          "checks": [
+            "Soft, absorbent cotton",
+            "Easy to wrap one-handed"
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What temperature should a baby’s bath be?",
+      "a": "Around 37 to 38°C (about 98.6 to 100.4°F). Mix well, test with your elbow or a bath thermometer, and run cold water first."
+    },
+    {
+      "q": "Can I use bubble bath for my baby?",
+      "a": "Plain water is best for young babies. The NHS suggests avoiding soaps, bubble baths and perfumed products in the first month; after that, use a mild, unperfumed product if needed."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Washing and bathing your baby",
+      "url": "https://www.nhs.uk/baby/caring-for-a-newborn/washing-and-bathing-your-baby/"
+    },
+    {
+      "title": "AAP: Bathing your baby (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/ages-stages/baby/bathing-skin-care/Pages/Bathing-Your-Newborn.aspx"
+    },
+    {
+      "title": "Child Accident Prevention Trust (CAPT)",
+      "url": "https://capt.org.uk/"
+    }
+  ],
+  "related": [
+    "care",
+    "newborn",
+    "safety/childproofing",
+    "care/nappy-changing"
+  ],
+  "keywords": [
+    "how to bath a baby",
+    "baby bath temperature",
+    "newborn bath",
+    "top and tail",
+    "how often to bathe a baby",
+    "bath safety",
+    "sponge bath newborn"
+  ],
+  "cardText": "Top and tail, bath temperature and safety rules."
+}
