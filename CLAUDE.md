@@ -1,6 +1,6 @@
 # SillyBaby (sillybaby.shmor.ai)
 
-A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design and SEO. Playful, fact-checked baby and child care guides for young and first-time parents (mainly mums) in the US, UK and Europe, from newborn to age 12: feeding, sleep, milestones, health, safety, care how-tos, gear (with "what to look for" product shelves ready for referral links), play, a printable baby diary and a blog. Repo: `Shmorai/shmor-sillybaby` (private until launch). Status: **building** (pre-launch: not public, no DNS, not submitted to Google; created 2026-11-18).
+A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design and SEO. Playful, fact-checked baby and child care guides for young and first-time parents (mainly mums) in the US, UK and Europe, from newborn to age 12: feeding, sleep, milestones, health, safety, care how-tos, gear (with "what to look for" product shelves ready for referral links), play, a printable baby diary and a blog. Repo: `Shmorai/shmor-sillybaby` (public). Status: **live** since 2026-11-19 (created 2026-11-18). Repo public, GitHub Pages from main with HTTPS enforced; DNS CNAME `sillybaby` → `shmorai.github.io` added by the user in 123 Reg (123 Reg blocks the Claude-controlled Chrome tab with "Your browser is a bit unusual", so the user adds DNS records in an incognito window).
 
 ## Where things are
 | What | Where |
@@ -39,11 +39,12 @@ Cream pages #FFF8F2, deep grape ink/hero #2A2350 → #3D2F73 with confetti dots 
 - Starter posts are dated 10–18 Nov 2026. Since 2026-11-19 the cloud routine "Shmor blog writer 3: Cover & care" (trig_01HLz8GjRuiL4wVxyhyAD6rm, Mon/Wed/Fri 17:00 UTC) adds one post per run here, following `shmor-ai/tools/blog-routine/PROMPT.md`. Posts must stay official-source only and keep any partner placement safe-sleep compliant.
 - Social posts (Buffer: Facebook, X, LinkedIn) and the "Shmor.ai social posts" calendar diary pick up SillyBaby automatically once it is `live` (they read `network-index.json`, which now lists live sites only). Until launch it stays out of Shmor Daily, the weekly email and other sites' network boxes.
 
-## Going live (only when the user says "launch")
-1. `shmor-site.json` → `"status": "live"`, rebuild, `node tools/sync-network.js` + `node tools/rebuild-all.js` in `../../shmor-ai`.
-2. GitHub: make the repo public, Pages from `main` / root, custom domain `sillybaby.shmor.ai` (CNAME file is already here), enforce HTTPS.
-3. DNS (never touch MX/SPF): CNAME `sillybaby` → `shmorai.github.io`.
-4. Google Search Console (youtube@shmor.ai): open https://search.google.com/search-console/sitemaps?resource_id=https%3A%2F%2Fsillybaby.shmor.ai%2F → "Verify your ownership" (auto via `sc-domain:shmor.ai`) → submit `sitemap.xml`; request indexing for the homepage, safe-sleep, starting-solids and milestones. Then Bing Webmaster Tools → Import from GSC, and `node --use-system-ca tools/indexnow.js` in shmor-ai after pushing.
+## Launch record (2026-11-19)
+- Status live, shmor.ai synced (card Live, search routing, /marketplaces/, sitemap-network.xml, Shmor Daily). Network index includes it, so social posts, the weekly email and other sites’ network boxes now pick it up.
+- Pages certificate only issued after removing and re-adding the custom domain via the Pages API (this commits "Delete CNAME" / "Create CNAME" to main; pull before pushing).
+- Google Search Console (youtube@shmor.ai): URL-prefix property auto-verified via `sc-domain:shmor.ai`, `sitemap.xml` submitted, homepage indexing requested. Next: request indexing for /sleep/safe-sleep/, /feeding/starting-solids/, /milestones/ (about 10 URLs a day limit).
+- IndexNow: all 35 URLs accepted (HTTP 202).
+- Bing Webmaster Tools: not yet added (needs the user’s sign-in): Add site → Import from GSC.
 
 ## Commands (run here)
 ```bash
