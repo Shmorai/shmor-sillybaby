@@ -36,7 +36,7 @@ Cream pages #FFF8F2, deep grape ink/hero #2A2350 → #3D2F73 with confetti dots 
 - More partners wanted: nappies/diapers, prams/car seats (only R129/FMVSS 213 stock), feeding kit, toys/books, kids' clothing. Every shelf card already accepts `"link"` + `"cta"`.
 
 ## Blog, social and diary
-- Starter posts are dated 10–18 Nov 2026. Add SillyBaby to a weekly blog routine (`shmor-ai/tools/blog-routine/PROMPT.md`) once the repo is on GitHub; posts must stay official-source only and keep any partner placement safe-sleep compliant.
+- Starter posts are dated 10–18 Nov 2026. Since 2026-11-19 the cloud routine "Shmor blog writer 3: Cover & care" (trig_01HLz8GjRuiL4wVxyhyAD6rm, Mon/Wed/Fri 17:00 UTC) adds one post per run here, following `shmor-ai/tools/blog-routine/PROMPT.md`. Posts must stay official-source only and keep any partner placement safe-sleep compliant.
 - Social posts (Buffer: Facebook, X, LinkedIn) and the "Shmor.ai social posts" calendar diary pick up SillyBaby automatically once it is `live` (they read `network-index.json`, which now lists live sites only). Until launch it stays out of Shmor Daily, the weekly email and other sites' network boxes.
 
 ## Going live (only when the user says "launch")
