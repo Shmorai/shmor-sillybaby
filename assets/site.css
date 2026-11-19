@@ -545,3 +545,17 @@ main > .related, main > .network-links { order: 3; }
 main > .cta-band { order: 4; }
 /* Diagrams stay legible on phones: scroll sideways inside their card rather than shrinking the text */
 @media (max-width: 640px) { .diagram { overflow-x: auto; padding: 12px; } .diagram svg { min-width: 560px; } }
+
+/* Compact footer: the long guides list flows into columns instead of one tall column */
+.foot-cols { grid-template-columns: 1.1fr 3.2fr .9fr .9fr; gap: 28px 32px; }
+.foot-guides ul { display: block; columns: 4 125px; column-gap: 22px; }
+.foot-guides li { break-inside: avoid; margin: 0 0 7px; font-size: 13.5px; line-height: 1.35; }
+.site-footer { padding-bottom: 24px; }
+.disclosure { margin-top: 20px; padding-top: 14px; font-size: 12.5px; }
+.disclosure + .disclosure { border-top: 0; margin-top: 8px; padding-top: 0; }
+@media (max-width: 900px) {
+  .foot-cols { grid-template-columns: 1fr 1fr; }
+  .foot-cols > div:first-child, .foot-guides { grid-column: 1 / -1; }
+  .foot-guides ul { columns: 3 120px; }
+}
+@media (max-width: 420px) { .foot-guides ul { columns: 2; } }
