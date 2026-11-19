@@ -1,0 +1,68 @@
+{
+  "updated": "2026-11-19",
+  "slug": "sign-up",
+  "nav": "Sign up",
+  "navOrder": 12,
+  "title": "Free Weekly Baby Email: SillyBaby Sign Up",
+  "description": "Sign up for the free SillyBaby weekly email: new blog posts, baby tech and gear explained, age-by-age guides and fact-checked advice. Unsubscribe any time.",
+  "eyebrow": "Free weekly email",
+  "h1": "Join the SillyBaby weekly email",
+  "h1Html": "Join the SillyBaby <span class=\"hl\">weekly email</span>",
+  "intro": "One friendly email a week with our newest blog posts, baby tech and gear explained, age-by-age guides and gentle, fact-checked advice. Free, and you can unsubscribe any time.",
+  "search": false,
+  "ctaSearch": false,
+  "image": {
+    "src": "https://images.unsplash.com/photo-1778276551433-75420636007d",
+    "alt": "A happy mother and baby smiling together",
+    "credit": "Rashmi Kalburgie",
+    "creditUrl": "https://unsplash.com/@rkalburgie"
+  },
+  "blocks": [
+    {
+      "type": "signup",
+      "position": "top",
+      "title": "Sign up in 20 seconds",
+      "anchor": "weekly",
+      "class": "is-top"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What you will get",
+      "html": "<ul><li><strong>New blog posts</strong>, such as our guides to <a href=\"/blog/tog-ratings-explained/\">TOG ratings</a> and <a href=\"/blog/winter-baby-care/\">winter baby care</a>.</li><li><strong>Baby tech and gear explained</strong>: what to look for in car seats, sleep bags, monitors and more, with the safety labels that matter (see our <a href=\"/gear/\">baby gear guide</a>).</li><li><strong>Age-by-age guides</strong> from <a href=\"/newborn/\">newborn</a> to <a href=\"/big-kids/\">big kids</a>.</li><li><strong>Seasonal, fact-checked advice</strong> based on official guidance from the NHS, CDC and AAP.</li></ul><p>The SillyBaby update is sent as part of the <strong>Shmor Weekly</strong>, the free weekly email from the Shmor.ai network that SillyBaby belongs to.</p>"
+    },
+    {
+      "h2": "Your details and privacy",
+      "html": "<p>We ask for your full name, email, country and phone number. We use them only to send the updates you sign up for, and we never sell them. Texts are optional and only sent if you tick that box. Every email has an unsubscribe link. To prevent spam we also record when you signed up and your IP address. Read the full <a href=\"https://shmor.ai/privacy/\">Shmor.ai privacy policy</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the SillyBaby email free?",
+      "a": "Yes. It is completely free, and you can unsubscribe at any time from the link in every email."
+    },
+    {
+      "q": "How often will you email me?",
+      "a": "Once a week. We may very occasionally send a seasonal safety reminder, but never daily emails."
+    },
+    {
+      "q": "Why do you ask for my phone number?",
+      "a": "So we can text you occasional updates if you choose to (that box is optional). We never share or sell your number."
+    }
+  ],
+  "related": [
+    "blog",
+    "ages",
+    "gear"
+  ],
+  "keywords": [
+    "baby newsletter",
+    "parenting newsletter",
+    "free baby email",
+    "new mom newsletter",
+    "baby tips email",
+    "weekly parenting email"
+  ],
+  "cardText": "Free weekly email: new posts, baby tech, guides and advice.",
+  "byline": false
+}

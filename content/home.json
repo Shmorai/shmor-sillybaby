@@ -111,6 +111,10 @@
           "text": "Independence, screens and body changes."
         }
       ]
+    },
+    {
+      "type": "signup",
+      "anchor": "weekly"
     }
   ],
   "highlightsTitle": "Why parents like it here",

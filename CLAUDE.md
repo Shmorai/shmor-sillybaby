@@ -13,8 +13,8 @@ A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design a
 | Self-hosted partner banners | `assets/img/partners/` |
 | Generated output (don't edit by hand) | `index.html`, `*/index.html`, `sitemap.xml`, `robots.txt`, `404.html`, `search/` |
 
-## Pages (35)
-Home · ages (hub) · newborn (0–3m) · baby (3–12m) · toddler (1–3) · preschool (3–5) · school-age (5–8) · big-kids (8–12) · feeding (hub) + feeding/breastfeeding, feeding/formula-and-bottle-feeding, feeding/starting-solids · sleep (hub, sleep-by-age chart) + sleep/safe-sleep (cot diagram) · milestones (timeline) · health (hub) + health/fever-in-babies-and-children · safety/car-seats (stages diagram) · safety/childproofing · care (hub) + care/nappy-changing, care/bathing-your-baby, care/teething, care/potty-training · gear · play-and-learning · baby-diary (printable log; menus hide when printed) · resources (official sources, helplines, real creators) · how-we-write (editorial standards, linked from the byline bar) · blog + 5 posts (tog-ratings-explained, hospital-bag-checklist, first-week-with-a-newborn, colic-signs-and-soothing, winter-baby-care).
+## Pages (36)
+Home · ages (hub) · newborn (0–3m) · baby (3–12m) · toddler (1–3) · preschool (3–5) · school-age (5–8) · big-kids (8–12) · feeding (hub) + feeding/breastfeeding, feeding/formula-and-bottle-feeding, feeding/starting-solids · sleep (hub, sleep-by-age chart) + sleep/safe-sleep (cot diagram) · milestones (timeline) · health (hub) + health/fever-in-babies-and-children · safety/car-seats (stages diagram) · safety/childproofing · care (hub) + care/nappy-changing, care/bathing-your-baby, care/teething, care/potty-training · gear · play-and-learning · baby-diary (printable log; menus hide when printed) · resources (official sources, helplines, real creators) · how-we-write (editorial standards, linked from the byline bar) · sign-up (weekly email) · blog + 5 posts (tog-ratings-explained, hospital-bag-checklist, first-week-with-a-newborn, colic-signs-and-soothing, winter-baby-care).
 Top menu (navOrder): By age, Feeding, Sleep, Milestones, Health, Care, Baby gear, Blog. Play, Diary and Resources are in the footer and linked in content.
 
 ## Design: "nursery confetti"
@@ -45,6 +45,12 @@ Cream pages #FFF8F2, deep grape ink/hero #2A2350 → #3D2F73 with confetti dots 
 - Google Search Console (youtube@shmor.ai): URL-prefix property auto-verified via `sc-domain:shmor.ai`, `sitemap.xml` submitted, homepage indexing requested. Next: request indexing for /sleep/safe-sleep/, /feeding/starting-solids/, /milestones/ (about 10 URLs a day limit).
 - IndexNow: all 35 URLs accepted (HTTP 202).
 - Bing Webmaster Tools: not yet added (needs the user’s sign-in): Add site → Import from GSC.
+
+## Weekly email sign-up (added 2026-11-19)
+- Page `/sign-up/` (top menu "Sign up" pill, footer) plus a sign-up band on the home page and blog index (`"type": "signup"` block in `tools/blocks.js`, behaviour in `assets/signup.js`). Fields: full name, email, country, phone (all required), email consent (required), SMS consent (optional), spam trap.
+- It posts to the network’s Google Form → Google Sheet **"Shmor Network Sign-ups (MASTER)"** (youtube@shmor.ai), the same as the Shmor Weekly on shmor.ai, with IP (ipify), source = the SillyBaby page URL (filter the Source column for `sillybaby.shmor.ai` to see SillyBaby sign-ups), region and browser. Field codes are copied from `shmor-ai/assets/js/config.js` → `SITE.signup`: if the form changes, update `assets/signup.js` too.
+- Consent wording says the SillyBaby update is sent as part of the **Shmor Weekly**, because the existing sender (Apps Script + Brevo) emails everyone with email consent the network digest. A SillyBaby-only email would need its own list/segment in the sender before the wording changes.
+- Privacy: covered by https://shmor.ai/privacy/ (Shmor Weekly sign-ups). Tested 2026-11-19 with the Google request intercepted (no test row added to the sheet).
 
 ## Commands (run here)
 ```bash

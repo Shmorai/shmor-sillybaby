@@ -22,5 +22,11 @@
     "new mum tips",
     "first time parents"
   ],
-  "cardText": "Practical, fact-checked posts for new parents."
+  "cardText": "Practical, fact-checked posts for new parents.",
+  "blocks": [
+    {
+      "type": "signup",
+      "anchor": "weekly"
+    }
+  ]
 }
