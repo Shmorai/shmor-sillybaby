@@ -1,0 +1,79 @@
+{
+  "eyebrow": "Car safety",
+  "title": "Car Seats and Winter Coats: Why Puffy Jackets Don't Mix",
+  "description": "Why bulky winter coats and snowsuits are unsafe under a car seat harness, how to check the fit, and warm alternatives for babies and toddlers in cold weather.",
+  "h1": "Car seats and winter coats: why puffy jackets and harnesses don't mix",
+  "intro": "Cold mornings make wrapping a baby up feel like the safest thing to do. But in a car seat, a thick coat can quietly make the harness too loose. Here is what the guidance says and how to keep your little one warm and secure.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1619719287848-883c8f26efbc",
+    "alt": "A grey and black child car seat in a car",
+    "credit": "Erik Mclean",
+    "creditUrl": "https://unsplash.com/@introspectivedsgn"
+  },
+  "keywords": [
+    "car seat winter coat",
+    "baby car seat coat safety",
+    "puffy coat car seat",
+    "car seat pinch test",
+    "snowsuit in car seat",
+    "keeping baby warm in car seat",
+    "toddler winter coat car seat",
+    "car seat harness fit"
+  ],
+  "cardText": "Why thick coats make the harness loose, and what to do instead.",
+  "sections": [
+    {
+      "h2": "The problem with bulky coats",
+      "html": "<p>The American Academy of Pediatrics (AAP) explains on HealthyChildren.org that bulky clothing, including winter coats and snowsuits, can compress in a crash. The padding squashes flat, which can leave the harness straps too loose to hold a child properly. The harness can feel snug while the child is wearing the coat and still have too much slack once the padding is squashed.</p>"
+    },
+    {
+      "h2": "How to check the harness fit",
+      "html": "<p>AAP guidance is to tighten the harness until you cannot pinch any slack in the strap at the child's shoulder, and to place the chest clip at the centre of the chest, level with the armpits. Do the check with your child dressed in thin layers. Always follow the instructions for your own seat, and read our <a href=\"/safety/car-seats/\">car seat guide</a> for the stages from rear-facing to boosters.</p>"
+    },
+    {
+      "h2": "Keep warm without the bulk",
+      "html": "<ul><li>Dress your baby in thin, snug layers, such as a bodysuit, a fleece or sweater and trousers.</li><li>Buckle the harness properly, then put the coat or a blanket over the top of the straps.</li><li>Take a hat, socks and mittens for the journey.</li><li>Warm the car up before you leave, rather than adding thicker layers.</li><li>Remove the coat in the car park, buckle in, then put it back on over the harness if you want.</li></ul><p>The AAP recommends putting a coat or blanket over the buckled harness rather than underneath it. Don't add padding, covers or inserts that did not come with your seat, unless the seat maker made them for that model. For layering ideas see our <a href=\"/blog/winter-baby-care/\">winter baby care guide</a>, and for the right sleepwear indoors see <a href=\"/blog/tog-ratings-explained/\">TOG ratings explained</a>.</p>"
+    },
+    {
+      "h2": "Rules and seat choice in the UK",
+      "html": "<p>GOV.UK says children must use a car seat until they are 12 years old or 135 centimetres tall, whichever comes first, and that height-based (R129) seats must face the rear until the child is over 15 months old. Only approved seats can be used, so look for the capital E in a circle and the R129 or ECE R44 label. The AAP advises that all infants ride rear-facing from the first ride home. If you are unsure that your seat is fitted properly, ask a trained car seat technician or the retailer to check it.</p>"
+    },
+    {
+      "h2": "Hot car, cold car: other winter checks",
+      "html": "<p>If your baby falls asleep on a long drive, check them often and take breaks, and never leave a child alone in a car. Our <a href=\"/health/\">health hub</a> lists symptoms that need a call to your health visitor, GP or NHS 111 (UK) or your paediatrician (US). In an emergency call 999 (UK), 911 (US) or 112 (EU).</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can my baby wear a snowsuit in a car seat?",
+      "a": "It is not recommended. The AAP says bulky clothing such as snowsuits can compress in a crash and leave the harness loose. Use thin layers and put a blanket or coat over the buckled harness."
+    },
+    {
+      "q": "How do I know if a harness is tight enough?",
+      "a": "Using the AAP guidance, tighten it until you cannot pinch any slack in the strap at the shoulder, with the chest clip level with the armpits. Always follow your seat's manual."
+    },
+    {
+      "q": "At what age can a baby face forward in the UK?",
+      "a": "For height-based R129 seats, GOV.UK says children must face the rear until over 15 months old. Check your seat's label and manual for its own limits."
+    }
+  ],
+  "sources": [
+    {
+      "title": "HealthyChildren.org (AAP): Car safety seats, information for families",
+      "url": "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx"
+    },
+    {
+      "title": "GOV.UK: Child car seats, the rules",
+      "url": "https://www.gov.uk/child-car-seats-the-rules"
+    }
+  ],
+  "related": [
+    "safety/car-seats",
+    "blog/winter-baby-care",
+    "gear"
+  ],
+  "updated": "2026-11-20",
+  "date": "2026-11-20",
+  "slug": "blog/car-seats-and-winter-coats",
+  "type": "post"
+}
