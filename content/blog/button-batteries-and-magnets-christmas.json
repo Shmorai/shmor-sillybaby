@@ -1,0 +1,83 @@
+{
+  "eyebrow": "Safety",
+  "title": "Button Batteries and Magnets: Keep Little Ones Safe",
+  "description": "Button batteries and strong magnets are hidden dangers in Christmas gifts and gadgets. Learn where they hide, how to store them and what to do if swallowed.",
+  "h1": "Button batteries and magnets: the hidden Christmas danger for babies and toddlers",
+  "intro": "Christmas brings new toys, light-up gifts, musical cards and spare batteries into the house. Two small items need special care: button batteries and strong magnets. Here is where they hide, how to keep them out of reach and what the NHS and GOV.UK say to do if a child swallows one.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1495131292899-bc096577e8f5",
+    "alt": "A baby pulling up on the side of a crib",
+    "credit": "Alexander Dummer",
+    "creditUrl": "https://unsplash.com/@4dgraphic"
+  },
+  "keywords": [
+    "button battery swallowed child",
+    "button battery safety",
+    "magnets swallowed toddler",
+    "christmas toy safety baby",
+    "what to do if child swallows battery",
+    "button battery in toys",
+    "baby proofing christmas",
+    "strong magnets children danger"
+  ],
+  "cardText": "Where button batteries and magnets hide, and what to do if a child swallows one.",
+  "sections": [
+    {
+      "h2": "Why button batteries and magnets are so risky",
+      "html": "<p>GOV.UK's Office for Product Safety and Standards explains that a swallowed button battery reacts with saliva and can burn a hole in the food pipe, causing internal bleeding. Strong magnets are a different problem: if a child swallows more than one, they can pull together across the bowel and squeeze the tissue between them, cutting off its blood supply. Great Ormond Street Hospital (GOSH) adds that symptoms may not show straight away.</p><p>Both are easy to miss because they are small, shiny and found in everyday things. A baby who puts everything in their mouth, or a toddler who copies an older sibling, can swallow one in seconds.</p>"
+    },
+    {
+      "h2": "Where button batteries hide at Christmas",
+      "html": "<p>GOSH lists watches, calculators, remote controls, electronic toys, car key fobs, LED lights, digital thermometers and sound-making greeting cards. Add flashing party favours, tea lights, singing cards and novelty gifts, and the number of batteries in a house goes up fast at this time of year.</p><ul><li>Check the battery compartment on every new toy: it should need a screwdriver or a firm lock to open.</li><li>Keep spare batteries in their original packaging, out of sight and out of reach.</li><li>Tape shut the compartment on remotes, key fobs and light-up decorations if it opens easily.</li><li>Put dead batteries in a battery recycling container straight away. GOSH notes that used batteries can still be dangerous.</li></ul>"
+    },
+    {
+      "h2": "Magnets: check toys and gifts",
+      "html": "<p>GOV.UK highlights a case where a 22-month-old swallowed 14 high-powered magnets that had been bought online as a gift for an older brother, and needed major surgery. The warning is to be careful about what you buy and where you buy it from, especially magnet sets sold as toys or desk gadgets. Keep these away from babies and toddlers, and ask relatives who are buying gifts to avoid them for homes with young children.</p><p>For the wider picture, see our <a href=\"/safety/childproofing/\">childproofing guide</a>, which covers the other hazards that crawlers and walkers can reach.</p>"
+    },
+    {
+      "h2": "If you think your child has swallowed one",
+      "html": "<p>Both GOV.UK and GOSH give the same core advice:</p><ul><li>Take your child to the nearest A&amp;E (emergency department) straight away, or call 999 in the UK (911 in the US), even if they seem fine.</li><li>Do not give food or drink and do not try to make them sick.</li><li>Take the packaging, toy or gadget with you if you can, but do not delay leaving to look for it.</li><li>If you are not sure whether something was swallowed, the NHS advises calling 111 for advice.</li></ul><p>In the US, go to the emergency room or call 911; you can also call Poison Help on 1-800-222-1222 for advice on the way.</p>"
+    },
+    {
+      "h2": "A quick Christmas safety walk-round",
+      "html": "<p>Before the wrapping paper comes out, take five minutes to check each room at a child's eye level. Look under the sofa, on low shelves and inside bags and stockings, where small items and loose batteries end up. Put new gifts that contain batteries or magnets away from little hands until you have checked them. For other seasonal risks, such as decorations and food, read our <a href=\"/blog/winter-baby-care/\">winter baby care guide</a>.</p><p>This is general information, not medical advice. If you are worried about your child, contact NHS 111, your GP or health visitor, or in an emergency call 999 (UK), 911 (US) or 112 (EU).</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my baby swallows a button battery?",
+      "a": "Go to the nearest A&E straight away or call an ambulance. Do not wait for symptoms, do not give food or drink and do not make them vomit (GOV.UK, GOSH)."
+    },
+    {
+      "q": "Do swallowed batteries and magnets always cause symptoms?",
+      "a": "No. GOSH says symptoms may not appear right away, and GOV.UK notes that a case of swallowed magnets was first mistaken for gastroenteritis. Seek urgent help rather than waiting."
+    },
+    {
+      "q": "Are dead button batteries safe?",
+      "a": "Not necessarily. GOSH advises disposing of used batteries promptly in a battery recycling container, because dead batteries can still be dangerous."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK (OPSS): Hidden danger in your home, button batteries and powerful magnets",
+      "url": "https://www.gov.uk/government/news/hidden-danger-in-your-home-button-batteries-and-powerful-magnets"
+    },
+    {
+      "title": "Great Ormond Street Hospital (NHS): Button batteries, using them safely",
+      "url": "https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/button-batteries-using-them-safely/"
+    },
+    {
+      "title": "Alder Hey Children's Hospital (NHS): What to do if your child swallows a button battery",
+      "url": "https://www.alderhey.nhs.uk/what-to-do-if-your-child-swallows-a-button-battery/"
+    }
+  ],
+  "related": [
+    "safety/childproofing",
+    "blog/winter-baby-care",
+    "health"
+  ],
+  "date": "2026-11-23",
+  "updated": "2026-11-23",
+  "slug": "blog/button-batteries-and-magnets-christmas",
+  "type": "post"
+}
